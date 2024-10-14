@@ -11,7 +11,7 @@ Always give your best, even when no one is watching. It's not just about shining
 
 Do not limit or cage yourself. You are capable of much more than you could imagine. 
 
-Old ways won't open new doors. If you want something you've never had, you must be willing to do something you've never done.
+Old ways won't open new doors. If you always do what you've always done, you'll always get what you've always got. If you want something you've never had, you must be willing to do something you've never done.
 
 Try to identify your capability gap and work relentlessly to close it.
 
@@ -169,7 +169,7 @@ Stop avoiding the uncomfortable work you need to do. Do what scares you; what yo
 
 Don't wait. Don't tell yourself you'll warm up to it. Do it now. Do it first. The time will never be just right. The longer you put off a task, the harder it becomes.
 
-[Discipline now, freedom later.](https://x.com/RyanHoliday/status/1698727749165387969) [Only the disciplined ones in life are free.](https://www.youtube.com/shorts/hywDs1dhTOI) The labor will pass, but the rewards will last.
+[Discipline now, freedom later.](https://x.com/RyanHoliday/status/1698727749165387969) Hard now, easy later. [Only the disciplined ones in life are free.](https://www.youtube.com/shorts/hywDs1dhTOI) The labor will pass, but the rewards will last.
 
 [Do hard things.](https://x.com/hubermanlab/status/1720932074318635396?lang=en) Seek intensive hardships to forge self-discipline and self-control. You will feel incredibly great afterwards. Eat the frog. Build your evidence pool. Be accountable and reliable.
 
