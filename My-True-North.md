@@ -1,7 +1,7 @@
 Dear Today Me,
 
 
-Try to be the best version of yourself as you possibly can—that's the reason why you exist on this planet.
+Try to be the best version of yourself as you possibly can—[that's the reason why you exist on this planet.](https://www.youtube.com/watch?v=LS0gSjrlMJc)
 
 Always give your best, even when no one is watching. It's not just about shining. It's about fueling your energy and boosting your confidence. [At the end of the day, you can lay down and rest easy knowing you have made the best of which you're capable and gave it your all.](https://www.goodreads.com/quotes/445606-being-the-richest-man-in-the-cemetery-doesn-t-matter-to)
 
