@@ -295,4 +295,5 @@ At the end of your life, God will only assess you based on how well you help oth
 Ultimately, your success in life is proportional to the number of uncomfortable actions you are willing to take, the number of hard conversations you are willing to initiate, and the number of conversations you finish with “I love you.”
 
 Peace.
+
 Better Me
