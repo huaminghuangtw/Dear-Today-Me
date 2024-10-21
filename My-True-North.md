@@ -20,7 +20,7 @@ Never say never. You don't know what you don't know, the unknown unknowns.
 
 [Keeping the promises you make to yourself. Every single time you keep that promise, you are stacking evidence in favor of the type of person that you want to become.](https://sportsforthesoul.com/john-wooden-9-promises/) Never rationalize.
 
-[Always dream big and think big.](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big) If your dreams don't scare you, you are not dreaming big enough. [The people who are crazy enough to think they can change the world are the ones that do.](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can) When you think big and lose, you often grow more than when you think small and win.
+[Always dream big and think big.](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big) If your dreams don't scare you, you are not dreaming big enough. [The people who are crazy enough to think they can change the world are the ones that do.](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can) If you set your goals ridiculously high and it’s a failure, you will fail above everyone else’s success. When you think big and lose, you often grow more than when you think small and win.
 
 Deliberately train yourself to be very good at suffering, uncommonly resilient, and have a very high level of pain tolerance. Develop world-class mental strength, resilience, and adaptability. Be an ascetic.
 
