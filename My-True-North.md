@@ -4,7 +4,7 @@ Try to be the best version of yourself as you possibly can—[that's the reason 
 
 Always give your best, even when no one is watching. It's not just about shining. It's about fueling your energy and boosting your confidence. [At the end of the day, you can lay down and rest easy knowing you have made the best of which you're capable and gave it your all.](https://www.goodreads.com/quotes/445606-being-the-richest-man-in-the-cemetery-doesn-t-matter-to)
 
-[Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with being the best in the world at whatever you do professionally. [Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) Never do half-reps. Wherever you go, go with all your heart. Otherwise, you’ll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
+[Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with being the best in the world at whatever you do professionally. [Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) Never do half-reps. Wherever you go, go with all your heart. Otherwise, you'll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
 
 [Try to be legendary in your own way.](https://www.youtube.com/watch?v=Ju5kyQJyGBY) Few people get remembered hundreds of years after they die. Live a life worth remembering. [You have nothing to lose.](https://www.youtube.com/watch?v=EBtX9vh9KI4) You only lose what you cling to.
 
@@ -20,7 +20,7 @@ Never say never. You don't know what you don't know, the unknown unknowns.
 
 [Keeping the promises you make to yourself. Every single time you keep that promise, you are stacking evidence in favor of the type of person that you want to become.](https://sportsforthesoul.com/john-wooden-9-promises/) Never rationalize.
 
-[Always dream big and think big.](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big) If your dreams don't scare you, you are not dreaming big enough. [When you want something bad enough, all the universe will conspire in helping you to achieve it.](https://www.goodreads.com/quotes/5647-and-when-you-want-something-all-the-universe-conspires-in) [The people who are crazy enough to think they can change the world are the ones that do.](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can) If you set your goals ridiculously high and it’s a failure, you will fail above everyone else’s success. When you think big and lose, you often grow more than when you think small and win.
+[Always dream big and think big.](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big) If your dreams don't scare you, you are not dreaming big enough. [When you want something bad enough, all the universe will conspire in helping you to achieve it.](https://www.goodreads.com/quotes/5647-and-when-you-want-something-all-the-universe-conspires-in) [The people who are crazy enough to think they can change the world are the ones that do.](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can) If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. When you think big and lose, you often grow more than when you think small and win.
 
 Deliberately train yourself to be very good at suffering, uncommonly resilient, and have a very high level of pain tolerance. Develop world-class mental strength, resilience, and adaptability. Be an ascetic.
 
@@ -60,11 +60,11 @@ You get one life. One chance. One go. [You make yourself either miserable or str
 
 Never forget your childhood dreams. [Have the courage to follow your own heart and intuition — they somehow already know what you truly want to become — everything else is secondary.](https://www.goodreads.com/quotes/445286-have-the-courage-to-follow-your-heart-and-intuition-they)
 
-Let your heart speak. Listen to your instinct. If your heart isn’t in it, don’t start it. Grab the opportunity when it presents itself, and then give it your all.
+Let your heart speak. Listen to your instinct. If your heart isn't in it, don't start it. Grab the opportunity when it presents itself, and then give it your all.
 
 [Life shrinks or expands in proportion to one's courage.](https://x.com/tferriss/status/1771644332367327414#) [Twenty years from now you will regret and be more disappointed by the things that you didn't do than by the ones you did do.](https://www.youtube.com/watch?v=jwG_qR6XmDQ)
 
-[Don't let the noise of others' opinions drown out your own inner voice.](https://www.goodreads.com/quotes/445287-don-t-let-the-noise-of-others-opinions-drown-out-your) A lion doesn't concern himself with the opinions of the sheep. Bees don't waste their time explaining to flies that honey is better than shit. Your time is so limited. Don’t waste it living someone else’s life.
+[Don't let the noise of others' opinions drown out your own inner voice.](https://www.goodreads.com/quotes/445287-don-t-let-the-noise-of-others-opinions-drown-out-your) A lion doesn't concern himself with the opinions of the sheep. Bees don't waste their time explaining to flies that honey is better than shit. Your time is so limited. Don't waste it living someone else's life.
 
 Be your true self. [Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself.](https://www.goodreads.com/quotes/10286222-your-job-throughout-your-entire-life-is-to-disappoint-as)
 
@@ -80,7 +80,7 @@ If you spend your time chasing butterflies, they'll fly away. But if you spend y
 
 Just do yourself. [No one will ever be as good at being you than you are. No one can compete with you on being you.](https://x.com/naval/status/797865441783709696?lang=en) The only person you have to compete against is yourself.
 
-Focus on the internal scorecard, not the external validation. Be primarily internally driven. You don't need to impress anyone but yourself. You become inhumanly strong when you try to impress only one person: YOU. You are always going to win the "YOU" game.
+Focus on the internal scorecard, not the external validation. Be primarily internally driven. You don't need to impress anyone but yourself. You become inhumanly strong when you try to impress only one person: YOU. You are always going to win the “YOU” game.
 
 Be confident, bold, and fearless. [Always stand up straight with your shoulders back.](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) Be decisive. Trust your gut. Remember that no one has it all figured out.
 
@@ -92,7 +92,7 @@ Embrace the uncertainty and randomness in life. Accept things the way as they ar
 
 There is no such thing as a perfect you. It's all about optimization. And optimization is an ongoing process. There is always room for improvement. You are always a work-in-progress. Always seek candid feedback for self-improvement and personal growth.
 
-[Keep your identity small.](https://paulgraham.com/identity.html) Listen very carefully to constructive negative feedback and criticism. Seek for the truth. No ego. [Be humble.](https://fs.blog/david-foster-wallace-this-is-water/) Be coachable. When you let go of what you are, you become what you might be. Enjoy being wrong or looking/sounding "stupid" in a public setting. Embrace that beginner's embarrassment. Approach everything with a beginner's mind. [It's always Day One.](https://www.youtube.com/watch?v=fTwXS2H_iJo&ab_channel=AmazonNews)
+[Keep your identity small.](https://paulgraham.com/identity.html) Listen very carefully to constructive negative feedback and criticism. Seek for the truth. No ego. [Be humble.](https://fs.blog/david-foster-wallace-this-is-water/) Be coachable. When you let go of what you are, you become what you might be. Enjoy being wrong or looking/sounding “stupid” in a public setting. Embrace that beginner's embarrassment. Approach everything with a beginner's mind. [It's always Day One.](https://www.youtube.com/watch?v=fTwXS2H_iJo&ab_channel=AmazonNews)
 
 Life goes on. You got to keep going, keep moving, keep improving, keep exploring, and keep experimenting. [Life can only be understood backwards, but it must be lived forwards.](https://www.goodreads.com/quotes/6812-life-can-only-be-understood-backwards-but-it-must-be)
 
@@ -116,7 +116,7 @@ Take ownership and responsibility. [Everything is your fault.](https://www.amazo
 
 Pursue your goals aggressively and relentlessly. There is no compromise. [Don't just dream for winning. Train for it.](https://www.instagram.com/sirmofarah/p/CwSwPhiIZDY)
 
-If you want something—and you’ve done the work to earn it—[go ask for it. Closed mouths don't get fed.](https://www.youtube.com/watch?v=zkTf0LmDqKI) In life, you don't get what you deserve, you get what you think you deserve. Ask for forgiveness, not permission. Just tap yourself on the shoulder and do the work directly. If you live for people's approval, you will die from their rejection.
+If you want something—and you've done the work to earn it—[go ask for it. Closed mouths don't get fed.](https://www.youtube.com/watch?v=zkTf0LmDqKI) In life, you don't get what you deserve, you get what you think you deserve. Ask for forgiveness, not permission. Just tap yourself on the shoulder and do the work directly. If you live for people's approval, you will die from their rejection.
 
 Make consistent daily tiny actions. Make everyday count. Never miss a day. Everyday you start at zero. Each morning you are born again. What you do today is what matters most. [The days are long, but the decades are short.](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) [How you spend your days is how you spend your life.](https://www.goodreads.com/quotes/530337-how-we-spend-our-days-is-of-course-how-we)
 
@@ -136,7 +136,7 @@ You got to fall in love with the process. The journey is the reward. Trust the e
 
 Work hard. Work very hard. Work very hard every waking hour. But not every day. Work as hard as you can without burning out. The world needs people willing to work while others rest. [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665?lang=en)
 
-Don't seek quick wins or shortcuts. The only shortcut is doing something the right way the first time so that you don’t waste any time on the shortcuts. The only "hack" is relentless consistency. [If you want to be good, you don't really have many choices. It takes what it takes. You have to do what you have to do to be successful.](https://m.youtube.com/watch?v=R0CAAlMo3f8) Do what is necessary. Do what is required.
+Don't seek quick wins or shortcuts. The only shortcut is doing something the right way the first time so that you don't waste any time on the shortcuts. The only “hack” is relentless consistency. [If you want to be good, you don't really have many choices. It takes what it takes. You have to do what you have to do to be successful.](https://m.youtube.com/watch?v=R0CAAlMo3f8) Do what is necessary. Do what is required.
 
 In the mean time, try to accomplish things with the least amount of effort. Find the easiest way first. Do the simplest thing first. [Move fast.](https://www.instagram.com/timferriss/reel/C2AWTdXOTHM/) [Play easy mode.](https://fs.blog/doing-your-best/#:~:text=Doing%20your%20best%20means%20positioning,the%20best%20in%20the%20moment.)
 
@@ -154,7 +154,7 @@ In this life journey, you will fail many times, but you will be really right onc
 
 You are always just one good decision away from being in a better place tomorrow—just focus on the next decision. [Just begin. Solve one problem. Then solve the next one. And the next one. Eventually you will solve all problems.](https://www.youtube.com/watch?v=mDYCLFE86Po)
 
-Life is cyclic and chaotic. Bad things happen dramatically. Good things happen gradually, and don’t feel like "news".
+Life is cyclic and chaotic. Bad things happen dramatically. Good things happen gradually, and don't feel like “news”.
 
 Hope for the best, prepare for the worst, take what comes.
 
@@ -174,7 +174,7 @@ Don't wait. Don't tell yourself you'll warm up to it. Do it now. Do it first. Th
 
 Life is never going to be easy. [Everything you want to earn in life is on the other side of hundreds of things that suck.](https://x.com/SahilBloom/status/1731017312398963015)
 
-Life is hard. Choose your hard. Use the difficulty. Find your edge. Remember that: The right way is the hard way. The obstacle is the way. We all struggle; it’s just part of human nature.
+Life is hard. Choose your hard. Use the difficulty. Find your edge. Remember that: The right way is the hard way. The obstacle is the way. We all struggle; it's just part of human nature.
 
 [You can't read the label from inside the bottle. Sometimes it takes outside eyes to help you see where you are.](https://rhondapeterson.com/you-cant-read-the-label-from-inside-the-bottle/)
 
@@ -206,13 +206,13 @@ When you say something, make sure it benefits all parties involved and contribut
 
 Always be aware of how you are using the word, and be impeccable with your word. Avoid using the word to speak against yourself or to gossip about others. Remember: The most powerful word is the one you use to talk to yourself.
 
-Don’t lie. Be honest and authentic, especially with yourself. Speak with integrity. Say only what you mean. Create zero distance between you and your feelings.
+Don't lie. Be honest and authentic, especially with yourself. Speak with integrity. Say only what you mean. Create zero distance between you and your feelings.
 
 The most damning lie is the lie you tell yourself. Always tell yourself the brutal truth.
 
 Know who you are. [Love yourself.](https://www.goodreads.com/quotes/6915192-the-truth-is-to-love-yourself-with-the-same-intensity) Value yourself. Forgive yourself. Make time for yourself. [Enjoy yourself, it’s later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
 
-Don’t take anything personally. Never let any words hurt you. Don’t care what other people might think of you. If you try to please everyone—you will please no one. Never try to impress people you don’t like.
+Don't take anything personally. Never let any words hurt you. Don't care what other people might think of you. If you try to please everyone—you will please no one. Never try to impress people you don't like.
 
 Think deeply. Think independently. Think in a different time frame, horizon, scale, and dimension. Think long term.
 
@@ -228,7 +228,7 @@ Take more breaks, but not too long. Learn to rest, but not quit. Learn to rest b
 
 Do yoga, stretching, foam roller massage, and a lot of heat-cold contrast therapy as often as you can. They reduce your muscle tension, anxiety, or stress, both mentally and physically, and could help you to relax for better productivity and creativity.
 
-Fast as often as you can. Don’t eat too much. Only eat when you are hungry. Stop eating when you are eighty percent full. Be wholeheartedly appreciative and fully present in gratitude for the food you eat and the body you are feeding. No craving. Don't use eating as a form of procrastination.
+Fast as often as you can. Don't eat too much. Only eat when you are hungry. Stop eating when you are eighty percent full. Be wholeheartedly appreciative and fully present in gratitude for the food you eat and the body you are feeding. No craving. Don't use eating as a form of procrastination.
 
 [Eat real whole food only. No junk. Eat mostly plants.](https://www.youtube.com/user/nutritionfactsorg) Drink lots of water and tea. Limit coffee. No sugar, except raw honey. No alcohol, except white or red wine. 
 
@@ -246,35 +246,35 @@ There is no such achievement you could possibly achieve that will make you any h
 
 [Life is only 4000 weeks long.](https://www.amazon.de/-/en/Oliver-Burkeman/dp/0374159122) Make the rest of your life the best of your life. [Don't live the same year 75 times and call it a life.](https://www.goodreads.com/quotes/1346035-don-t-live-the-same-year-75-times-and-call-it) Inject some planned spontaneity and adventures into your days. Every time you do something that is one less time you could do it — cherish every moment of your life like it is your last — because it very likely might be. Every single thing you do today is something that your ninety-year-old self would wish they could go back and do. The good old days are happening RIGHT NOW.
 
-Smile often. Laugh more. A day without laughter is a day wasted. Be funny. Be playful. Be cheerful. Chill out. Have fun. Don’t panic. [Calmness is a superpower.](https://stephango.com/calmness)
+Smile often. Laugh more. A day without laughter is a day wasted. Be funny. Be playful. Be cheerful. Chill out. Have fun. Don't panic. [Calmness is a superpower.](https://stephango.com/calmness)
 
 [The more seriously you take yourself, the unhappier you’re going to be.](https://x.com/naval/status/1298724798655168514) The more you can laugh at yourself, the happier you'll be. Learn to laugh at yourself. Literally, in three generations, no one will even remember your name.
 
 Take a deep breath. Relax. Enjoy each moment in life. [Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.](https://www.youtube.com/watch?v=vsYBtfQ3QDo)
 
-Let shit go. Choose to be happy. You can't wait until life isn’t hard anymore, before you decide to be happy. You live longer once you realize that any time spent being unhappy is wasted.
+Let shit go. Choose to be happy. You can't wait until life isn't hard anymore, before you decide to be happy. You live longer once you realize that any time spent being unhappy is wasted.
 
 [Be optimistic and willful.](https://www.youtube.com/watch?v=FrqBWQ-mVEc) Stop being afraid of what could go wrong, and start being positive about what could go right. Focus on the positives.
 
-Don't worry about bullshit and nonsense. Remember: If it’s not gonna matter in 5 years, don’t spend more than 5 minutes upset about it. Focus on the outcomes, not the obstacles. The outcome is the only option here. Never waste your precious time, energy, and attention. They are your ultimate currencies. Trade them wisely.
+Don't worry about bullshit and nonsense. Remember: If it's not gonna matter in 5 years, don't spend more than 5 minutes upset about it. Focus on the outcomes, not the obstacles. The outcome is the only option here. Never waste your precious time, energy, and attention. They are your ultimate currencies. Trade them wisely.
 
 Spend as much of your time as possible doing activities that will provide you with nostalgia in the future. Create stories that you will be excited to tell your kids about, and your grandchildren will love to hear someday. Live the truth you want your descendants to embrace.
 
 Be mindful, intentional, and purposeful. [Live life by design, not default.](https://www.youtube.com/watch?v=DCbGM4mqEVw) [Run your brain in "debug mode" 24/7 and watch every thought. Always ask, why am I having this thought?](https://www.youtube.com/watch?v=DCbGM4mqEVw) Day by day, what you constantly think and what you do is who you become. Monitor yourself.
 
-Live in the present. Let past go. Look towards the future. Anything outside of this present moment is just an imagination. Only NOW is the reality. Nothing lasts forever. Life is not something happening in the future, it’s something happening RIGHT NOW. Live immediately.
+Live in the present. Let past go. Look towards the future. Anything outside of this present moment is just an imagination. Only NOW is the reality. Nothing lasts forever. Life is not something happening in the future, it's something happening RIGHT NOW. Live immediately.
 
 Surround yourself with people you love and admire; with people who think differently than you. Put yourself in rooms you don't belong to; in rooms with a high density of value-aligned individuals. Reach out to inspiring people who are going to uplift you higher and living the life you want to live. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Hold on to these people like your life depends on them.
 
 You are the average of the five people you associate with most. The quality of your experiences will be largely determined by the people you surround yourself with. Find your tribe. Build your personal advisory board of mentors.
 
-[Life is short.](https://paulgraham.com/vb.html) Savor close relationships. Treasure "inner circle" friendships. Tell those human you love that you love them while they are still alive. Create memories with them.
+[Life is short.](https://paulgraham.com/vb.html) Savor close relationships. Treasure “inner circle” friendships. Tell those human you love that you love them while they are still alive. Create memories with them.
 
 When you hug someone, hug them with everything you have, and always let them go first. Life is more fragile than you think.
 
 Don't avoid hard conversations. Any effort you spend on cultivating deep relationships will pay major dividends.
 
-Don’t hate anyone. Don't insult anyone. Only take shots at things, not people. Judge yourself by action, but judge others by intention. Be soft on the person and hard on the problem. Do no harm, but take no shit and crap. Set boundaries.
+Don't hate anyone. Don't insult anyone. Only take shots at things, not people. Judge yourself by action, but judge others by intention. Be soft on the person and hard on the problem. Do no harm, but take no shit and crap. Set boundaries.
 
 [Humanize the people around you. Do not put them on pedestals. The adults do not exist. There is just giant children figuring things out.](https://x.com/george__mack/status/1766767193075691763)
 
