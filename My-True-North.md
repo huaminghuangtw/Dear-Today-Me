@@ -54,7 +54,7 @@ Never forget why you are really doing what you are doing. [Always ask the WHY.](
 
 Only do what energizes and makes you truly fulfilled and happy as a kid. Only do what you love for work, and use your work to create anything you truly care about from anywhere on Earth.
 
-You get one life. One chance. One go. [You make yourself either miserable or strong — the amount of work is the same.](https://www.goodreads.com/quotes/150453-we-either-make-ourselves-miserable-or-we-make-ourselves-strong) Why not create something wonderful?
+You get one life. One chance. One go. [You make yourself either miserable or strong — the amount of work is the same.](https://www.goodreads.com/quotes/150453-we-either-make-ourselves-miserable-or-we-make-ourselves-strong) Why not create something wonderful? The time will pass anyway.
 
 [Either write something worth reading or do something worth writing.](https://www.brainyquote.com/quotes/benjamin_franklin_133951)
 
@@ -100,7 +100,9 @@ Explore, Discover, Try, Fail, Disappoint, Get lost, Suffer, Ask, Get feedback, L
 
 Leave your comfort zone. Take as much calculated risk as you can afford. Step into the unknown. Sit with the discomfort. Remember, if you are not failing occasionally, you are probably being too conservative. Taking no risk is the biggest risk you can take.
 
-Never give up. The time will pass anyway. Never make the same mistake. Adapt to changes. Learn from failures. Your greatest success is very likely just one step beyond your greatest failure.
+Never give up. Rest in the end, not in the middle. Be like a postage stamp. Stick to it until you get there.
+
+Adapt to changes. Learn from failures. Never make the same mistake. Your greatest success is very likely just one step beyond your greatest failure.
 
 [The world isn't run by perfect people who never failed. The world is run by imperfect people who failed over and over again—but who used every failure to set the conditions for their future success. The best are never broken by the chaos—they train themselves to be prepared for it, to benefit from it.](https://www.sahilbloom.com/newsletter/how-to-use-failure-to-succeed)
 
