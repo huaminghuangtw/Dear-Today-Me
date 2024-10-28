@@ -214,7 +214,7 @@ The most damning lie is the lie you tell yourself. Always tell yourself the brut
 
 Know who you are. [Love yourself.](https://www.goodreads.com/quotes/6915192-the-truth-is-to-love-yourself-with-the-same-intensity) Value yourself. Forgive yourself. Make time for yourself. [Enjoy yourself, it’s later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
 
-Don't take anything personally. Never let any words hurt you. Don't care what other people might think of you. If you try to please everyone—you will please no one. Never try to impress people you don't like.
+Don't take anything personally. Never let any words hurt you. Don't care what other people might think of you. If you try to please everyone—you will please no one. Never try to impress people you don't like. [Never try to copy someone who wants something you don’t want.](https://collabfund.com/blog/your-way-is-the-only-way/)
 
 Think deeply. Think independently. Think in a different time frame, horizon, scale, and dimension. Think long term.
 
