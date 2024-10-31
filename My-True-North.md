@@ -284,7 +284,7 @@ Never blame others. Remember: Who you blame is who you give your power to. He wh
 
 Praise specifically. Criticize generally. Praise in public. Criticize in private.
 
-Be kind, gentle, and friendly. Every single person is fighting a battle you know nothing about. Show empathy. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day. Practice small acts of kindness and don't keep score.
+Be kind, gentle, and friendly. Every single person is fighting a battle you know nothing about. Show empathy and compassion. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day. Practice small acts of kindness and don't keep score.
 
 When you think something nice about someone, tell them right away. Don't hold any unexpressed love until the last day of your life. Leave a positive review. Leave a compliment for someone, no matter how small it is. Make the coffee.
 
