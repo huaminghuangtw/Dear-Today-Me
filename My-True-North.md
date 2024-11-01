@@ -276,7 +276,7 @@ When you hug someone, hug them with everything you have, and always let them go 
 
 Don't avoid hard conversations. Any effort you spend on cultivating deep relationships will pay major dividends.
 
-Don't hate anyone. Don't insult anyone. Only take shots at things, not people. Judge yourself by action, but judge others by intention. Be soft on the person and hard on the problem. Do no harm, but take no shit and crap. Set boundaries.
+Don't hate anyone. Don't insult anyone. Only take shots at things, not people. Judge yourself by action, but judge others by intention. Always keep the [Fundamental Attribution Error](https://www.reddit.com/r/YouShouldKnow/comments/rob9kl/ysk_about_the_fundamental_attribution_error_a_key/) in mind. Be soft on the person and hard on the problem. Do no harm, but take no shit and crap. Set boundaries.
 
 [Humanize the people around you. Do not put them on pedestals. The adults do not exist. There is just giant children figuring things out.](https://x.com/george__mack/status/1766767193075691763)
 
