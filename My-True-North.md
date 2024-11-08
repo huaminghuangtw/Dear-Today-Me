@@ -124,7 +124,7 @@ Make consistent daily tiny actions. Make everyday count. Never miss a day. Every
 
 No time wasted. Every single minute matters. Ten minutes, once gone, are gone for good. You will never get the same moment twice.
 
-Show up every day. Be a habit and routine machine. Every single day, chop wood, carry water. [The work never stops.](https://www.youtube.com/watch?v=Ju5kyQJyGBY)
+You don't get to pick and choose when to show up, because the world will ignore your best and judge you for your worst. Show up every day. Be a habit and routine machine. Every single day, chop wood, carry water. [The work never stops.](https://www.youtube.com/watch?v=Ju5kyQJyGBY)
 
 Your daily behaviors shape your future. A good day of training is worth little on its own, but a good year was worth plenty. Your final results are merely a reflection of your prior commitments. Do a little more what you want to do every single day, until your vision becomes reality. It's those little bits of good put together that overwhelm the world. [All success is a lagging indicator.](https://ryanholiday.net/all-success-is-a-lagging-indicator)
 
@@ -136,7 +136,9 @@ Knowledge is useless until you act on it. It's not enough to know something. You
 
 You got to fall in love with the process. The journey is the reward. Trust the exponential growth and non-linear, asymmetric results. Never take little progress for granted. Aim to be consistently good rather than occasionally great.
 
-Work hard. Work very hard. Work very hard every waking hour. But not every day. Work as hard as you can without burning out. The world needs people willing to work while others rest. [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665?lang=en)
+Work hard. Work very hard. Work very hard every waking hour. But not every day. Work as hard as you can without burning out. The world needs people willing to work while others rest.
+
+[You have to embrace the boredom in the dark to shine in the light.](https://www.youtube.com/watch?v=vwnTJLMRlFI) [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665?lang=en)
 
 Don't seek quick wins or shortcuts. The only shortcut is doing something the right way the first time so that you don't waste any time on the shortcuts. The only “hack” is relentless consistency. [If you want to be good, you don't really have many choices. It takes what it takes. You have to do what you have to do to be successful.](https://m.youtube.com/watch?v=R0CAAlMo3f8) Do what is necessary. Do what is required.
 
