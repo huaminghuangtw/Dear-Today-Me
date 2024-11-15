@@ -47,3 +47,5 @@ Have questions or need support? Reach out via [GitHub Issues](https://github.com
 # 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+![](Pasted%20image%2020241115110533.png)
