@@ -48,4 +48,4 @@ Have questions or need support? Reach out via [GitHub Issues](https://github.com
 
 This project is open source and available under the [MIT License](LICENSE).
 
-![](Pasted%20image%2020241115110533.png)
+![](_attachments/2555c1a601ddc70a828ddcbc7e734a27.png)
