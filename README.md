@@ -3,33 +3,65 @@
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_  
 
-# About
+## About
 
-This repo holds a letter to my present self from Better Me, a reminder for myself to never lose sight of the person I am becoming (and unbecoming). The principles and philosophies in the script are not just words and sentences; they represent the values I believe and strive to live by every single day. These timeless insights and wisdom have been instrumental in shaping my mindset and approach to life. They are the navigation compass that guides me through life's challenges, helping me [stay on course](https://en.wikipedia.org/wiki/1_in_60_rule) toward the true north in this fast-paced world. They also serve as an operating manual whenever I find myself feeling lost.
+This repo holds a letter to my present self from Better Me, a reminder for myself to never lose sight of the person I am becoming (and unbecoming). The principles and philosophies in the letter are not just words and sentences; they represent the values I believe and strive to live by every single day. These timeless insights and wisdom have been instrumental in shaping my mindset and approach to life. They are the navigation compass that guides me through life's challenges, helping me [stay on course](https://en.wikipedia.org/wiki/1_in_60_rule) toward the true north in this fast-paced world. They also serve as an operating manual whenever I find myself feeling lost.
 
-# Tools
+## Tools
 
-The following tools provided convenient ways to integrate the letter into your daily routine, whether you're commuting, working out, or taking a moment to reflect:
+The following tools provide different ways to integrate the letter into your daily routine, whether you're _commuting_, _working out_, or _taking a moment to reflect_:
 
-## Apple Shortcuts
+### 1. Apple Shortcut
 
-[Shortcut Download link]()
+[Shortcut Download link](https://www.icloud.com/shortcuts/1013c007965045cc9b0aa39b3a6ff800)
 
-The shortcut will play the entire script as speech, acting like a personal life coach in your pocket. Trigger the shortcut manually or integrate it with Siri for hands-free access.
+The shortcut will play the entire script as speech, acting like a personal life coach in your pocket.
 
-## Scheduled Notifications
+#### Setup
 
-[Shortcut Download link]()
+1. Click on the Shortcut [download link](https://www.icloud.com/shortcuts/1013c007965045cc9b0aa39b3a6ff800).
+2. Tap on **Add Shortcut** to add it to your library.
+3. Run the shortcut manually or via Siri for hands-free access.
 
-Instead of listening to the letter, you can also get scheduled notifications with a random excerpt from the letter at predefined times throughout your day. Go to the "Automation" tab in your Shortcuts app, select this Shortcut, and configure the time and frequency of the notifications based on your preference.
+---
 
-## Scriptable Widgets
+### 2. Scheduled Notification
 
-It is also possible to displaying a random paragraph from the letter on your Home Screen. Every time you glance at your phone, you'll have a gentle reminder to center your thoughts and actions throughout the day.
+[Shortcut Download link](https://www.icloud.com/shortcuts/7f7303a6f0c64ff1b9a2ff2514b4c0ed)
 
-### Setup
+Instead of listening to the letter, you can also get a scheduled notification with a random excerpt from the letter at predefined times throughout the day.
 
-1. Copy the following JavaScript code into the [Scriptable](https://scriptable.app) app.
+<p align="center">
+  <kbd>
+      <img src="https://github.com/user-attachments/assets/6cf3069b-b62b-450a-8ad4-3ce585343fdb" alt="scheduled-notification" width="400"/>
+  </kbd>
+</p>
+
+#### Setup
+
+1. [Download the shortcut](https://www.icloud.com/shortcuts/7f7303a6f0c64ff1b9a2ff2514b4c0ed).
+2. Launch the Shortcuts app on your iPhone.
+3.	Navigate to the **Automation** tab at the bottom of the screen.
+4.	Tap the `+` button in the top-right corner, and choose **Time of Day** to set a specific time and frequency (e.g., Daily, Weekly).
+    + Alternatively, choose **Alarm**, **Wake Up**, or other triggers based on your needs/preference.
+6. After selecting the trigger, tap **Next** to proceed to the actions screen.
+7. Search for the Shortcut name and select it to run at the scheduled time.
+
+---
+
+### 3. Scriptable Widget
+
+It is also possible to display a random paragraph from the letter on your Home Screen. Every time you glance at your phone, you'll have a gentle reminder to center your thoughts and actions.
+
+<p align="center">
+  <kbd>
+      <img src="https://github.com/user-attachments/assets/4e31f8ba-fd2c-46a1-ae63-0e691ff645f3" alt="scriptable-widget" width="600"/>
+  </kbd>
+</p>
+
+#### Setup
+
+1. Copy the following JavaScript code into the [Scriptable](https://scriptable.app) app by creating a new script (give it a name).
 
    ```js
    let widget = new ListWidget();
@@ -92,17 +124,31 @@ It is also possible to displaying a random paragraph from the letter on your Hom
    };
    ```
 
-2. Save the script, then add the widget to your Home Screen.
+2. Save the script, then go to Home Screen, long press and add a [Scriptable widget](https://docs.scriptable.app/listwidget) with your preferred size (small, medium, large).
+3. Tap on the widget and select the script that you've just created.
 
-## Obsidian Dataview
+> [!TIP]
+> _[Check out](https://github.com/huaminghuangtw/Scriptable) my other repository for customizable _notifications_ and _widgets_ created with [Scriptable](https://scriptable.app)!_  
 
-If you are using [Obsidian](https://obsidian.md), this option allows for showing a random paragraph of the letter in your Obsidian vault.
+---
 
-### Setup
+### 4. Obsidian
+
+If you are using [Obsidian](https://obsidian.md), this option allows for showing a random paragraph of the letter in a [callout](https://help.obsidian.md/Editing+and+formatting/Callouts) using the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin.
+
+<p align="center">
+  <kbd>
+      <img src="https://github.com/user-attachments/assets/31868f8c-291f-41a6-980e-0693184c4445" alt="obsidian" width="800"/>
+  </kbd>
+</p>
+
+#### Setup
 
 1. Make sure you have installed the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin in Obsidian.
+2. Copy the following [DataviewJS code block](https://blacksmithgu.github.io/obsidian-dataview/queries/dql-js-inline/#dataview-js) into the e.g. `Homepage.md` in your Obsidian vault.
 
-   ```dataviewjs
+
+   ```js
    let fileContent = await fetch("https://raw.githubusercontent.com/huaminghuangtw/Dear-Today-Me/main/Dear-Today-Me.md").then(res => res.text());
 
    let allParagraphs = fileContent.split("\n\n");
@@ -123,13 +169,9 @@ If you are using [Obsidian](https://obsidian.md), this option allows for showing
    function getRandomItem(arr) {
       return arr[Math.floor(Math.random() * arr.length)];
    };
-```
+   ```
 
-2. Copy the following DataviewJS script into the e.g. `Homepage.md` in your Obsidian vault.
+## Questions?
 
-===
-
-> [!NOTE]
-> We believe in the power of [learning (and building) in public](https://www.swyx.io/learn-in-public). If you have additional life advice (with source link) that you think could fit in the script, feel free to contribute!
->
-> [Create a pull request](https://github.com/huaminghuangtw/Dear-Today-Me/compare) with your additions, or [open an issue](https://github.com/huaminghuangtw/Dear-Today-Me/issues/new) to share your ideas, suggestions, or feedback with me!
+* If you need any help with the setup process, feel free to contact me! I will try my best to answer all your questions and look forward to ideas, suggestions, or feedback that can help improve this project.  *
+* I believe in the power of [learning (and building) in public](https://www.swyx.io/learn-in-public). If you have additional life advice (_with source link_) that you think could fit into the letter, feel free to contribute by _**[creating a pull request](https://github.com/huaminghuangtw/Dear-Today-Me/compare)**_ or _**[open an issue](https://github.com/huaminghuangtw/Dear-Today-Me/issues/new)**_ to share your additions with me!  
