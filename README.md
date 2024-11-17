@@ -9,11 +9,11 @@ This repo holds a letter to my present self from Better Me, a reminder for mysel
 
 ## Tools
 
-The following tools provide different ways to integrate the letter into your daily routine, whether you're _commuting_, _working out_, or _taking a moment to reflect_:
+The following tools provide different ways to integrate the letter into your daily routine, whether you're _commuting_, _working out_, or _taking a moment to reflect_.
 
 ### 1. Apple Shortcut
 
-[Shortcut Download link](https://www.icloud.com/shortcuts/1013c007965045cc9b0aa39b3a6ff800)
+[⤵️ Shortcut Download link](https://www.icloud.com/shortcuts/1013c007965045cc9b0aa39b3a6ff800)
 
 The shortcut will play the entire script as speech, acting like a personal life coach in your pocket.
 
@@ -27,7 +27,7 @@ The shortcut will play the entire script as speech, acting like a personal life 
 
 ### 2. Scheduled Notification
 
-[Shortcut Download link](https://www.icloud.com/shortcuts/7f7303a6f0c64ff1b9a2ff2514b4c0ed)
+[⤵️ Shortcut Download link](https://www.icloud.com/shortcuts/7f7303a6f0c64ff1b9a2ff2514b4c0ed)
 
 Instead of listening to the letter, you can also get a scheduled notification with a random excerpt from the letter at predefined times throughout the day.
 
@@ -42,7 +42,7 @@ Instead of listening to the letter, you can also get a scheduled notification wi
 1. [Download the shortcut](https://www.icloud.com/shortcuts/7f7303a6f0c64ff1b9a2ff2514b4c0ed).
 2. Launch the Shortcuts app on your iPhone.
 3.	Navigate to the **Automation** tab at the bottom of the screen.
-4.	Tap the `+` button in the top-right corner, and choose **Time of Day** to set a specific time and frequency (e.g., Daily, Weekly).
+4.	Tap the `+` button in the top-right corner, and choose **Time of Day** to set a specific time and frequency (e.g., *Daily*, *Weekly*).
     + Alternatively, choose **Alarm**, **Wake Up**, or other triggers based on your needs/preference.
 6. After selecting the trigger, tap **Next** to proceed to the actions screen.
 7. Search for the Shortcut name and select it to run at the scheduled time.
@@ -173,5 +173,5 @@ If you are using [Obsidian](https://obsidian.md), this option allows for showing
 
 ## Questions?
 
-* If you need any help with the setup process, feel free to contact me! I will try my best to answer all your questions and look forward to ideas, suggestions, or feedback that can help improve this project.  *
+* If you need any help with the setup process, feel free to contact me! I will try my best to answer all your questions and look forward to ideas, suggestions, or feedback that can help improve this project.
 * I believe in the power of [learning (and building) in public](https://www.swyx.io/learn-in-public). If you have additional life advice (_with source link_) that you think could fit into the letter, feel free to contribute by _**[creating a pull request](https://github.com/huaminghuangtw/Dear-Today-Me/compare)**_ or _**[open an issue](https://github.com/huaminghuangtw/Dear-Today-Me/issues/new)**_ to share your additions with me!  
