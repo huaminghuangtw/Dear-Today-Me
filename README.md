@@ -1,51 +1,135 @@
-🚀 Your Pocket Life Coach
-=========================
+✉️ Dear Today Me
+===============
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_  
 
-Welcome to **Your Pocket Life Coach**, a personal life coach in your pocket!
+# About
 
-# 🌟 Why This Project
+This repo holds a letter to my present self from Better Me, a reminder for myself to never lose sight of the person I am becoming (and unbecoming). The principles and philosophies in the script are not just words and sentences; they represent the values I believe and strive to live by every single day. These timeless insights and wisdom have been instrumental in shaping my mindset and approach to life. They are the navigation compass that guides me through life's challenges, helping me [stay on course](https://en.wikipedia.org/wiki/1_in_60_rule) toward the true north in this fast-paced world. They also serve as an operating manual whenever I find myself feeling lost.
 
-This project is deeply personal to me. The principles and philosophies in the script are not just words and sentences; they represent the values I believe and strive to live by every single day. They are the navigation compass that guides me through life's challenges, helping me stay on course toward the true north in this fast-paced world. They also serve as an operating manual whenever I find myself feeling lost. 🧭
+# Tools
 
-Over the years, I have been inspired by the works of writers and creators I admire, such as [James Clear](https://jamesclear.com/), [Tim Ferriss](https://tim.blog), [Ali Abdaal](https://aliabdaal.com/), [Sahil Bloom](https://sahilbloom.com/), [Ryan Holiday](https://ryanholiday.net/), and many others. These individuals are more than just authors to me—they are all my heroes, my role models. Their timeless insights and wisdom have been instrumental in shaping my mindset and approach to life. I created **Your Pocket Life Coach** out of a desire to share these invaluable life lessons and to help others find the same strength that I have discovered through their content.
+The following tools provided convenient ways to integrate the letter into your daily routine, whether you're commuting, working out, or taking a moment to reflect:
 
-I wanted to create a tool that could serve as a constant companion, helping people stay focused, disciplined, and encouraged for continuous self-improvement. Whether you're commuting, working out, or taking a moment to reflect, this virtual life coach can help you [stay on track](https://en.wikipedia.org/wiki/1_in_60_rule) and unleash your true potential.
+## Apple Shortcuts
 
-# 🎯 What This Project Offers
+[Shortcut Download link]()
 
-* A carefully curated script with motivational quotes and actionable tips.
-* An [Apple Shortcut](https://www.icloud.com/shortcuts/4c900fdd914a48eea12e40262781f588) that utilizes text-to-speech technology to convert the script into audio, allowing you to listen to motivational content on the go.
+The shortcut will play the entire script as speech, acting like a personal life coach in your pocket. Trigger the shortcut manually or integrate it with Siri for hands-free access.
 
-# 💁‍♂️ How to Use the Apple Shortcut
+## Scheduled Notifications
 
-Follow the steps below to start using the **Your Pocket Life Coach** Apple Shortcut:
+[Shortcut Download link]()
 
-1. **Download the Shortcut**:
-   * Click on [this link](https://www.icloud.com/shortcuts/4c900fdd914a48eea12e40262781f588) to download the shortcut.
+Instead of listening to the letter, you can also get scheduled notifications with a random excerpt from the letter at predefined times throughout your day. Go to the "Automation" tab in your Shortcuts app, select this Shortcut, and configure the time and frequency of the notifications based on your preference.
 
-2. **Install the Shortcut**:
-   * Once you click the link, it will open in the Shortcuts app on your iPhone/iPad/MacBook.
-   * Tap on **Add Shortcut** to add it to your library.
+## Scriptable Widgets
 
-3. **Run the Shortcut**:
-   * Open the **Shortcuts** app on your device.
-   * Find the **Your Pocket Life Coach** shortcut in your library and tap on it to run.
-   * The shortcut will begin playing the motivational script as speech, allowing you to listen hands-free.
+It is also possible to displaying a random paragraph from the letter on your Home Screen. Every time you glance at your phone, you'll have a gentle reminder to center your thoughts and actions throughout the day.
 
-# 🌍 Join the Community
+### Setup
 
-We believe in the power of [learning (and building) in public](https://www.swyx.io/learn-in-public). If you have additional life advice (with source link) that you think could fit in the script, feel free to contribute!
+1. Copy the following JavaScript code into the [Scriptable](https://scriptable.app) app.
 
-[Fork this repository](https://github.com/huaminghuangtw/Your-Pocket-Life-Coach/fork), [create a pull request](https://github.com/huaminghuangtw/Your-Pocket-Life-Coach/compare) with your additions, or [open an issue](https://github.com/huaminghuangtw/Your-Pocket-Life-Coach/issues/new) to share your ideas, suggestions, or feedback. Your contributions can help **Your Pocket Life Coach** even better!
+   ```js
+   let widget = new ListWidget();
 
-# 📧 Get in Touch
+   widget.backgroundColor = new Color("#000000");
+   widget.useDefaultPadding();
 
-Have questions or need support? Reach out via [GitHub Issues](https://github.com/huaminghuangtw/Your-Pocket-Life-Coach/issues/new) or contact me directly through [huaming.huang.tw@gmail.com](mailto:huaming.huang.tw@gmail.com).
+   let fileContent = await new Request("https://raw.githubusercontent.com/huaminghuangtw/Dear-Today-Me/main/Dear-Today-Me.md").loadString();
 
-# 📜 License
+   let allParagraphs = fileContent.split("\n\n");
 
-This project is open source and available under the [MIT License](LICENSE).
+   // Skip salutation and closing lines
+   let selectedParagraphs = allParagraphs.slice(1, allParagraphs.length - 2);
 
-![](_attachments/2555c1a601ddc70a828ddcbc7e734a27.png)
+   let randomParagraph = getRandomItem(selectedParagraphs);
+
+   let plainTextFromMarkdown = convertMarkdownToPlainText(randomParagraph);
+
+   let text = widget.addText(plainTextFromMarkdown);
+
+   text.centerAlignText();
+   text.textColor = new Color("#ffffff");
+   // http://iosfonts.com
+   text.font = new Font("IowanOldStyle-BoldItalic", 16);
+   text.minimumScaleFactor = 0.1;
+   text.textOpacity = 1;
+
+   config.runsInWidget ? Script.setWidget(widget) : widget.presentMedium();
+
+   Script.complete();
+
+   // ================
+   // Helper funcitons
+   // ================
+
+   function getRandomItem(arr) {
+      return arr[Math.floor(Math.random() * arr.length)];
+   };
+
+   function convertMarkdownToPlainText(markdown) {
+      // Convert headings (e.g., "# Heading" to "Heading")
+      markdown = markdown.replace(/(^|\n)#+\s*(.+)/g, '$2');
+
+      // Convert links [text](url) to "text"
+      markdown = markdown.replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1');
+
+      // Remove bold (**text** or __text__)
+      markdown = markdown.replace(/(\*\*|__)(.*?)\1/g, '$2');
+
+      // Remove italic (*text* or _text_)
+      markdown = markdown.replace(/(\*|_)(.*?)\1/g, '$2');
+
+      // Remove inline code `code`
+      markdown = markdown.replace(/`([^`]+)`/g, '$1');
+
+      // Remove code blocks ```code```
+      markdown = markdown.replace(/```[^`]*```/g, '');
+
+      return markdown.trim();
+   };
+   ```
+
+2. Save the script, then add the widget to your Home Screen.
+
+## Obsidian Dataview
+
+If you are using [Obsidian](https://obsidian.md), this option allows for showing a random paragraph of the letter in your Obsidian vault.
+
+### Setup
+
+1. Make sure you have installed the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin in Obsidian.
+
+   ```dataviewjs
+   let fileContent = await fetch("https://raw.githubusercontent.com/huaminghuangtw/Dear-Today-Me/main/Dear-Today-Me.md").then(res => res.text());
+
+   let allParagraphs = fileContent.split("\n\n");
+
+   // Skip salutation and closing lines
+   let selectedParagraphs = allParagraphs.slice(1, allParagraphs.length - 2);
+
+   let randomParagraph = getRandomItem(selectedParagraphs);
+
+   let callout = `
+   > [!QUOTE] ‎
+   >> _${randomParagraph}_
+   `;
+
+   dv.paragraph(callout);
+
+   // Helper function
+   function getRandomItem(arr) {
+      return arr[Math.floor(Math.random() * arr.length)];
+   };
+```
+
+2. Copy the following DataviewJS script into the e.g. `Homepage.md` in your Obsidian vault.
+
+===
+
+> [!NOTE]
+> We believe in the power of [learning (and building) in public](https://www.swyx.io/learn-in-public). If you have additional life advice (with source link) that you think could fit in the script, feel free to contribute!
+>
+> [Create a pull request](https://github.com/huaminghuangtw/Dear-Today-Me/compare) with your additions, or [open an issue](https://github.com/huaminghuangtw/Dear-Today-Me/issues/new) to share your ideas, suggestions, or feedback with me!
