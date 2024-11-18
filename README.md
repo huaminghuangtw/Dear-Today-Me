@@ -9,13 +9,13 @@ This repo holds a letter to my present self from Better Me, a reminder for mysel
 
 ## Tools
 
-I built the following tools to provide different ways for integrating the letter into your daily routine, whether you're _commuting_, _working out_, or _taking a moment to reflect_.
+I built the following tools to provide different ways that integrate the letter into your daily routine, whether you're _commuting_, _working out_, or _taking a moment to reflect_.
 
-### 1. Apple Shortcut
+## 1. Apple Shortcut
 
 [⤵️ Shortcut Download link](https://www.icloud.com/shortcuts/1013c007965045cc9b0aa39b3a6ff800)
 
-The shortcut will play the entire script as speech, acting like a personal life coach in your pocket.
+The shortcut will play the entire script as speech, acting like a personal life coach in your pocket, which is inspired by [Marcus Aurelius](https://www.goodreads.com/quotes/8177571-at-dawn-when-you-have-trouble-getting-out-of-bed).
 
 #### Setup
 
@@ -33,7 +33,7 @@ Instead of listening to the letter, you can also get a scheduled notification wi
 
 <p align="center">
   <kbd>
-      <img src="https://github.com/user-attachments/assets/6cf3069b-b62b-450a-8ad4-3ce585343fdb" alt="scheduled-notification" width="400"/>
+	  <img src="https://github.com/user-attachments/assets/6cf3069b-b62b-450a-8ad4-3ce585343fdb" alt="scheduled-notification" width="400"/>
   </kbd>
 </p>
 
@@ -41,9 +41,9 @@ Instead of listening to the letter, you can also get a scheduled notification wi
 
 1. [Download the shortcut](https://www.icloud.com/shortcuts/7f7303a6f0c64ff1b9a2ff2514b4c0ed).
 2. Launch the Shortcuts app on your iPhone.
-3.	Navigate to the **Automation** tab at the bottom of the screen.
-4.	Tap the `+` button in the top-right corner, and choose **Time of Day** to set a specific time and frequency (e.g., *Daily*, *Weekly*).
-    + Alternatively, choose **Alarm**, **Wake Up**, or other triggers based on your needs/preference.
+3. Navigate to the **Automation** tab at the bottom of the screen.
+4. Tap the `+` button in the top-right corner, and choose **Time of Day** to set a specific time and frequency (e.g., _Daily_, _Weekly_).
+	* Alternatively, choose **Alarm**, **Wake Up**, or other triggers based on your needs/preference.
 5. After selecting the trigger, tap **Next** to proceed to the actions screen.
 6. Search for the Shortcut name and select it to run at the scheduled time.
 
@@ -55,7 +55,7 @@ It is also possible to display a random paragraph from the letter on your Home S
 
 <p align="center">
   <kbd>
-      <img src="https://github.com/user-attachments/assets/4e31f8ba-fd2c-46a1-ae63-0e691ff645f3" alt="scriptable-widget" width="600"/>
+	  <img src="https://github.com/user-attachments/assets/4e31f8ba-fd2c-46a1-ae63-0e691ff645f3" alt="scriptable-widget" width="600"/>
   </kbd>
 </p>
 
@@ -138,7 +138,7 @@ If you are using [Obsidian](https://obsidian.md), this option allows for showing
 
 <p align="center">
   <kbd>
-      <img src="https://github.com/user-attachments/assets/31868f8c-291f-41a6-980e-0693184c4445" alt="obsidian" width="800"/>
+	  <img src="https://github.com/user-attachments/assets/31868f8c-291f-41a6-980e-0693184c4445" alt="obsidian-callout-dataview" width="800"/>
   </kbd>
 </p>
 
@@ -146,7 +146,6 @@ If you are using [Obsidian](https://obsidian.md), this option allows for showing
 
 1. Make sure you have installed the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin in Obsidian.
 2. Copy the following [DataviewJS code block](https://blacksmithgu.github.io/obsidian-dataview/queries/dql-js-inline/#dataview-js) into the e.g. `Homepage.md` in your Obsidian vault.
-
 
    ```js
    let fileContent = await fetch("https://raw.githubusercontent.com/huaminghuangtw/Dear-Today-Me/main/Dear-Today-Me.md").then(res => res.text());
@@ -173,5 +172,5 @@ If you are using [Obsidian](https://obsidian.md), this option allows for showing
 
 ## Questions?
 
-+ If you need any help with the setup process, feel free to contact me! I will try my best to answer all your questions and look forward to ideas, suggestions, or feedback that can help improve this project.
-+ I believe in the power of [learning (and building) in public](https://www.swyx.io/learn-in-public). If you have additional life advice (_with source link_) that you think could fit into the letter, feel free to contribute by _**[creating a pull request](https://github.com/huaminghuangtw/Dear-Today-Me/compare)**_ or _**[open an issue](https://github.com/huaminghuangtw/Dear-Today-Me/issues/new)**_ to share your additions with me!  
+* If you need any help with the setup process, feel free to contact me! I will try my best to answer all your questions and look forward to any ideas, suggestions, or feedback that can help improve this project.
+* I believe in the power of [learning (and building) in public](https://www.swyx.io/learn-in-public). If you have additional life advice (_with source link_) that you think could fit into the letter, feel free to contribute by _**[creating a pull request](https://github.com/huaminghuangtw/Dear-Today-Me/compare)**_ or _**[opening an issue](https://github.com/huaminghuangtw/Dear-Today-Me/issues/new)**_ to share your additions!  
