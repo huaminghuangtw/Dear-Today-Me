@@ -11,11 +11,11 @@ This repo holds a letter to my present self from Better Me, a reminder for mysel
 
 I built the following tools to provide different ways that integrate the letter into your daily routine, whether you're _commuting_, _working out_, or _taking a moment to reflect_.
 
-## 1. Apple Shortcut
+### 1. Apple Shortcut
 
 [⤵️ Shortcut Download link](https://www.icloud.com/shortcuts/1013c007965045cc9b0aa39b3a6ff800)
 
-The shortcut will play the entire script as speech, acting like a personal life coach in your pocket, which is inspired by [Marcus Aurelius](https://www.goodreads.com/quotes/8177571-at-dawn-when-you-have-trouble-getting-out-of-bed).
+Inspired by [Marcus Aurelius](https://www.goodreads.com/quotes/8177571-at-dawn-when-you-have-trouble-getting-out-of-bed), the shortcut will play the entire script as speech, acting like a personal life coach in your pocket.
 
 #### Setup
 
