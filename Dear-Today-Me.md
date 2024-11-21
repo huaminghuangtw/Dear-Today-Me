@@ -6,7 +6,7 @@ Always give your best, even when no one is watching. It's not just about shining
 
 [Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with being the best in the world at whatever you do professionally. [Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) Never do half-reps. Wherever you go, go with all your heart. Otherwise, you'll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
 
-[Try to be legendary in your own way.](https://www.youtube.com/watch?v=Ju5kyQJyGBY) Few people get remembered hundreds of years after they die. Live a life worth remembering. [You have nothing to lose.](https://www.youtube.com/watch?v=EBtX9vh9KI4) You only lose what you cling to.
+[Follow your obsession.](https://x.com/zachpogrob) [Try to be legendary in your own way.](https://www.youtube.com/watch?v=Ju5kyQJyGBY) Few people get remembered hundreds of years after they die. Live a life worth remembering. [You have nothing to lose.](https://www.youtube.com/watch?v=EBtX9vh9KI4) You only lose what you cling to.
 
 Do not limit or cage yourself. You are capable of much more than you could imagine. 
 
@@ -22,13 +22,13 @@ Never say never. You don't know what you don't know, the unknown unknowns.
 
 [Always dream big and think big.](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big) If your dreams don't scare you, you are not dreaming big enough. [When you want something bad enough, all the universe will conspire in helping you to achieve it.](https://www.goodreads.com/quotes/5647-and-when-you-want-something-all-the-universe-conspires-in) [The people who are crazy enough to think they can change the world are the ones that do.](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can) If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. When you think big and lose, you often grow more than when you think small and win.
 
-Deliberately train yourself to be very good at suffering, uncommonly resilient, and have a very high level of pain tolerance. Develop world-class mental strength, resilience, and adaptability. Be an ascetic.
+Deliberately train yourself to be uncommonly resilient and have a very high level of pain tolerance. Develop world-class mental strength and adaptability. Be an ascetic.
 
 [Never lose the faith, no matter what sort of difficulties, how tough or painful experience is. Remember, if you lose your hope, that’s your real disaster.](https://www.goodreads.com/quotes/33164-there-is-a-saying-in-tibetan-tragedy-should-be-utilized)
 
-[Pain is inevitable. Suffering is optional.](https://www.youtube.com/shorts/ZWVecJO7g0c) As long as you find the thing you love to do or get obsessed with. [Follow your obsession.](https://x.com/zachpogrob?lang=en)
-
 [All greatness comes good character. And that character isn’t formed out of smart people. It’s formed from people who suffered.](https://www.youtube.com/watch?v=vOvQSqY7Jgc)
+
+[Pain is inevitable. Suffering is optional.](https://www.youtube.com/shorts/ZWVecJO7g0c) [If you are suffering, it is because you are asleep.](https://www.goodreads.com/book/show/94318.Awareness) Wake up!
 
 [Live as if today is your last day on Earth. Learn as if you were to live forever.](https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as)
 
@@ -242,11 +242,9 @@ Accept everything. Judge nothing. Find beauty in everything.
 
 Happiness comes from being grateful for what you already have. Being upset over what you don't have is to waste what you do have. Never let the things you want make you forget the things you already have. You have to want what you already have. [Remember that what you now have was once among the things you only hoped for.](https://www.goodreads.com/quotes/169009-do-not-spoil-what-you-have-by-desiring-what-you)
 
-[If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.](https://www.goodreads.com/quotes/10179235-if-you-look-at-what-you-have-in-life-you-ll) [Don’t let the pursuit of more stop you from enjoying what you already have.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Never let the quest for more distract you from the beauty of enough.](https://x.com/SahilBloom/status/1607057493762658306?lang=en) Enough is enough. Moderation/Harmony is key.
+[If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.](https://www.goodreads.com/quotes/10179235-if-you-look-at-what-you-have-in-life-you-ll) [Don’t let the pursuit of more stop you from enjoying what you already have.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Never let the quest for more distract you from the beauty of enough.](https://x.com/SahilBloom/status/1607057493762658306?lang=en) Enough is enough. Moderation/Harmony is key. You are already as perfect as you are now.
 
 [If you’re going to pursue “more”, remember to keep your life balanced, especially in terms of your health and relationships.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/)
-
-There is no such achievement you could possibly achieve that will make you any happier than you are right now—you are already as perfect as you are now.
 
 [Life is only 4000 weeks long.](https://www.amazon.de/-/en/Oliver-Burkeman/dp/0374159122) Make the rest of your life the best of your life. [Don't live the same year 75 times and call it a life.](https://www.goodreads.com/quotes/1346035-don-t-live-the-same-year-75-times-and-call-it) Inject some planned spontaneity and adventures into your days. Every time you do something that is one less time you could do it — cherish every moment of your life like it is your last — because it very likely might be. Every single thing you do today is something that your ninety-year-old self would wish they could go back and do. The good old days are happening RIGHT NOW.
 
