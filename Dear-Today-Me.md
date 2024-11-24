@@ -226,7 +226,7 @@ Think deeply. Think independently. Think in a different time frame, horizon, sca
 
 Try to make as many right and wise choices as you possibly can. Try to make as many great decisions that your eighty-year-old self and ten-year-old self would be proud of. Your decisions are investments you make into your future. Your future self is the most important stakeholder in your life. Take care of your future self, because you will become that person one day, and that person is the one who ultimately has to deal with whatever you do TODAY. No one cares more about your actions in the present than your future self. Bring the after into the before.
 
-Guard your time and take care of your brain (the software) and body (the hardware). A sound mind needs a sound body. Make it non-negotiable to prioritize your sleep, exercise, and nutrition.
+Guard your time and take care of your brain (the software) and body (the hardware). A sound mind needs a sound body. Make it non-negotiable to prioritize your sleep, exercise, and [nutrition](https://www.youtube.com/user/nutritionfactsorg).
 
 Never ever sacrifice your sleep. Don't limit sleep length. Sleep as much as your body needs. Sleep is the best legal performance enhancing drug on the planet. Listen to your body. Always make sure you get enough of seven to eight hours of sleep each night.
 
@@ -238,7 +238,7 @@ Do yoga, stretching, foam roller massage, and a lot of heat-cold contrast therap
 
 Fast as often as you can. Don't eat too much. Only eat when you are hungry. Stop eating when you are eighty percent full. Be wholeheartedly appreciative and fully present in gratitude for the food you eat and the body you are feeding. No craving. Don't use eating as a form of procrastination.
 
-[Eat real whole food only. No junk. Eat mostly plants.](https://www.youtube.com/user/nutritionfactsorg) Drink lots of water and tea. Limit coffee. No sugar, except raw honey. No alcohol, except white or red wine. 
+[Eat real whole food only. Not too much. Mostly plants.](https://sketchplanations.com/eat-food-not-too-much-mostly-plants) Drink lots of water and tea. Limit coffee. No sugar, except raw honey. No alcohol, except white or red wine. 
 
 Your mental and physical health above all. You can only enjoy your life if you are healthy. The healthier you are, the more enjoyable money is. Do your best to control the releases of your dopamine and insulin as much as you can. Delay gratification. No bad habits.
 
