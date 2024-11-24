@@ -28,7 +28,7 @@ Deliberately train yourself to be uncommonly resilient and have a very high leve
 
 [All greatness comes good character. And that character isn’t formed out of smart people. It’s formed from people who suffered.](https://www.youtube.com/watch?v=vOvQSqY7Jgc)
 
-[Pain is inevitable. Suffering is optional.](https://www.youtube.com/shorts/ZWVecJO7g0c) [If you are suffering, it is because you are asleep.](https://www.goodreads.com/book/show/94318.Awareness) Wake up!
+[Pain is inevitable. Suffering is optional.](https://www.youtube.com/shorts/ZWVecJO7g0c) You are the cause of your own suffering. [If you are suffering, it is because you are asleep.](https://www.goodreads.com/book/show/94318.Awareness) Wake up!
 
 [Live as if today is your last day on Earth. Learn as if you were to live forever.](https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as)
 
@@ -39,6 +39,8 @@ Try to learn something from everyone and everything every day. Learn from those 
 Never, ever stop learning. If you are not growing, you are dying. [If you don't learn, you can't change, and if you are not changing, what is the point of being here?](https://x.com/librarymindset/status/1530100260361539589) Think about it again! Cherish this massive birth gift. Always have faith in your capability learn new skills, no matter how hard the task seems. [Your ability to learn is not fixed, it can change with your effort.](https://www.youtube.com/watch?v=H14bBuluwB8)
 
 Question every rule. Always dig deeper. Doubt everything. Remove all labels. Don't believe everything you believe now. No beliefs are true. [Avoid the trap of expertise and experience.](https://hbr.org/podcast/2019/04/avoiding-the-expertise-trap)
+
+Be ready to transform yourself completely into another person, and be ready to be in an internal state of self-revolution at any time. Strong opinions, loosely held. Be dynamic, adaptable, and open-minded. [Don't get married to past views.](https://m.youtube.com/watch?v=m4RVTK7iU1c)
 
 Expect nothing. Expectations are limitations. They limit your true potential.
 
@@ -82,9 +84,11 @@ Just do yourself. [No one will ever be as good at being you than you are. No one
 
 Focus on the internal scorecard, not the external validation. Be primarily internally driven. You don't need to impress anyone but yourself. You become inhumanly strong when you try to impress only one person: YOU. You are always going to win the “YOU” game.
 
-Be confident, bold, and fearless. [Always stand up straight with your shoulders back.](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) Be decisive. Trust your gut. Remember that no one has it all figured out.
+Be confident, bold, and fearless. [Always stand up straight with your shoulders back.](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) Be decisive. Trust your gut. Remember that no one has it all figured out. Everyone is in a constant process of _finding_.
 
-[In life, the only constant is change.](https://www.youtube.com/watch?v=XNbaR54Gpj4) Your life doesn't get better by chance, it gets better by change. The first step toward change is awareness. The second step is acceptance. Be ready to transform yourself completely into another person, and be ready to be in an internal state of self-revolution at any time. Strong opinions, loosely held. Be dynamic, adaptable, and open-minded. Don't settle. Don't fixate on anything. Progress is about moving forward. Move. You are not a tree!
+[In life, the only constant is change.](https://www.youtube.com/watch?v=XNbaR54Gpj4) Your life doesn't get better by chance, it gets better by change. The first step toward change is awareness. The second step is acceptance.
+
+Don't settle. Don't fixate on anything. Progress is about moving forward. Move. You are not a tree!
 
 Embrace the uncertainty and randomness in life. Accept things the way as they are. When nothing is certain, everything is possible.
 
@@ -284,7 +288,7 @@ Never blame others. Remember: Who you blame is who you give your power to. He wh
 
 Praise specifically. Criticize generally. Praise in public. Criticize in private.
 
-Be kind, gentle, and friendly. Every single person is fighting a battle you know nothing about. Show empathy and compassion. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day. Practice small acts of kindness and don't keep score.
+Be kind, gentle, and friendly. Show empathy and compassion. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day. Practice small acts of kindness and don't keep score. Remember: Every single person is fighting a battle you know nothing about. Everyone is doing their best they can.
 
 When you think something nice about someone, tell them right away. Don't hold any unexpressed love until the last day of your life. Leave a positive review. Leave a compliment for someone, no matter how small it is. Make the coffee.
 
