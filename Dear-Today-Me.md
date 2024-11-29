@@ -28,7 +28,7 @@ Deliberately train yourself to be uncommonly resilient and have a very high leve
 
 [All greatness comes good character. And that character isn’t formed out of smart people. It’s formed from people who suffered.](https://www.youtube.com/watch?v=vOvQSqY7Jgc)
 
-[Pain is inevitable. Suffering is optional.](https://www.youtube.com/shorts/ZWVecJO7g0c) You are the cause of your own suffering. [If you are suffering, it is because you are asleep.](https://www.goodreads.com/book/show/94318.Awareness) Wake up!
+[Pain is inevitable. Suffering is optional.](https://www.youtube.com/shorts/ZWVecJO7g0c) If you don't feel pain, you haven't been hurt. You are the cause of your own suffering. [If you are suffering, it is because you are asleep.](https://www.goodreads.com/book/show/94318.Awareness) Wake up!
 
 [Live as if today is your last day on Earth. Learn as if you were to live forever.](https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as)
 
@@ -110,7 +110,7 @@ Adapt to changes. Learn from failures. Never make the same mistake. Your greates
 
 [The world isn't run by perfect people who never failed. The world is run by imperfect people who failed over and over again—but who used every failure to set the conditions for their future success. The best are never broken by the chaos—they train themselves to be prepared for it, to benefit from it.](https://www.sahilbloom.com/newsletter/how-to-use-failure-to-succeed)
 
-If something is wrong, fix it now, but train yourself not to worry. Time spent worrying is time wasted. It only drains your energy. Worry fixes nothing. Worrying does not take away tomorrow's troubles, but it takes away today's peace. Deal with the big while it is still small. Minor problems become major problems if you allow them to linger.
+If something is wrong, fix it now, but train yourself not to worry. Time spent worrying is time wasted. It only drains your energy. Worry fixes nothing. Worry before it is necessary is to worry more than is necessary. Worrying does not take away tomorrow's troubles, but it takes away today's peace. Deal with the big while it is still small. Minor problems become major problems if you allow them to linger.
 
 You always have 3 options in any circumstance/situation in life: change it, accept it, or leave it. If you don't like something, change it. If you can't change it, change your attitude. But never, never, ever complain about anything. If it's within your control, go do something about it. If it's not, complaining is just a waste of energy.
 
