@@ -1,8 +1,8 @@
 Dear Today Me,
 
-Try to be the best version of yourself as you possibly can—[that's the reason why you exist on this planet.](https://www.youtube.com/watch?v=LS0gSjrlMJc)
+[Try to be the best version of yourself as you possibly can](https://www.youtube.com/watch?v=a1zDuOPkMSw)—[that's the reason why you exist on this planet.](https://www.youtube.com/watch?v=LS0gSjrlMJc)
 
-Always give your best, even when no one is watching. It's not just about shining. It's about fueling your energy and boosting your confidence. [At the end of the day, you can lay down and rest easy knowing you have made the best of which you're capable and gave it your all.](https://www.goodreads.com/quotes/445606-being-the-richest-man-in-the-cemetery-doesn-t-matter-to)
+[Always give your best, even when no one is watching. It's not just about shining. It's about fueling your energy and boosting your confidence.](https://www.mccurley.org/advice/hamming_advice.html) [At the end of the day, you can lay down and rest easy knowing you have made the best of which you're capable and gave it your all.](https://www.goodreads.com/quotes/445606-being-the-richest-man-in-the-cemetery-doesn-t-matter-to)
 
 [Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with being the best in the world at whatever you do professionally. [Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) Never do half-reps. Wherever you go, go with all your heart. Otherwise, you'll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
 
@@ -12,7 +12,7 @@ Do not limit or cage yourself. You are capable of much more than you could imagi
 
 Old ways won't open new doors. If you always do what you've always done, you'll always get what you've always got. If you want something you've never had, you must be willing to do something you've never done.
 
-Try to identify your capability gap and work relentlessly to close it.
+[Try to identify your capability gap and work relentlessly to close it.](https://x.com/SahilBloom/status/1730586779730772302)
 
 Never say never. You don't know what you don't know, the unknown unknowns.
 
@@ -34,31 +34,17 @@ Deliberately train yourself to be uncommonly resilient and have a very high leve
 
 Learn with no end in mind. Learn for no reason at all. [Learn how to learn.](https://www.coursera.org/learn/learning-how-to-learn) [Learn in public.](https://www.swyx.io/learn-in-public) Learning is the single best investment that you can make for your time.
 
-Try to learn something from everyone and everything every day. Learn from those ahead of you on a path you want to take. Pretend everyone was sent to teach you something. Every person is a new door to a different world. Every person has a story to share and a lesson to tell. Stay curious.
-
-Never, ever stop learning. If you are not growing, you are dying. [If you don't learn, you can't change, and if you are not changing, what is the point of being here?](https://x.com/librarymindset/status/1530100260361539589) Think about it again! Cherish this massive birth gift. Always have faith in your capability learn new skills, no matter how hard the task seems. [Your ability to learn is not fixed, it can change with your effort.](https://www.youtube.com/watch?v=H14bBuluwB8)
+Try to learn something about everything and everything about something every day. Never, ever stop learning. If you are not growing, you are dying. [If you don't learn, you can't change, and if you are not changing, what is the point of being here?](https://x.com/librarymindset/status/1530100260361539589) Think about it again! Cherish this massive birth gift. Always have faith in your capability learn new skills, no matter how hard the task seems. [Your ability to learn is not fixed, it can change with your effort.](https://www.youtube.com/watch?v=H14bBuluwB8)
 
 Question every rule. Always dig deeper. Doubt everything. Remove all labels. Don't believe everything you believe now. No beliefs are true. [Avoid the trap of expertise and experience.](https://hbr.org/podcast/2019/04/avoiding-the-expertise-trap)
 
-Be ready to transform yourself completely into another person, and be ready to be in an internal state of self-revolution at any time. Strong opinions, loosely held. Be dynamic, adaptable, and open-minded. [Don't get married to past views.](https://m.youtube.com/watch?v=m4RVTK7iU1c)
+Be ready to transform yourself completely into another person, and be ready to be in an internal state of self-revolution at any time. Strong opinions, loosely held. Be dynamic, adaptable, and open-minded. [Don't get married to past views.](https://m.youtube.com/watch?v=m4RVTK7iU1c) Stay curious.
 
-Expect nothing. Expectations are limitations. They limit your true potential.
+Expect nothing. Expectations are limitations. They limit your true potential. [Adapt what is useful, reject what is useless, and add what is specifically your own.](https://www.goodreads.com/quotes/30620-adapt-what-is-useful-reject-what-is-useless-and-add) Adopt what works for you NOW. Not everything that can be counted counts. Not everything that counts can be counted. Always see things from different perspectives. No assumptions. No judgments.
 
-[Adapt what is useful, reject what is useless, and add what is specifically your own.](https://www.goodreads.com/quotes/30620-adapt-what-is-useful-reject-what-is-useless-and-add) Adopt what works for you NOW.
+Never forget why you are really doing what you are doing. [Always ask the WHY.](https://www.youtube.com/watch?v=u4ZoJKF_VuA) [Spend much of your day out of interest rather than obligation.](https://x.com/naval/status/908052298957332480) Only do what energizes and makes you truly fulfilled and happy as a kid. Only do what you love for work, and use your work to create anything you truly care about from anywhere on Earth.
 
-Not everything that can be counted counts. Not everything that counts can be counted.
-
-Always see things from different perspectives. No assumptions. No judgments.
-
-Never forget why you are really doing what you are doing. [Always ask the WHY.](https://www.youtube.com/watch?v=u4ZoJKF_VuA)
-
-[Spend much of your day out of interest rather than obligation.](https://x.com/naval/status/908052298957332480)
-
-Only do what energizes and makes you truly fulfilled and happy as a kid. Only do what you love for work, and use your work to create anything you truly care about from anywhere on Earth.
-
-You get one life. One chance. One go. [You make yourself either miserable or strong — the amount of work is the same.](https://www.goodreads.com/quotes/150453-we-either-make-ourselves-miserable-or-we-make-ourselves-strong) Why not create something wonderful? The time will pass anyway.
-
-[Either write something worth reading or do something worth writing.](https://www.brainyquote.com/quotes/benjamin_franklin_133951)
+You get one life. One chance. One go. [You make yourself either miserable or strong — the amount of work is the same.](https://www.goodreads.com/quotes/150453-we-either-make-ourselves-miserable-or-we-make-ourselves-strong) Why not create something wonderful? The time will pass anyway. [Either write something worth reading or do something worth writing.](https://www.brainyquote.com/quotes/benjamin_franklin_133951)
 
 Never forget your childhood dreams. [Have the courage to follow your own heart and intuition — they somehow already know what you truly want to become — everything else is secondary.](https://www.goodreads.com/quotes/445286-have-the-courage-to-follow-your-heart-and-intuition-they)
 
@@ -100,9 +86,9 @@ There is no such thing as a perfect you. It's all about optimization. And optimi
 
 Life goes on. You got to keep going, keep moving, keep improving, keep exploring, and keep experimenting. [Life can only be understood backwards, but it must be lived forwards.](https://www.goodreads.com/quotes/6812-life-can-only-be-understood-backwards-but-it-must-be)
 
-Explore, Discover, Try, Fail, Disappoint, Get lost, Suffer, Ask, Get feedback, Learn, Grow, Iterate, and Repeat. [You can't connect the dots looking forward; you can only connect them looking backwards.](https://www.goodreads.com/quotes/463176-you-can-t-connect-the-dots-looking-forward-you-can-only) 
+[Explore](https://terrytao.wordpress.com/career-advice/dont-be-afraid-to-learn-things-outside-your-field/), Discover, Try, Fail, Disappoint, Get lost, Suffer, Ask, Get feedback, Learn, Grow, Iterate, and Repeat. [You can't connect the dots looking forward; you can only connect them looking backwards.](https://www.goodreads.com/quotes/463176-you-can-t-connect-the-dots-looking-forward-you-can-only) 
 
-Leave your comfort zone. Take as much calculated risk as you can afford. Step into the unknown. Sit with the discomfort. Remember, if you are not failing occasionally, you are probably being too conservative. Taking no risk is the biggest risk you can take.
+Leave your comfort zone. [Don't always play safe. Don't always stick to what you already know.](https://www.youtube.com/watch?v=jE-vY5-3zhU&t=35m18s) Take as much calculated risk as you can afford. Step into the unknown. Sit with the discomfort. Remember, if you are not failing occasionally, you are probably being too conservative. Taking no risk is the biggest risk you can take.
 
 Never give up. Rest in the end, not in the middle. Be like a postage stamp. Stick to it until you get there.
 
@@ -132,7 +118,7 @@ You don't get to pick and choose when to show up, because the world will ignore 
 
 Your daily behaviors shape your future. A good day of training is worth little on its own, but a good year was worth plenty. Your final results are merely a reflection of your prior commitments. Do a little more what you want to do every single day, until your vision becomes reality. It's those little bits of good put together that overwhelm the world. [All success is a lagging indicator.](https://ryanholiday.net/all-success-is-a-lagging-indicator)
 
-Every effort counts. How you do one thing is how you do everything. Anything above zero compounds positively. Start with small baby steps. Always take the small things seriously, because small things become big things. Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. The most exciting outputs come from the most boring inputs. Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
+Every effort counts. How you do one thing is how you do everything. Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because small things become big things. Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. The most exciting outputs come from the most boring inputs. Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
 
 Be very biased toward execution. Set 5-year goals, but take 10-minute actions. Think in terms of decades, but act in terms of days. Think as if you were in a marathon, but act as if you were in a sprint. Think like a man of action, and act like a man of thought. Focus on the effort, not outcomes. Be patient with results, but inpatient with actions. [If you are not taking action consistently, then you are not practicing patience—you are just waiting.](https://jamesclear.com/3-2-1/may-16-2024) Remember: Action doesn't have to be perfect for it to be right.
 
@@ -270,9 +256,9 @@ Be mindful, intentional, and purposeful. [Live life by design, not default.](htt
 
 Live in the present. Let past go. Look towards the future. Anything outside of this present moment is just an imagination. Only NOW is the reality. Nothing lasts forever. Life is not something happening in the future, it's something happening RIGHT NOW. Live immediately.
 
-Surround yourself with people you love and admire; with people who think differently than you. Put yourself in rooms you don't belong to; in rooms with a high density of value-aligned individuals. Reach out to inspiring people who are going to uplift you higher and living the life you want to live. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Hold on to these people like your life depends on them.
+You are the average of the five people you associate with most. Surround yourself with people you love and admire; with people who think differently than you. Put yourself in rooms you don't belong to; in rooms with a high density of value-aligned individuals. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Hold on to these people like your life depends on them. The quality of your experiences will be largely determined by the people you surround yourself with.
 
-You are the average of the five people you associate with most. The quality of your experiences will be largely determined by the people you surround yourself with. Find your tribe. Build your personal advisory board of mentors.
+Reach out to inspiring people who are going to uplift you higher and living the life you want to live. Learn from those ahead of you on a path you want to take. Every person is a new door to a different world. Every person has a story to share and a lesson to tell. Find your tribe. Build your personal advisory board of mentors.
 
 [Life is short.](https://paulgraham.com/vb.html) Savor close relationships. Treasure “inner circle” friendships. Tell those human you love that you love them while they are still alive. Create memories with them.
 
