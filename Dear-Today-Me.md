@@ -188,7 +188,7 @@ Separate planning from doing. Life is what happens when you're busy making other
 
 The main thing is to keep the main thing main thing. Choose important over urgent. Don't sweat the small stuff. Don't major in the minor things. The trick is letting go of the minors and focus on your priorities. [Learn to let the small, bad things happen and meke the huge, great things happen.](https://tim.blog/2007/10/25/weapons-of-mass-distractions-and-the-art-of-letting-bad-things-happen/)
 
-Always speak less than necessary. Keep your mouth shut as much as possible. The more you say, the more likely you are to say something foolish.
+Always speak less than necessary. Keep your mouth shut as often as possible. The more you say, the more likely you are to say something foolish.
 
 [Man who cannot control his words cannot control himself.](https://x.com/RobertGreene/status/1765074873523798410#)
 
