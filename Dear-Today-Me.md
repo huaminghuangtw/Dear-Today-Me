@@ -40,7 +40,9 @@ Question every rule. Always dig deeper. Doubt everything. Remove all labels. Don
 
 Be ready to transform yourself completely into another person, and be ready to be in an internal state of self-revolution at any time. Strong opinions, loosely held. Be dynamic, adaptable, and open-minded. [Don't get married to past views.](https://m.youtube.com/watch?v=m4RVTK7iU1c) Stay curious.
 
-Expect nothing. Expectations are limitations. They limit your true potential. [Adapt what is useful, reject what is useless, and add what is specifically your own.](https://www.goodreads.com/quotes/30620-adapt-what-is-useful-reject-what-is-useless-and-add) Adopt what works for you NOW. Not everything that can be counted counts. Not everything that counts can be counted. Always see things from different perspectives. No assumptions. No judgments.
+Expect nothing. Expectations are limitations. They limit your true potential. Know your limits but never stop trying to exceed them.
+
+[Adapt what is useful, reject what is useless, and add what is specifically your own.](https://www.goodreads.com/quotes/30620-adapt-what-is-useful-reject-what-is-useless-and-add) Adopt what works for you NOW. Not everything that can be counted counts. Not everything that counts can be counted. Always see things from different perspectives. No assumptions. No judgments.
 
 Never forget why you are really doing what you are doing. [Always ask the WHY.](https://www.youtube.com/watch?v=u4ZoJKF_VuA) [Spend much of your day out of interest rather than obligation.](https://x.com/naval/status/908052298957332480) Only do what energizes and makes you truly fulfilled and happy as a kid. Only do what you love for work, and use your work to create anything you truly care about from anywhere on Earth.
 
