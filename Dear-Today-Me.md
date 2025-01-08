@@ -48,7 +48,7 @@ Never forget why you are really doing what you are doing. [Always ask the WHY.](
 
 You get one life. One chance. One go. [You make yourself either miserable or strong — the amount of work is the same.](https://www.goodreads.com/quotes/150453-we-either-make-ourselves-miserable-or-we-make-ourselves-strong) Why not create something wonderful? The time will pass anyway. [Either write something worth reading or do something worth writing.](https://www.brainyquote.com/quotes/benjamin_franklin_133951)
 
-Never forget your childhood dreams. [Have the courage to follow your own heart and intuition — they somehow already know what you truly want to become — everything else is secondary.](https://www.goodreads.com/quotes/445286-have-the-courage-to-follow-your-heart-and-intuition-they)
+Never forget your childhood dreams. Never lose the child inside you. [Have the courage to follow your own heart and intuition — they somehow already know what you truly want to become — everything else is secondary.](https://www.goodreads.com/quotes/445286-have-the-courage-to-follow-your-heart-and-intuition-they)
 
 Let your heart speak. Listen to your instinct. If your heart isn't in it, don't start it. Grab the opportunity when it presents itself, and then give it your all.
 
