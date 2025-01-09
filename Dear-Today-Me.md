@@ -174,7 +174,7 @@ Life is hard. Choose your hard. Use the difficulty. Find your edge. Remember tha
 
 [You can't read the label from inside the bottle. Sometimes it takes outside eyes to help you see where you are.](https://rhondapeterson.com/you-cant-read-the-label-from-inside-the-bottle/)
 
-[When in doubt, zoom out.](https://www.youtube.com/watch?v=wupToqz1e2g) [When in doubt, don't.](https://www.brainyquote.com/quotes/benjamin_franklin_119121) [When in doubt, follow your genuine intellectual curiosity and interests. They never lie, and they know more than you do about what is worth paying attention to.](https://paulgraham.com/greatwork.html)
+[When in doubt, zoom out.](https://www.youtube.com/watch?v=wupToqz1e2g) When in doubt, act. [When in doubt, don't.](https://www.brainyquote.com/quotes/benjamin_franklin_119121) [When in doubt, follow your genuine intellectual curiosity and interests. They never lie, and they know more than you do about what is worth paying attention to.](https://paulgraham.com/greatwork.html)
 
 Slow down and calm down to select opportunities and activities with the highest leverage and return on investments. Do things strategically, incrementally, and methodically. Always make sure you have clean thinking and extreme clarity in mind prior any effort. If you slow down, you'll speed up.
 
