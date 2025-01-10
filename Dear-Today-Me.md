@@ -50,7 +50,7 @@ You get one life. One chance. One go. [You make yourself either miserable or str
 
 Never forget your childhood dreams. Never lose the child inside you. [Have the courage to follow your own heart and intuition — they somehow already know what you truly want to become — everything else is secondary.](https://www.goodreads.com/quotes/445286-have-the-courage-to-follow-your-heart-and-intuition-they)
 
-Let your heart speak. Listen to your instinct. If your heart isn't in it, don't start it. Grab the opportunity when it presents itself, and then give it your all.
+[Pursue what catches your heart, not what catches your eyes.](https://www.goodreads.com/quotes/6564377-pursue-what-catches-your-heart-not-what-catches-your-eyes) Let your heart speak. Listen to your instinct. If your heart isn't in it, don't start it. Grab the opportunity when it presents itself, and then give it your all.
 
 [Life shrinks or expands in proportion to one's courage.](https://x.com/tferriss/status/1771644332367327414#) [Twenty years from now you will regret and be more disappointed by the things that you didn't do than by the ones you did do.](https://www.youtube.com/watch?v=jwG_qR6XmDQ)
 
