@@ -66,7 +66,9 @@ Do not try to be the man your father would want you to be. Be the man you would 
 
 Be the master of your fate. Be the captain of your soul. Own your power, influence your world, and be the champion you are meant to be. Never compare yourself to others. Comparison is the thief of joy. Run your own race. No jealousy. No envy.
 
-If you spend your time chasing butterflies, they'll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come. Attract, not chase. [You should be too busy working on your grass to notice others is greener. Water your own grass.](https://www.reddit.com/r/GetMotivated/comments/fk2pol/image_im_too_busy_working_on_my_own_grass_to/) Focus on bettering yourself.
+If you spend your time chasing butterflies, they'll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come. Attract, not chase.
+
+_[You should be too busy working on your grass to notice others is greener.](https://www.reddit.com/r/GetMotivated/comments/fk2pol/image_im_too_busy_working_on_my_own_grass_to/) [Let the improvement of yourself keep you so busy that you have no time to criticize others.](app://obsidian.md/%5Bhttps://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that%5D(https://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that)) Water your own grass. Focus on bettering yourself._
 
 Just do yourself. [No one will ever be as good at being you than you are. No one can compete with you on being you.](https://x.com/naval/status/797865441783709696?lang=en) The only person you have to compete against is yourself.
 
@@ -87,6 +89,8 @@ There is no such thing as a perfect you. It's all about optimization. And optimi
 [Keep your identity small.](https://paulgraham.com/identity.html) Listen very carefully to constructive negative feedback and criticism. Seek for the truth. No ego. [Be humble.](https://fs.blog/david-foster-wallace-this-is-water/) Be coachable. When you let go of what you are, you become what you might be. Enjoy being wrong or looking/sounding “stupid” in a public setting. Embrace that beginner's embarrassment. Approach everything with a beginner's mind. [It's always Day One.](https://www.youtube.com/watch?v=fTwXS2H_iJo&ab_channel=AmazonNews)
 
 Life goes on. You got to keep going, keep moving, keep improving, keep exploring, and keep experimenting. [Life can only be understood backwards, but it must be lived forwards.](https://www.goodreads.com/quotes/6812-life-can-only-be-understood-backwards-but-it-must-be)
+
+[Treat your life as a laboratory where you can try anything.](https://x.com/zachpogrob/status/1507197787041112069) [Consider everything in life as an experiment](https://x.com/anuatluru/status/1760357731091783916), with each experience serving as a [diary entry](https://youtu.be/GpgqXCkRO-w&t=30m22s).
 
 [Explore](https://terrytao.wordpress.com/career-advice/dont-be-afraid-to-learn-things-outside-your-field/), Discover, Try, Fail, Disappoint, Get lost, Suffer, Ask, Get feedback, Learn, Grow, Iterate, and Repeat. [You can't connect the dots looking forward; you can only connect them looking backwards.](https://www.goodreads.com/quotes/463176-you-can-t-connect-the-dots-looking-forward-you-can-only) 
 
@@ -114,7 +118,7 @@ If you want something—and you've done the work to earn it—[go ask for it. Cl
 
 Make consistent daily tiny actions. Make everyday count. Never miss a day. Everyday you start at zero. The sun is new each day. Each morning you are born again. What you do today is what matters most. [The days are long, but the decades are short.](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) [How you spend your days is how you spend your life.](https://www.goodreads.com/quotes/530337-how-we-spend-our-days-is-of-course-how-we)
 
-No time wasted. Every single minute matters. Ten minutes, once gone, are gone for good. You will never get the same moment twice.
+Never to be idle. No time wasted. Every single minute matters. Ten minutes, once gone, are gone for good. You will never get the same moment twice.
 
 You don't get to pick and choose when to show up, because the world will ignore your best and judge you for your worst. Show up every day. Be a habit and routine machine. Every single day, chop wood, carry water. [The work never stops.](https://www.youtube.com/watch?v=Ju5kyQJyGBY)
 
@@ -230,11 +234,11 @@ Fast as often as you can. Only eat when you are hungry. Eat when you are ready t
 
 Your mental and physical health above all. You can only enjoy your life if you are healthy. The healthier you are, the more enjoyable money is. Do your best to control the releases of your dopamine and insulin as much as you can. Delay gratification. No bad habits.
 
-Accept everything. Judge nothing. Find beauty in everything.
+Accept everything. Judge nothing. Find beauty in everything. Don't keep score.
 
 Happiness comes from being grateful for what you already have. Being upset over what you don't have is to waste what you do have. Never let the things you want make you forget the things you already have. You have to want what you already have. [Remember that what you now have was once among the things you only hoped for.](https://www.goodreads.com/quotes/169009-do-not-spoil-what-you-have-by-desiring-what-you)
 
-[If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.](https://www.goodreads.com/quotes/10179235-if-you-look-at-what-you-have-in-life-you-ll) [Don’t let the pursuit of more stop you from enjoying what you already have.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Never let the quest for more distract you from the beauty of enough.](https://x.com/SahilBloom/status/1607057493762658306?lang=en) Enough is enough. Moderation/Harmony is key. You are already as perfect as you are now.
+[If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.](https://www.goodreads.com/quotes/10179235-if-you-look-at-what-you-have-in-life-you-ll) [Don’t let the pursuit of more stop you from enjoying what you already have.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Never let the quest for more distract you from the beauty of enough.](https://x.com/SahilBloom/status/1607057493762658306?lang=en) Enough is enough. Moderation and harmony is key. Everything in balance. You are already as perfect as you are now.
 
 [If you’re going to pursue “more”, remember to keep your life balanced, especially in terms of your health and relationships.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/)
 
@@ -276,7 +280,7 @@ Never blame others. Remember: Who you blame is who you give your power to. He wh
 
 Praise specifically. Criticize generally. Praise in public. Criticize in private.
 
-Be kind, gentle, and friendly. Show empathy and compassion. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day. Practice small acts of kindness and don't keep score. Remember: Every single person is fighting a battle you know nothing about. Everyone is doing their best they can.
+Be kind, gentle, and friendly. Show empathy and compassion. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day. Practice random acts of kindness. Remember: Every single person is fighting a battle you know nothing about. Everyone is doing their best they can.
 
 When you think something nice about someone, tell them right away. Don't hold any unexpressed love until the last day of your life. Leave a positive review. Leave a compliment for someone, no matter how small it is. Make the coffee.
 
