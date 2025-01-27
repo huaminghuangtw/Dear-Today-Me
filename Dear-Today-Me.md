@@ -214,7 +214,7 @@ Know who you are. [Love yourself.](https://www.goodreads.com/quotes/6915192-the-
 
 Don't take anything personally. Never let any words hurt you. Don't care what other people might think of you. If you try to please everyone—you will please no one. Never try to impress people you don't like. [Never try to copy someone who wants something you don’t want.](https://collabfund.com/blog/your-way-is-the-only-way/)
 
-Think deeply. Think independently. Think in a different time frame, horizon, scale, and dimension. Think long term.
+Think deeply. Think independently. Think in a different time frame, horizon, scale, and dimension. Think very long term.
 
 Try to make as many right and wise choices as you possibly can. Try to make as many great decisions that your eighty-year-old self and ten-year-old self would be proud of. Your decisions are investments you make into your future. Your future self is the most important stakeholder in your life. Take care of your future self, because you will become that person one day, and that person is the one who ultimately has to deal with whatever you do TODAY. No one cares more about your actions in the present than your future self. Bring the after into the before.
 
