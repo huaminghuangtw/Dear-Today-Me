@@ -42,7 +42,7 @@ Be ready to transform yourself completely into another person, and be ready to b
 
 Expect nothing. Expectations are limitations. They limit your true potential. Know your limits but never stop trying to exceed them.
 
-[Adapt what is useful, reject what is useless, and add what is specifically your own.](https://www.goodreads.com/quotes/30620-adapt-what-is-useful-reject-what-is-useless-and-add) Adopt what works for you NOW. Not everything that can be counted counts. Not everything that counts can be counted. Always see things from different perspectives. No assumptions. No judgments.
+[Adapt what is useful, reject what is useless, and add what is specifically your own.](https://www.goodreads.com/quotes/30620-adapt-what-is-useful-reject-what-is-useless-and-add) Adopt what works for you NOW. Not everything that can be counted counts. Not everything that counts can be counted. Always see things from different perspectives. No assumptions. No judgments. Accept things the way as they are. Nothing is ever as good as you think it will be or as bad as you fear.
 
 Never forget why you are really doing what you are doing. [Always ask the WHY.](https://www.youtube.com/watch?v=u4ZoJKF_VuA) [Spend much of your day out of interest rather than obligation.](https://x.com/naval/status/908052298957332480) Only do what energizes and makes you truly fulfilled and happy as a kid. Only do what you love for work, and use your work to create anything you truly care about from anywhere on Earth.
 
@@ -80,7 +80,7 @@ Be confident, bold, and fearless. [Always stand up straight with your shoulders 
 
 Don't settle. Don't fixate on anything. Progress is about moving forward. Move. You are not a tree!
 
-Embrace the uncertainty and randomness in life. Accept things the way as they are. When nothing is certain, everything is possible.
+Embrace the uncertainty and randomness in life. When nothing is certain, everything is possible.
 
 [There is no Past You to cling to, there is no Future You to worry about. There is just the Present You to take action. You simply exist. You never become, you are in a constant state of becoming. There is just you—The Ever-Changing You.](https://www.sahilbloom.com/newsletter/the-ever-changing-you)
 
@@ -120,7 +120,7 @@ Make consistent daily tiny actions. Make everyday count. Never miss a day. Every
 
 Never to be idle. No time wasted. Every single minute matters. Ten minutes, once gone, are gone for good. You will never get the same moment twice.
 
-You don't get to pick and choose when to show up, because the world will ignore your best and judge you for your worst. Show up every day. Be a habit and routine machine. Every single day, chop wood, carry water. [The work never stops.](https://www.youtube.com/watch?v=Ju5kyQJyGBY)
+You don't get to pick and choose when to show up, because the world will ignore your best and judge you for your worst. Show up every day. Be a habit and routine machine. Every single day, chop wood, carry water. [The work never stops.](https://www.youtube.com/watch?v=Ju5kyQJyGBY) The world is run by those who show up consistently.
 
 Your daily behaviors shape your future. A good day of training is worth little on its own, but a good year was worth plenty. Your final results are merely a reflection of your prior commitments. Do a little more what you want to do every single day, until your vision becomes reality. It's those little bits of good put together that overwhelm the world. [All success is a lagging indicator.](https://ryanholiday.net/all-success-is-a-lagging-indicator)
 
