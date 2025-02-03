@@ -144,7 +144,7 @@ In the mean time, try to accomplish things with the least amount of effort. Find
 
 [Most of life is a search for who and what needs you the most.](https://x.com/naval/status/797865441783709696?lang=en) Serve for the community. Leave your legacy. Try your best to be useful and helpful to the society, the world, the universe. Your goal is to become a person of value, not a person of success. [One hand washes the other and together they get clean.](https://www.reddit.com/r/lifehacks/comments/1bgw44k/i_turned_72_today/) Help someone else. Inspire and help others, however you can. [It doesn't matter how many people don't get it. What matters is how many people do it.](https://tim.blog/2008/12/31/things-ive-learned-and-loved-in-2008/)
 
-You are playing an infinite and lifelong game. Everything important is uncertain. Nothing worthwhile comes easy. Nothing meaningful in life is easy. Nothing easy in life is meaningful. Everything worth doing takes time. If it's worth doing, it's worth doing very well.
+You are playing an infinite and lifelong game. Everything important is uncertain. Nothing worthwhile comes easy. Nothing meaningful in life is easy. Nothing easy in life is meaningful. Everything worth doing takes longer than you think. If it's worth doing, it's worth doing very well. Get started and don't worry about the clock.
 
 Do things no one cares about but you. Do the old fashioned things well. Do foolish things that don't scale with enthusiasm. Those stupid, meaningless obsessions are all worth it in the end, because once you get there, you can move mountains and bend the world.
 
@@ -236,7 +236,7 @@ Your mental and physical health above all. You can only enjoy your life if you a
 
 Accept everything. Judge nothing. Find beauty in everything. Don't keep score.
 
-Happiness comes from being grateful for what you already have. Being upset over what you don't have is to waste what you do have. Never let the things you want make you forget the things you already have. You have to want what you already have. [Remember that what you now have was once among the things you only hoped for.](https://www.goodreads.com/quotes/169009-do-not-spoil-what-you-have-by-desiring-what-you)
+Happiness comes from being grateful for what you already have. Being upset over what you don't have is to waste what you do have. Never let the things you want make you forget the things you already have. You have to want what you already have. [Remember that what you now have was once among the things you only hoped for.](https://www.goodreads.com/quotes/169009-do-not-spoil-what-you-have-by-desiring-what-you) [Don't neglect the gold in your own back yard.](https://www.goodreads.com/quotes/182524-don-t-neglect-the-gold-in-your-own-back-yard)
 
 [If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.](https://www.goodreads.com/quotes/10179235-if-you-look-at-what-you-have-in-life-you-ll) [Don’t let the pursuit of more stop you from enjoying what you already have.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Never let the quest for more distract you from the beauty of enough.](https://x.com/SahilBloom/status/1607057493762658306?lang=en) Enough is enough. Moderation and harmony is key. Everything in balance. You are already as perfect as you are now.
 
