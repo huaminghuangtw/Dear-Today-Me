@@ -2,7 +2,7 @@ Dear Today Me,
 
 [Try to be the best version of yourself as you possibly can](https://www.youtube.com/watch?v=a1zDuOPkMSw)—[that's the reason why you exist on this planet.](https://www.youtube.com/watch?v=LS0gSjrlMJc)
 
-[Always give your best, even when no one is watching. It's not just about shining. It's about fueling your energy and boosting your confidence.](https://www.mccurley.org/advice/hamming_advice.html) [At the end of the day, you can lay down and rest easy knowing you have made the best of which you're capable and gave it your all.](https://www.goodreads.com/quotes/445606-being-the-richest-man-in-the-cemetery-doesn-t-matter-to)
+[Always give your best, even when no one is watching. It's not just about shining. It's about fueling your energy and boosting your confidence.](https://www.mccurley.org/advice/hamming_advice.html) [At the end of the day, you can lie down and rest easy, knowing you've gave it your all and made the most of your abilities.](https://www.goodreads.com/quotes/445606-being-the-richest-man-in-the-cemetery-doesn-t-matter-to)
 
 [Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with being the best in the world at whatever you do professionally. [Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) Never do half-reps. Wherever you go, go with all your heart. Otherwise, you'll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
 
@@ -96,7 +96,7 @@ Life goes on. You got to keep going, keep moving, keep improving, keep exploring
 
 Leave your comfort zone. [Don't always play safe. Don't always stick to what you already know.](https://www.youtube.com/watch?v=jE-vY5-3zhU&t=35m18s) Take as much calculated risk as you can afford. Step into the unknown. Sit with the discomfort. Remember, if you are not failing occasionally, you are probably being too conservative. Taking no risk is the biggest risk you can take.
 
-Never give up. Rest in the end, not in the middle. Be like a postage stamp. Stick to it until you get there.
+Never give up. Rest in the end, not in the middle. [It ain't over until it's over.](https://youtu.be/TmENMZFUU_0) Be like a postage stamp. Stick to it until you get there.
 
 Adapt to changes. Learn from failures. Never make the same mistake. Your greatest success is very likely just one step beyond your greatest failure.
 
@@ -280,7 +280,7 @@ Never blame others. Remember: Who you blame is who you give your power to. He wh
 
 Praise specifically. Criticize generally. Praise in public. Criticize in private.
 
-Be kind, gentle, and friendly. Show empathy and compassion. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day. Practice random acts of kindness. Remember: Every single person is fighting a battle you know nothing about. Everyone is doing their best they can.
+Be kind, gentle, and friendly. Show empathy and compassion. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day. Practice random acts of kindness. Remember: Every single person is fighting a battle you know nothing about. [People are doing the best that they can from their own level of consciousness.](https://www.goodreads.com/quotes/82220-people-are-doing-the-best-that-they-can-from-their)
 
 When you think something nice about someone, tell them right away. Don't hold any unexpressed love until the last day of your life. Leave a positive review. Leave a compliment for someone, no matter how small it is. Make the coffee.
 
