@@ -44,7 +44,9 @@ Expect nothing. Expectations are limitations. They limit your true potential. Kn
 
 [Adapt what is useful, reject what is useless, and add what is specifically your own.](https://www.goodreads.com/quotes/30620-adapt-what-is-useful-reject-what-is-useless-and-add) Adopt what works for you NOW. Not everything that can be counted counts. Not everything that counts can be counted. Always see things from different perspectives. No assumptions. No judgments. Accept things the way as they are. Nothing is ever as good as you think it will be or as bad as you fear.
 
-Never forget why you are really doing what you are doing. [Always ask the WHY.](https://www.youtube.com/watch?v=u4ZoJKF_VuA) [Spend much of your day out of interest rather than obligation.](https://x.com/naval/status/908052298957332480) Only do what energizes and makes you truly fulfilled and happy as a kid. Only do what you love for work, and use your work to create anything you truly care about from anywhere on Earth.
+Never forget why you are really doing what you are doing. [Always ask the WHY,](https://www.youtube.com/watch?v=u4ZoJKF_VuA) and align your work with your long-term vision. The worst day working on your purpose will still be better than the best day working on something that isn't your purpose.
+
+[Spend much of your day out of interest rather than obligation.](https://x.com/naval/status/908052298957332480) Only do what energizes and makes you truly fulfilled and happy as a kid. Only do what you love for work, and use your work to create anything you truly care about from anywhere on Earth.
 
 You only live once. One life. One chance. One go. [You make yourself either miserable or strong — the amount of work is the same.](https://www.goodreads.com/quotes/150453-we-either-make-ourselves-miserable-or-we-make-ourselves-strong) Why not create something wonderful? The time will pass anyway. [Either write something worth reading or do something worth writing.](https://www.brainyquote.com/quotes/benjamin_franklin_133951)
 
