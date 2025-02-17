@@ -98,8 +98,6 @@ Life goes on. You got to keep going, keep moving, keep improving, keep exploring
 
 Leave your comfort zone. [Don't always play safe. Don't always stick to what you already know.](https://www.youtube.com/watch?v=jE-vY5-3zhU&t=35m18s) Take as much calculated risk as you can afford. Step into the unknown. Sit with the discomfort. Remember, if you are not failing occasionally, you are probably being too conservative. Taking no risk is the biggest risk you can take.
 
-Never give up. Rest in the end, not in the middle. [It ain't over until it's over.](https://youtu.be/TmENMZFUU_0) Be like a postage stamp. Stick to it until you get there.
-
 Adapt to changes. Learn from failures. Never make the same mistake. Your greatest success is very likely just one step beyond your greatest failure.
 
 [The world isn't run by perfect people who never failed. The world is run by imperfect people who failed over and over again—but who used every failure to set the conditions for their future success. The best are never broken by the chaos—they train themselves to be prepared for it, to benefit from it.](https://www.sahilbloom.com/newsletter/how-to-use-failure-to-succeed)
@@ -116,7 +114,7 @@ Take ownership of every result in your life. [Everything is your fault.](https:/
 
 Pursue your goals aggressively and relentlessly. There is no compromise. [Don't just dream for winning. Train for it.](https://www.instagram.com/sirmofarah/p/CwSwPhiIZDY)
 
-If you want something—and you've done the work to earn it—[go ask for it. Closed mouths don't get fed.](https://www.youtube.com/watch?v=zkTf0LmDqKI) In life, you don't get what you deserve, you get what you think you deserve. Ask for forgiveness, not permission. Just tap yourself on the shoulder and do the work directly. If you live for people's approval, you will die from their rejection.
+If you want something—and you've done the work to earn it—[go ask for it. Closed mouths don't get fed.](https://www.youtube.com/watch?v=zkTf0LmDqKI) [In life, you don't get what you deserve, you get what you think you deserve.](https://jamesclear.com/3-2-1/february-13-2025) Ask for forgiveness, not permission. Just tap yourself on the shoulder and do the work directly. If you live for people's approval, you will die from their rejection.
 
 Make consistent daily tiny actions. Make everyday count. Never miss a day. Everyday you start at zero. The sun is new each day. Each morning you are born again. What you do today is what matters most. [The days are long, but the decades are short.](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) [How you spend your days is how you spend your life.](https://www.goodreads.com/quotes/530337-how-we-spend-our-days-is-of-course-how-we)
 
@@ -226,7 +224,9 @@ Never ever sacrifice your sleep. Don't limit sleep length. Sleep as much as your
 
 Move your body. [Tame your mind.](https://www.youtube.com/watch?v=UlAPNQN2-Fw) Meditate, journal, go for a walk or [do micro-exercises](https://darebee.com/) throughout the day.
 
-Take more breaks, but not too long. Learn to rest, but not quit. Learn to rest before you are tired. Rest is a critical part of your high performance routine. It's not a special treat. It's an absolute necessity.
+Take more breaks, but not too long. Learn to rest, but not quit. [It's always too early to quit.](https://www.brainyquote.com/quotes/norman_vincent_peale_100962) Learn to rest before you are tired. Rest is a critical part of your high performance routine. It's not a special treat. It's an absolute necessity.
+
+Rest in the end, not in the middle. [It ain't over until it's over.](https://youtu.be/TmENMZFUU_0) Be like a postage stamp. Stick to it until you get there.
 
 Do yoga, stretching, foam roller massage, and a lot of heat-cold contrast therapy as often as you can. They reduce your muscle tension, anxiety, or stress, both mentally and physically, and could help you to relax for better productivity and creativity.
 
