@@ -202,7 +202,7 @@ You have two ears and one mouth. Therefore, you should listen twice as much as y
 
 Make active listening mode your default. Listen to what is not being said. Listen intently before replying. Listen with compassion. Then observe, engage. And then ask powerful and thoughtful genuine questions. Opinions are earned—not owed. Everyone has to agree with you LATER.
 
-When you say something, make sure it benefits all parties involved and contributes to the conversation. Seek mutual benefit in all interactions. Remember: If both people are not winning, both are losing. Think Win-Win.
+Know when not to talk. Say what needs to be said. When you say something, make sure it benefits all parties involved and contributes to the conversation. Seek mutual benefit in all interactions. Remember: If both people are not winning, both are losing. Think Win-Win.
 
 Always be aware of how you are using the word, and be impeccable with your word. Avoid using the word to speak against yourself or to gossip about others. Remember: The most powerful word is the one you use to talk to yourself.
 
@@ -214,7 +214,7 @@ Know who you are. [Love yourself.](https://www.goodreads.com/quotes/6915192-the-
 
 Don't take anything personally. Never let any words hurt you. Don't care what other people might think of you. If you try to please everyone—you will please no one. Never try to impress people you don't like. [Never try to copy someone who wants something you don’t want.](https://collabfund.com/blog/your-way-is-the-only-way/)
 
-Think deeply. Think independently. Think in a different time frame, horizon, scale, and dimension. Think very long term.
+Think deeply. Think independently. Think outside the box. Think in a different time frame, horizon, scale, and dimension. Think very long term.
 
 Try to make as many right and wise choices as you possibly can. Try to make as many great decisions that your eighty-year-old self and ten-year-old self would be proud of. Your decisions are investments you make into your future. Your future self is the most important stakeholder in your life. Take care of your future self, because you will become that person one day, and that person is the one who ultimately has to deal with whatever you do TODAY. No one cares more about your actions in the present than your future self. Bring the after into the before.
 
@@ -280,7 +280,7 @@ Don't hate anyone. Don't insult anyone. Only take shots at things, not people. J
 
 Never blame others. Remember: Who you blame is who you give your power to. He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who blames no one has arrived.
 
-Praise specifically. Criticize generally. Praise in public. Criticize in private.
+Praise specifically. Criticize generally. Praise in public. Criticize in private. See the best. Forgive the worst.
 
 Be kind, gentle, and friendly. Show empathy and compassion. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day. Practice random acts of kindness. Remember: Every single person is fighting a battle you know nothing about. [People are doing the best that they can from their own level of consciousness.](https://www.goodreads.com/quotes/82220-people-are-doing-the-best-that-they-can-from-their)
 
