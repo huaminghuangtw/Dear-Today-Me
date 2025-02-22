@@ -88,7 +88,7 @@ Embrace the uncertainty and randomness in life. When nothing is certain, everyth
 
 There is no such thing as a perfect you. It's all about optimization. And optimization is an ongoing process. There is always room for improvement. You are always a work-in-progress. Always seek candid feedback for self-improvement and personal growth.
 
-[Keep your identity small.](https://paulgraham.com/identity.html) Listen very carefully to constructive negative feedback and criticism. Seek for the truth. No ego. [Be humble.](https://fs.blog/david-foster-wallace-this-is-water/) Be coachable. When you let go of what you are, you become what you might be. Enjoy being wrong or looking/sounding “stupid” in a public setting. Embrace that beginner's embarrassment. Approach everything with a beginner's mind. [It's always Day One.](https://www.youtube.com/watch?v=fTwXS2H_iJo&ab_channel=AmazonNews)
+[Keep your identity small.](https://paulgraham.com/identity.html) Listen very carefully to constructive, negative feedback and criticism. Seek for the truth. No ego. [Be humble.](https://fs.blog/david-foster-wallace-this-is-water/) Be coachable. When you let go of what you are, you become what you might be. Enjoy being wrong or looking/sounding “stupid” in a public setting. Embrace that beginner's embarrassment. Approach everything with a beginner's mind. [It's always Day One.](https://www.youtube.com/watch?v=fTwXS2H_iJo&ab_channel=AmazonNews)
 
 Life goes on. You got to keep going, keep moving, keep improving, keep exploring, and keep experimenting. [Life can only be understood backwards, but it must be lived forwards.](https://www.goodreads.com/quotes/6812-life-can-only-be-understood-backwards-but-it-must-be)
 
@@ -264,7 +264,7 @@ Be mindful, intentional, and purposeful. [Live life by design, not default.](htt
 
 Live in the present. Let past go. Look towards the future. Anything outside of this present moment is just an imagination. Only NOW is the reality. Nothing lasts forever. Life is not something happening in the future, it's something happening RIGHT NOW. Live immediately.
 
-You are the average of the five people you associate with most. Surround yourself with people you love and admire; with people who think differently than you. Put yourself in rooms you don't belong to; in rooms with a high density of value-aligned individuals. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Hold on to these people like your life depends on them. The quality of your experiences will be largely determined by the people you surround yourself with.
+You are the average of the five people you associate with most. Surround yourself with people you love and admire; with people who think differently than you. Go where you don't belong. Good things happen when you put yourself in rooms where you don't feel like you belong. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Hold on to these people like your life depends on them. The quality of your experiences will be largely determined by the people you surround yourself with.
 
 Reach out to inspiring people who are going to uplift you higher and living the life you want to live. Learn from those ahead of you on a path you want to take. Every person is a new door to a different world. Every person has a story to share and a lesson to tell. Find your tribe. Build your personal advisory board of mentors.
 
