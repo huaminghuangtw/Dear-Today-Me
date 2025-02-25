@@ -184,7 +184,7 @@ Slow down and calm down to select opportunities and activities with the highest 
 
 Wanna go fast? Go slow first. Slowly by slowly. Slow is smooth, smooth is fast. Start slow, finish fast. Pause, Think, and Act. Rushing causes errors. Errors cause setbacks. Setbacks cause delays.
 
-Direction over speed. [Trend over position.](https://www.instagram.com/sahilbloom/reel/DCjfS7mxDSZ/?locale=pt&hl=bn) Depth over width. Ambition is nothing without direction.
+[Velocity over speed.](https://nesslabs.com/vectors-of-action) [Trend over position.](https://www.instagram.com/sahilbloom/reel/DCjfS7mxDSZ/?locale=pt&hl=bn) Depth over width. Ambition is nothing without direction.
 
 Prioritize. Narrow your focus. Go all in, and fully committed to that one most important thing, the bottleneck, that moves the needle.
 
