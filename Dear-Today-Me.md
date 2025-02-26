@@ -102,7 +102,7 @@ Adapt to changes. Learn from failures. Never make the same mistake. Your greates
 
 [The world isn't run by perfect people who never failed. The world is run by imperfect people who failed over and over again—but who used every failure to set the conditions for their future success. The best are never broken by the chaos—they train themselves to be prepared for it, to benefit from it.](https://www.sahilbloom.com/newsletter/how-to-use-failure-to-succeed)
 
-If something is wrong, fix it now, but train yourself not to worry. Time spent worrying is time wasted. It only drains your energy. Worry fixes nothing. Worry before it is necessary is to worry more than is necessary. Worrying does not take away tomorrow's troubles, but it takes away today's peace. Deal with the big while it is still small. Minor problems become major problems if you allow them to linger.
+Deal with the big while it is still small. Minor problems become major problems if you allow them to linger. If something is wrong, fix it now, but train yourself not to worry. Time spent worrying is time wasted. It only drains your energy. Worry fixes nothing. Worry before it is necessary is to worry more than is necessary. Worrying does not take away tomorrow's troubles, but it takes away today's peace. You will have lots of troubles in life, and most of which will never happen.
 
 You always have 3 options in any circumstance/situation in life: change it, accept it, or leave it. If you don't like something, change it. If you can't change it, change your attitude. But never, never, ever complain about anything. If it's within your control, go do something about it. If it's not, complaining is just a waste of energy.
 
@@ -150,7 +150,7 @@ Do things no one cares about but you. Do the old fashioned things well. Do fooli
 
 [Start where you are. Use what you have. Do what you can.](https://www.goodreads.com/quotes/9743989-start-where-you-are-use-what-you-have-do-what) Focus on what you can control. Your time will finally come. The things you've been waiting for will finally come. Just keep your perseverance and patience. Remember: [A man who is a master of patience is master of everything else.](https://www.goodreads.com/quotes/7564496-a-man-who-is-the-master-of-patience-is-the)
 
-In this life journey, you will fail many times, but you will be really right once. You will have lots of troubles in life, and most of which will never happen.
+In this life journey, you will fail many times, but you will be really right once. [The things you want in life will come to you, but only when you are ready for them.](https://x.com/SahilBloom/status/1791072978840567866) Remember: You're not where you want to be just because you have not done what is necessary and required yet.
 
 You are always just one good decision away from being in a better place tomorrow—just focus on the next decision. [Just begin. Solve one problem. Then solve the next one. And the next one. Eventually you will solve all problems.](https://www.youtube.com/watch?v=mDYCLFE86Po)
 
