@@ -30,6 +30,8 @@ Deliberately train yourself to be uncommonly resilient and have a very high leve
 
 [Pain is inevitable. Suffering is optional.](https://www.youtube.com/shorts/ZWVecJO7g0c) If you don't feel pain, you haven't been hurt. You are the cause of your own suffering. [If you are suffering, it is because you are asleep.](https://www.goodreads.com/book/show/94318.Awareness) Wake up!
 
+[Everything in life is a mind game. In the end, all suffering comes to an end, no matter how intense the pain or how harrowing the torture.](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
+
 [Live as if today is your last day on Earth. Learn as if you were to live forever.](https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as)
 
 Learn with no end in mind. Learn for no reason at all. [Learn how to learn.](https://www.coursera.org/learn/learning-how-to-learn) [Learn in public.](https://www.swyx.io/learn-in-public) Learning is the single best investment that you can make for your time.
@@ -124,7 +126,9 @@ You don't get to pick and choose when to show up, because the world will ignore 
 
 Your daily behaviors shape your future. A good day of training is worth little on its own, but a good year was worth plenty. Your final results are merely a reflection of your prior commitments. Do a little more what you want to do every single day, until your vision becomes reality. It's those little bits of good put together that overwhelm the world. [All success is a lagging indicator.](https://ryanholiday.net/all-success-is-a-lagging-indicator)
 
-Every effort counts. How you do one thing is how you do everything. Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because [small things become big things](https://youtu.be/mZPN9W-jPm4). Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. The most exciting outputs come from the most boring inputs. Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
+Every effort counts. How you do one thing is how you do everything. Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because [small things become big things](https://youtu.be/mZPN9W-jPm4). Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
+
+Success isn't about talent—it's about the willingness to tackle the boring, repetitive work that others avoid. [You have to embrace the boredom in the dark to shine in the light.](https://www.youtube.com/watch?v=vwnTJLMRlFI) [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665) The most exciting outputs come from the most boring inputs.
 
 Be very biased toward execution. Set 5-year goals, but take 10-minute actions. Think in terms of decades, but act in terms of days. Think as if you were in a marathon, but act as if you were in a sprint. Think like a man of action, and act like a man of thought. Focus on the effort, not outcomes. Be patient with results, but inpatient with actions. [If you are not taking action consistently, then you are not practicing patience—you are just waiting.](https://jamesclear.com/3-2-1/may-16-2024) Remember: Action doesn't have to be perfect for it to be right.
 
@@ -133,8 +137,6 @@ Knowledge is useless until you act on it. It's not enough to know something. You
 You got to fall in love with the process. The journey is the reward. Trust the exponential growth and non-linear, asymmetric results. Never take little progress for granted. Aim to be consistently good rather than occasionally great.
 
 Work hard. Work very hard. Work very hard every waking hour. But not every day. Work as hard as you can without burning out. The world needs people willing to work while others rest.
-
-[You have to embrace the boredom in the dark to shine in the light.](https://www.youtube.com/watch?v=vwnTJLMRlFI) [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665?lang=en)
 
 Don't seek quick wins or shortcuts. The only shortcut is doing something the right way the first time so that you don't waste any time on the shortcuts. The only “hack” is relentless consistency. [If you want to be good, you don't really have many choices. It takes what it takes. You have to do what you have to do to be successful.](https://m.youtube.com/watch?v=R0CAAlMo3f8) Do what is necessary. Do what is required.
 
@@ -226,7 +228,7 @@ Move your body. [Tame your mind.](https://www.youtube.com/watch?v=UlAPNQN2-Fw) M
 
 Take more breaks, but not too long. Learn to rest, but not quit. [It's always too early to quit.](https://www.brainyquote.com/quotes/norman_vincent_peale_100962) Learn to rest before you are tired. Rest is a critical part of your high performance routine. It's not a special treat. It's an absolute necessity.
 
-Rest in the end, not in the middle. [It ain't over until it's over.](https://youtu.be/TmENMZFUU_0) Be like a postage stamp. Stick to it until you get there.
+Rest in the end, not in the middle. [Stop when you are done, not when you are tired.](https://www.goodreads.com/book/show/41721428-can-t-hurt-me) [It ain't over until it's over.](https://youtu.be/TmENMZFUU_0) Be like a postage stamp. Stick to it until you get there.
 
 Do yoga, stretching, foam roller massage, and a lot of heat-cold contrast therapy as often as you can. They reduce your muscle tension, anxiety, or stress, both mentally and physically, and could help you to relax for better productivity and creativity.
 
