@@ -34,13 +34,13 @@ Deliberately train yourself to be uncommonly resilient and have a very high leve
 
 [Live as if today is your last day on Earth. Learn as if you were to live forever.](https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as)
 
-Learn with no end in mind. Learn for no reason at all. [Learn how to learn.](https://www.coursera.org/learn/learning-how-to-learn) [Learn in public.](https://www.swyx.io/learn-in-public) Learning is the single best investment that you can make for your time.
+Learn with no end in mind. Learn for no reason at all. [Learn how to learn.](https://www.coursera.org/learn/learning-how-to-learn) [Learn in public.](https://www.swyx.io/learn-in-public)
 
 Try to learn something about everything and everything about something every day. Never, ever stop learning. If you are not growing, you are dying. [If you don't learn, you can't change, and if you are not changing, what is the point of being here?](https://x.com/librarymindset/status/1530100260361539589) Think about it again! Cherish this massive birth gift. Always have faith in your capability learn new skills, no matter how hard the task seems. [Your ability to learn is not fixed, it can change with your effort.](https://www.youtube.com/watch?v=H14bBuluwB8)
 
 Question every rule. Always dig deeper. Doubt everything. Remove all labels. Don't believe everything you believe now. No beliefs are true. [Avoid the trap of expertise and experience.](https://hbr.org/podcast/2019/04/avoiding-the-expertise-trap)
 
-Be ready to transform yourself completely into another person, and be ready to be in an internal state of self-revolution at any time. Strong opinions, loosely held. Be dynamic, adaptable, and open-minded. [Don't get married to past views.](https://m.youtube.com/watch?v=m4RVTK7iU1c) Stay curious.
+Be ready to transform yourself completely into another person, and be ready to be in an internal state of self-revolution at any time. Strong opinions, loosely held. Be dynamic, flexible, and open-minded. [Don't get married to past views.](https://m.youtube.com/watch?v=m4RVTK7iU1c) Stay curious.
 
 Expect nothing. Expectations are limitations. They limit your true potential. Know your limits but never stop trying to exceed them.
 
@@ -102,7 +102,7 @@ Leave your comfort zone. [Don't always play safe. Don't always stick to what you
 
 Adapt to changes. Learn from failures. Never make the same mistake. Your greatest success is very likely just one step beyond your greatest failure.
 
-[The world isn't run by perfect people who never failed. The world is run by imperfect people who failed over and over again—but who used every failure to set the conditions for their future success. The best are never broken by the chaos—they train themselves to be prepared for it, to benefit from it.](https://www.sahilbloom.com/newsletter/how-to-use-failure-to-succeed)
+[The world is not run by perfect people who never failed. The world is run by imperfect people who failed over and over again—but who used every failure to set the conditions for their future success. The best are never broken by the chaos—they train themselves to be prepared for it, to benefit from it.](https://www.sahilbloom.com/newsletter/how-to-use-failure-to-succeed)
 
 Deal with the big while it is still small. Minor problems become major problems if you allow them to linger. If something is wrong, fix it now, but train yourself not to worry. Time spent worrying is time wasted. It only drains your energy. Worry fixes nothing. Worry before it is necessary is to worry more than is necessary. Worrying does not take away tomorrow's troubles, but it takes away today's peace. You will have lots of troubles in life, and most of which will never happen.
 
@@ -120,7 +120,11 @@ If you want something—and you've done the work to earn it—[go ask for it. Cl
 
 Make consistent daily tiny actions. Make everyday count. Never miss a day. Everyday you start at zero. The sun is new each day. Each morning you are born again. What you do today is what matters most. [The days are long, but the decades are short.](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) [How you spend your days is how you spend your life.](https://www.goodreads.com/quotes/530337-how-we-spend-our-days-is-of-course-how-we)
 
-Never to be idle. No time wasted. Every single minute matters. Ten minutes, once gone, are gone for good. You will never get the same moment twice.
+Every single minute matters. Never remain idle. No time wasted. Ten minutes, once gone, are gone for good. You will never get the same moment twice.
+
+Time is the most valuable asset and the most incredible lever for growth. Learning is the single best investment that you can make for your time. Time dedicated to writing is the single most valuable investment in learning.
+
+But keep in mind to always value attention over time. [If you don’t have attention, you don’t have time. Time without attention is worthless.](https://tim.blog/2007/10/25/weapons-of-mass-distractions-and-the-art-of-letting-bad-things-happen/)
 
 You don't get to pick and choose when to show up, because the world will ignore your best and judge you for your worst. Show up every day. Be a habit and routine machine. Every single day, chop wood, carry water. [The work never stops.](https://www.youtube.com/watch?v=Ju5kyQJyGBY) The world is run by those who show up consistently.
 
@@ -128,7 +132,7 @@ Your daily behaviors shape your future. A good day of training is worth little o
 
 Every effort counts. How you do one thing is how you do everything. Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because [small things become big things](https://youtu.be/mZPN9W-jPm4). Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
 
-Success isn't about talent—it's about the willingness to tackle the boring, repetitive work that others avoid. [You have to embrace the boredom in the dark to shine in the light.](https://www.youtube.com/watch?v=vwnTJLMRlFI) [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665) The most exciting outputs come from the most boring inputs.
+Success is not about talent—it's about the willingness to tackle the boring, repetitive work that others avoid. [You have to embrace the boredom in the dark to shine in the light.](https://www.youtube.com/watch?v=vwnTJLMRlFI) [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665) The most exciting outputs come from the most boring inputs.
 
 Be very biased toward execution. Set 5-year goals, but take 10-minute actions. Think in terms of decades, but act in terms of days. Think as if you were in a marathon, but act as if you were in a sprint. Think like a man of action, and act like a man of thought. Focus on the effort, not outcomes. Be patient with results, but inpatient with actions. [If you are not taking action consistently, then you are not practicing patience—you are just waiting.](https://jamesclear.com/3-2-1/may-16-2024) Remember: Action doesn't have to be perfect for it to be right.
 
@@ -202,7 +206,7 @@ Always speak less than necessary. Keep your mouth shut as often as possible. The
 
 You have two ears and one mouth. Therefore, you should listen twice as much as you speak.
 
-Make active listening mode your default. Listen to what is not being said. Listen intently before replying. Listen with compassion. Then observe, engage. And then ask powerful and thoughtful genuine questions. Opinions are earned—not owed. Everyone has to agree with you LATER.
+Make active listening mode your default. Listen to what is not said. Listen intently before replying. Listen with compassion. Then observe, engage. And then ask powerful and thoughtful genuine questions. Opinions are earned—not owed. Everyone has to agree with you LATER.
 
 Know when not to talk. Say what needs to be said. When you say something, make sure it benefits all parties involved and contributes to the conversation. Seek mutual benefit in all interactions. Remember: If both people are not winning, both are losing. Think Win-Win.
 
@@ -258,7 +262,7 @@ Let shit go. Choose to be happy. You can't wait until life isn't hard anymore, b
 
 [Be optimistic and willful.](https://www.youtube.com/watch?v=FrqBWQ-mVEc) Stop being afraid of what could go wrong, and start being positive about what could go right. Focus on the positives.
 
-Don't worry about bullshit and nonsense. Remember: If it's not gonna matter in 5 years, don't spend more than 5 minutes upset about it. Focus on the outcomes, not the obstacles. The outcome is the only option here. Never waste your precious time, energy, and attention. They are your ultimate currencies. Trade them wisely.
+Don't worry about bullshit and nonsense. Remember: If it's not gonna matter in 5 years, don't spend more than 5 minutes upset about it. Focus on the outcomes, not the obstacles. The outcome is the only option here.
 
 Spend as much of your time as possible doing activities that will provide you with nostalgia in the future. Create stories that you will be excited to tell your kids about, and your grandchildren will love to hear someday. Live the truth you want your descendants to embrace.
 
