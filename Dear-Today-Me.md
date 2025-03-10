@@ -124,7 +124,7 @@ Every single minute matters. Never remain idle. No time wasted. Ten minutes, onc
 
 Time is the most valuable asset and the most incredible lever for growth. Learning is the single best investment that you can make for your time. Time dedicated to writing is the single most valuable investment in learning.
 
-But keep in mind to always value attention over time. [If you don’t have attention, you don’t have time. Time without attention is worthless.](https://tim.blog/2007/10/25/weapons-of-mass-distractions-and-the-art-of-letting-bad-things-happen/)
+But keep in mind to always value attention over time. [If you don’t have attention, you don’t have time. Time without attention is worthless.](https://tim.blog/2007/10/25/weapons-of-mass-distractions-and-the-art-of-letting-bad-things-happen/) [Be very cautious about what you consume as inputs.](https://jamesclear.com/3-2-1/march-6-2025)
 
 You don't get to pick and choose when to show up, because the world will ignore your best and judge you for your worst. Show up every day. Be a habit and routine machine. Every single day, chop wood, carry water. [The work never stops.](https://www.youtube.com/watch?v=Ju5kyQJyGBY) The world is run by those who show up consistently.
 
