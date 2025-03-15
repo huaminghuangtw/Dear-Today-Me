@@ -156,7 +156,7 @@ Do things no one cares about but you. Do the old fashioned things well. Do fooli
 
 [Start where you are. Use what you have. Do what you can.](https://www.goodreads.com/quotes/9743989-start-where-you-are-use-what-you-have-do-what) Focus on what you can control. Your time will finally come. The things you've been waiting for will finally come. Just keep your perseverance and patience. Remember: [A man who is a master of patience is master of everything else.](https://www.goodreads.com/quotes/7564496-a-man-who-is-the-master-of-patience-is-the)
 
-In this life journey, you will fail many times, but you will be really right once. [The things you want in life will come to you, but only when you are ready for them.](https://x.com/SahilBloom/status/1791072978840567866) Remember: You're not where you want to be just because you have not done what is necessary and required yet.
+In this life journey, you will fail many times, but you will be really right once. [The things you want in life will come to you, but only when you are ready for them.](https://x.com/SahilBloom/status/1791072978840567866) [You can have it all. You just can't have it all at once.](https://www.brainyquote.com/quotes/oprah_winfrey_382401) Remember: You're not where you want to be just because you have not done what is necessary and required yet.
 
 You are always just one good decision away from being in a better place tomorrow—just focus on the next decision. [Just begin. Solve one problem. Then solve the next one. And the next one. Eventually you will solve all problems.](https://www.youtube.com/watch?v=mDYCLFE86Po)
 
