@@ -84,7 +84,7 @@ Be confident, bold, and fearless. [Always stand up straight with your shoulders 
 
 Don't settle. Don't fixate on anything. Progress is about moving forward. Move. You are not a tree!
 
-Embrace the uncertainty and randomness in life. When nothing is certain, everything is possible.
+Embrace the uncertainty and randomness in life. When nothing is certain, everything is possible. [The most dangerous person in the world is the one who shows up every single day even when the rewards are uncertain. The one who can tolerate the most uncertainty is the one who will eventually win.](https://www.goodreads.com/book/show/212806718-the-5-types-of-wealth)
 
 [There is no Past You to cling to, there is no Future You to worry about. There is just the Present You to take action. You simply exist. You never become, you are in a constant state of becoming. There is just you—The Ever-Changing You.](https://www.sahilbloom.com/newsletter/the-ever-changing-you)
 
@@ -154,7 +154,7 @@ You are playing an infinite and lifelong game. Everything important is uncertain
 
 Do things no one cares about but you. Do the old fashioned things well. Do foolish things that don't scale with enthusiasm. Those stupid, meaningless obsessions are all worth it in the end, because once you get there, you can move mountains and bend the world.
 
-[Start where you are. Use what you have. Do what you can.](https://www.goodreads.com/quotes/9743989-start-where-you-are-use-what-you-have-do-what) Focus on what you can control. Your time will finally come. The things you've been waiting for will finally come. Just keep your perseverance and patience. Remember: [A man who is a master of patience is master of everything else.](https://www.goodreads.com/quotes/7564496-a-man-who-is-the-master-of-patience-is-the)
+Focus on what you can control. [Start where you are. Use what you have. Do what you can.](https://www.goodreads.com/quotes/9743989-start-where-you-are-use-what-you-have-do-what) Your time will finally come. The things you've been waiting for will finally come. Just keep your perseverance and patience. Remember: [A man who is a master of patience is master of everything else.](https://www.goodreads.com/quotes/7564496-a-man-who-is-the-master-of-patience-is-the)
 
 In this life journey, you will fail many times, but you will be really right once. [The things you want in life will come to you, but only when you are ready for them.](https://x.com/SahilBloom/status/1791072978840567866) [You can have it all. You just can't have it all at once.](https://www.brainyquote.com/quotes/oprah_winfrey_382401) Remember: You're not where you want to be just because you have not done what is necessary and required yet.
 
@@ -244,11 +244,11 @@ Your mental and physical health above all. You can only enjoy your life if you a
 
 Accept everything. Judge nothing. Find beauty in everything. Don't keep score.
 
-Happiness comes from being grateful for what you already have. Being upset over what you don't have is to waste what you do have. Never let the things you want make you forget the things you already have. You have to want what you already have. [Remember that what you now have was once among the things you only hoped for.](https://www.goodreads.com/quotes/169009-do-not-spoil-what-you-have-by-desiring-what-you) [Don't neglect the gold in your own back yard.](https://www.goodreads.com/quotes/182524-don-t-neglect-the-gold-in-your-own-back-yard)
+[Success is getting what you want, happiness is wanting what you get.](https://www.goodreads.com/quotes/4808-success-is-getting-what-you-want-happiness-is-wanting-what) Happiness comes from being grateful for what you already have. Being upset over what you don't have is to waste what you do have. Never let the things you want make you forget the things you already have. You have to want what you already have. [Remember that what you now have was once among the things you only hoped for.](https://www.goodreads.com/quotes/169009-do-not-spoil-what-you-have-by-desiring-what-you) [Don't neglect the gold in your own back yard.](https://www.goodreads.com/quotes/182524-don-t-neglect-the-gold-in-your-own-back-yard)
 
-[If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.](https://www.goodreads.com/quotes/10179235-if-you-look-at-what-you-have-in-life-you-ll) [Don’t let the pursuit of more stop you from enjoying what you already have.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Never let the quest for more distract you from the beauty of enough.](https://x.com/SahilBloom/status/1607057493762658306?lang=en) Enough is enough. Moderation and harmony is key. Everything in balance. You are already as perfect as you are now.
+[If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.](https://www.goodreads.com/quotes/10179235-if-you-look-at-what-you-have-in-life-you-ll) You are already as perfect as you are now.
 
-[If you’re going to pursue “more”, remember to keep your life balanced, especially in terms of your health and relationships.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/)
+[If you’re going to pursue “more”, remember to keep your life balanced, especially in terms of your health and relationships.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Don’t let the pursuit of more stop you from enjoying what you already have.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Never let the quest for more distract you from the beauty of enough.](https://x.com/SahilBloom/status/1607057493762658306?lang=en) Enough is enough. Moderation and harmony is key. Everything in balance. Find the sweet spot.
 
 [Life is only 4000 weeks long.](https://www.amazon.de/-/en/Oliver-Burkeman/dp/0374159122) Make the rest of your life the best of your life. [Don't live the same year 75 times and call it a life.](https://www.goodreads.com/quotes/1346035-don-t-live-the-same-year-75-times-and-call-it) Inject some planned spontaneity and adventures into your days. Every time you do something that is one less time you could do it — cherish every moment of your life like it is your last — because it very likely might be. Every single thing you do today is something that your ninety-year-old self would wish they could go back and do. The good old days are happening RIGHT NOW.
 
