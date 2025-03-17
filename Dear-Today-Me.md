@@ -206,7 +206,7 @@ Always speak less than necessary. Keep your mouth shut as often as possible. The
 
 You have two ears and one mouth. Therefore, you should listen twice as much as you speak.
 
-Make active listening mode your default. Listen to what is not said. Listen intently before replying. Listen with compassion. Then observe, engage. And then ask powerful and thoughtful genuine questions. Opinions are earned—not owed. Everyone has to agree with you LATER.
+Make active listening mode your default. Listen to what is not said. Listen intently before replying. Listen with compassion. Then observe, engage. And then ask powerful and thoughtful genuine questions. Opinions are earned—not owed. Everyone has to agree with you LATER. If everyone nodded, nobody agreed.
 
 Know when not to talk. Say what needs to be said. When you say something, make sure it benefits all parties involved and contributes to the conversation. Seek mutual benefit in all interactions. Remember: If both people are not winning, both are losing. Think Win-Win.
 
@@ -254,7 +254,7 @@ Accept everything. Judge nothing. Find beauty in everything. Don't keep score.
 
 Smile often. Laugh more. A day without laughter is a day wasted. Be funny. Be playful. Be cheerful. Chill out. Have fun. Don't panic. [Calmness is a superpower.](https://stephango.com/calmness)
 
-[The more seriously you take yourself, the unhappier you’re going to be.](https://x.com/naval/status/1298724798655168514) The more you can laugh at yourself, the happier you'll be. Learn to laugh at yourself. Literally, in three generations, no one will even remember your name.
+[The more seriously you take yourself, the unhappier you’re going to be.](https://x.com/naval/status/1298724798655168514) The more you can laugh at yourself, the happier you'll be. The less you talk about your shame, the more of it you have. Learn to laugh at yourself. Literally, in three generations, no one will even remember your name.
 
 Take a deep breath. Relax. Enjoy each moment in life. [Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.](https://www.youtube.com/watch?v=vsYBtfQ3QDo)
 
