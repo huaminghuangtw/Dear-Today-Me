@@ -10,7 +10,7 @@ Dear Today Me,
 
 Do not limit or cage yourself. You are capable of much more than you could imagine. 
 
-Old ways won't open new doors. If you always do what you've always done, you'll always get what you've always got. If you want something you've never had, you must be willing to do something you've never done.
+Old ways won't open new doors. [What got you here won’t get you there.](https://www.goodreads.com/work/quotes/81594-what-got-you-here-won-t-get-you-there) If you always do what you've always done, you'll always get what you've always got. If you want something you've never had, you must be willing to do something you've never done.
 
 [Try to identify your capability gap and work relentlessly to close it.](https://x.com/SahilBloom/status/1730586779730772302)
 
@@ -270,7 +270,9 @@ Be mindful, intentional, and purposeful. [Live life by design, not default.](htt
 
 Live in the present. Let past go. Look towards the future. Anything outside of this present moment is just an imagination. Only NOW is the reality. Nothing lasts forever. Life is not something happening in the future, it's something happening RIGHT NOW. Live immediately.
 
-You are the average of the five people you associate with most. Surround yourself with people you love and admire; with people who think differently than you. Go where you don't belong. Good things happen when you put yourself in rooms where you don't feel like you belong. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Hold on to these people like your life depends on them. The quality of your experiences will be largely determined by the people you surround yourself with.
+You are the average of the five people you associate with most. Surround yourself with people you love and admire; with people who think differently than you. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Hold on to these people like your life depends on them. The quality of your experiences will be largely determined by the people you surround yourself with.
+
+Go where you don't belong. If you're the smartest person in the room, you're in the wrong room. If you're the dumbest person in the room, you're in the right room. Good things happen when you put yourself in rooms where you don't feel like you belong.
 
 Reach out to inspiring people who are going to uplift you higher and living the life you want to live. Learn from those ahead of you on a path you want to take. Every person is a new door to a different world. Every person has a story to share and a lesson to tell. Find your tribe. Build your personal advisory board of mentors.
 
