@@ -84,7 +84,7 @@ Be confident, bold, and fearless. [Always stand up straight with your shoulders 
 
 Don't settle. Don't fixate on anything. Progress is about moving forward. Move. You are not a tree!
 
-Embrace the uncertainty and randomness in life. When nothing is certain, everything is possible. [The most dangerous person in the world is the one who shows up every single day even when the rewards are uncertain. The one who can tolerate the most uncertainty is the one who will eventually win.](https://www.goodreads.com/book/show/212806718-the-5-types-of-wealth)
+Embrace the uncertainty and randomness in life. When nothing is certain, everything is possible. [The most dangerous person in the world is the one who shows up every single day even when the rewards are uncertain. The one who can tolerate the most uncertainty is the one who will eventually win.](https://www.goodreads.com/book/show/212806718-the-5-types-of-wealth) Uncertainty is the only certainty.
 
 [There is no Past You to cling to, there is no Future You to worry about. There is just the Present You to take action. You simply exist. You never become, you are in a constant state of becoming. There is just you—The Ever-Changing You.](https://www.sahilbloom.com/newsletter/the-ever-changing-you)
 
