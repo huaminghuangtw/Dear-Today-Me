@@ -274,7 +274,7 @@ You are the average of the five people you associate with most. Surround yoursel
 
 Go where you don't belong. If you're the smartest person in the room, you're in the wrong room. If you're the dumbest person in the room, you're in the right room. Good things happen when you put yourself in rooms where you don't feel like you belong.
 
-Reach out to inspiring people who are going to uplift you higher and living the life you want to live. Learn from those ahead of you on a path you want to take. Every person is a new door to a different world. Every person has a story to share and a lesson to tell. Find your tribe. Build your personal advisory board of mentors.
+Reach out to inspiring people who are going to uplift you higher and living the life you want to live. Learn from those ahead of you on a path you want to take. Every person is a new door to a different world. Find your tribe. Build your personal advisory board of mentors.
 
 [Life is short.](https://paulgraham.com/vb.html) Savor close relationships. Treasure “inner circle” friendships. Tell those human you love that you love them while they are still alive. Create memories with them.
 
@@ -282,7 +282,9 @@ When you hug someone, hug them with everything you have, and always let them go 
 
 Don't avoid hard conversations. Any effort you spend on cultivating deep relationships will pay major dividends.
 
-Don't hate anyone. Don't insult anyone. Only take shots at things, not people. Judge yourself by action, but judge others by intention. Always keep the [Fundamental Attribution Error](https://www.reddit.com/r/YouShouldKnow/comments/rob9kl/ysk_about_the_fundamental_attribution_error_a_key/) in mind. Be soft on the person and hard on the problem. Do no harm, but take no shit and crap. Set boundaries.
+Don't hate anyone. Don't insult anyone. Only take shots at things, not people. Be soft on the person and hard on the problem.
+
+Judge yourself by action, but judge others by intention. Always keep the [Fundamental Attribution Error](https://www.reddit.com/r/YouShouldKnow/comments/rob9kl/ysk_about_the_fundamental_attribution_error_a_key/) in mind.
 
 [Humanize the people around you. Do not put them on pedestals. The adults do not exist. There is just giant children figuring things out.](https://x.com/george__mack/status/1766767193075691763)
 
@@ -290,9 +292,15 @@ Never blame others. Remember: Who you blame is who you give your power to. He wh
 
 Praise specifically. Criticize generally. Praise in public. Criticize in private. See the best. Forgive the worst.
 
-Be kind, gentle, and friendly. Show empathy and compassion. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day. Practice random acts of kindness. Remember: Every single person is fighting a battle you know nothing about. [People are doing the best that they can from their own level of consciousness.](https://www.goodreads.com/quotes/82220-people-are-doing-the-best-that-they-can-from-their)
+Be kind, gentle, and friendly. Show empathy and compassion. You have an unlimited resource of love and kindness. Radiate boundless love towards the entire world. Give it to others every single day.
+
+Do no harm, but take no shit and crap. Set personal boundaries.
+
+Practice random acts of kindness. Remember: Every single person is fighting a battle you know nothing about. [People are doing the best that they can from their own level of consciousness.](https://www.goodreads.com/quotes/82220-people-are-doing-the-best-that-they-can-from-their)
 
 When you think something nice about someone, tell them right away. Don't hold any unexpressed love until the last day of your life. Leave a positive review. Leave a compliment for someone, no matter how small it is. Make the coffee.
+
+Try to learn something from everyone around you. Every person has a unique story to tell and a valuable lesson to share. [Everyone's a geek about something.](https://sketchplanations.com/geek)
 
 Strive to empower everyone around you to be better. Minimize suffering caused to other people. Be conscious of other people's feelings, facial expression, and body language.
 
