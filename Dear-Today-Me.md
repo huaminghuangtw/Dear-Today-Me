@@ -50,7 +50,7 @@ Never forget why you are really doing what you are doing. [Always ask the WHY,](
 
 [Spend much of your day out of interest rather than obligation.](https://x.com/naval/status/908052298957332480) Only do what energizes and makes you truly fulfilled and happy as a kid. Only do what you love for work, and use your work to create anything you truly care about from anywhere on Earth.
 
-You only live once. One life. One chance. One go. [You make yourself either miserable or strong — the amount of work is the same.](https://www.goodreads.com/quotes/150453-we-either-make-ourselves-miserable-or-we-make-ourselves-strong) Why not create something wonderful? The time will pass anyway. [Either write something worth reading or do something worth writing.](https://www.brainyquote.com/quotes/benjamin_franklin_133951)
+You only live once. One life. One chance. One go. [You make yourself either miserable or strong — the amount of work is the same.](https://www.goodreads.com/quotes/150453-we-either-make-ourselves-miserable-or-we-make-ourselves-strong) Why not create something wonderful? The time will pass anyway. [Either write something worth reading or do something worth writing.](https://www.brainyquote.com/quotes/benjamin_franklin_133951) Don't settle for mediocrity.
 
 Never forget your childhood dreams. Never lose the child inside you. [Have the courage to follow your own heart and intuition — they somehow already know what you truly want to become — everything else is secondary.](https://www.goodreads.com/quotes/445286-have-the-courage-to-follow-your-heart-and-intuition-they)
 
