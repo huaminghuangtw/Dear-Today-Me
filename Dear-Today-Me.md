@@ -98,7 +98,9 @@ Life goes on. You got to keep going, keep moving, keep improving, keep exploring
 
 [Explore](https://terrytao.wordpress.com/career-advice/dont-be-afraid-to-learn-things-outside-your-field/), Discover, Try, Fail, Disappoint, Get lost, Suffer, Ask, Get feedback, Learn, Grow, Iterate, and Repeat. [You can't connect the dots looking forward; you can only connect them looking backwards.](https://www.goodreads.com/quotes/463176-you-can-t-connect-the-dots-looking-forward-you-can-only) 
 
-Leave your comfort zone. [Don't always play safe. Don't always stick to what you already know.](https://www.youtube.com/watch?v=jE-vY5-3zhU&t=35m18s) Take as much calculated risk as you can afford. Step into the unknown. Sit with the discomfort. Remember, if you are not failing occasionally, you are probably being too conservative. Taking no risk is the biggest risk you can take.
+Leave your comfort zone. Life begins at the end of the comfort zone. [Don't always play safe. Don't always stick to what you already know.](https://www.youtube.com/watch?v=jE-vY5-3zhU&t=35m18s) Take as much calculated risk as you can afford.
+
+Step into the unknown. Sit with the discomfort. Remember, if you are not failing occasionally, you are probably being too conservative. Taking no risk is the biggest risk you can take.
 
 Adapt to changes. Learn from failures. Never make the same mistake. Your greatest success is very likely just one step beyond your greatest failure.
 
@@ -130,7 +132,7 @@ You don't get to pick and choose when to show up, because the world will ignore 
 
 Your daily behaviors shape your future. A good day of training is worth little on its own, but a good year was worth plenty. Your final results are merely a reflection of your prior commitments. Do a little more what you want to do every single day, until your vision becomes reality. It's those little bits of good put together that overwhelm the world. [All success is a lagging indicator.](https://ryanholiday.net/all-success-is-a-lagging-indicator)
 
-Every effort counts. How you do one thing is how you do everything. Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because [small things become big things](https://youtu.be/mZPN9W-jPm4). Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
+Every effort counts. [How you do one thing is how you do everything.](https://www.goodreads.com/work/quotes/21977839-leaders-eat-last-why-some-teams-pull-together-and-others-don-t) Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because [small things become big things](https://youtu.be/mZPN9W-jPm4). Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
 
 Success is not about talent—it's about the willingness to tackle the boring, repetitive work that others avoid. [You have to embrace the boredom in the dark to shine in the light.](https://www.youtube.com/watch?v=vwnTJLMRlFI) [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665) The most exciting outputs come from the most boring inputs.
 
@@ -300,7 +302,7 @@ Practice random acts of kindness. Remember: Every single person is fighting a ba
 
 When you think something nice about someone, tell them right away. Don't hold any unexpressed love until the last day of your life. Leave a positive review. Leave a compliment for someone, no matter how small it is. Make the coffee.
 
-Try to learn something from everyone around you. Every person has a unique story to tell and a valuable lesson to share. [Everyone's a geek about something.](https://sketchplanations.com/geek)
+Try to learn something from everyone around you. Every person has a unique story to tell and a valuable lesson to share. [Everyone is a geek about something.](https://sketchplanations.com/geek)
 
 Strive to empower everyone around you to be better. Minimize suffering caused to other people. Be conscious of other people's feelings, facial expression, and body language.
 
