@@ -178,9 +178,9 @@ Don't wait. Don't tell yourself you'll warm up to it. Do it now. Do it first. Th
 
 [Discipline now, freedom later.](https://x.com/RyanHoliday/status/1698727749165387969) Hard now, easy later. [Only the disciplined ones in life are free.](https://www.youtube.com/shorts/hywDs1dhTOI) The labor will pass, but the rewards will last.
 
-[Do hard things.](https://x.com/hubermanlab/status/1720932074318635396?lang=en) Seek intensive hardships to forge self-discipline and self-control. You will feel incredibly great afterwards. Eat the frog. Build your evidence pool. Be accountable and reliable. Confidence is built, not born.
+[Do hard things.](https://x.com/hubermanlab/status/1720932074318635396) Seek intensive hardships to forge self-discipline and self-control. You will feel incredibly great afterwards. Eat the frog. Build your evidence pool. Be accountable and reliable. Confidence is built, not born.
 
-Life is never going to be easy. [Everything you want to earn in life is on the other side of hundreds of things that suck.](https://x.com/SahilBloom/status/1731017312398963015)
+Life is never going to be easy. Everything is difficult until you know how to do it. [Everything you want to earn in life is on the other side of hundreds of things that suck.](https://x.com/SahilBloom/status/1731017312398963015)
 
 Life is hard. Choose your hard. Use the difficulty. Find your edge. Remember that: The right way is the hard way. The obstacle is the way. We all struggle; it's just part of human nature.
 
