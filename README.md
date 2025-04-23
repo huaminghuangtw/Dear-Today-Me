@@ -5,11 +5,11 @@
 
 ## About
 
-This repo holds a letter to my present self from Better Me, a reminder for myself to never lose sight of the person I am becoming (and unbecoming). The principles and philosophies in the letter are not just words and sentences; they represent the values I believe and strive to live by every single day. These timeless insights and wisdom have been instrumental in shaping my mindset and approach to life. They act as a guiding compass, helping me cut through the noise and navigate chaos, so I can [stay on course](https://en.wikipedia.org/wiki/1_in_60_rule) toward the true north in this fast-paced world. They also serve as a personal operating manual, offering clarity whenever I feel lost amid life's challenges.
+This repo holds a letter to my present self from Better Me, a reminder for myself to never lose sight of the person I am becoming (and unbecoming). The principles and philosophies in the letter are not just words and sentences; they represent the values I believe and strive to live by every single day. These timeless insights and wisdom have been instrumental in shaping my mindset and approach to life. They act as a guiding compass, helping me cut through the noise and navigate chaos, so I can [stay on course](https://en.wikipedia.org/wiki/1_in_60_rule) toward the true north in this fast-paced world. They also serve as a personal operating manual, offering clarity whenever I feel lost amid life’s challenges.
 
 ## Tools
 
-I built the following tools to provide different ways that integrate the letter into your daily routine, whether you're _commuting_, _working out_, or _taking a moment to reflect_.
+I built the following tools to provide different ways that integrate the letter into your daily routine, whether you’re _commuting_, _working out_, or _taking a moment to reflect_.
 
 ### 1. Apple Shortcut
 
@@ -51,7 +51,7 @@ Instead of listening to the letter, you can also get a scheduled notification wi
 
 ### 3. Scriptable Widget
 
-It is also possible to display a random paragraph from the letter on your Home Screen. Every time you glance at your phone, you'll have a gentle reminder to center your thoughts and actions.
+It is also possible to display a random paragraph from the letter on your Home Screen. Every time you glance at your phone, you’ll have a gentle reminder to center your thoughts and actions.
 
 <p align="center">
   <kbd>
@@ -125,14 +125,14 @@ It is also possible to display a random paragraph from the letter on your Home S
    ```
 
 2. Save the script, then go to Home Screen, long press and add a [Scriptable widget](https://docs.scriptable.app/listwidget) with your preferred size (small, medium, large).
-3. Tap on the widget and select the script that you've just created.
+3. Tap on the widget and select the script that you’ve just created.
 
 > [!TIP]
 > _[Check out](https://github.com/huaminghuangtw/Scriptable) my other repository for customizable notifications and widgets created with [Scriptable](https://scriptable.app)!_  
 
 ---
 
-### 4. Obsidian's Callout with Dataviewjs
+### 4. Obsidian’s Callout with Dataviewjs
 
 If you are using [Obsidian](https://obsidian.md), this option allows for showing a random paragraph of the letter in a [callout](https://help.obsidian.md/Editing+and+formatting/Callouts) using the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin.
 
