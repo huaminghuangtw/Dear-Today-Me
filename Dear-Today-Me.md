@@ -68,11 +68,11 @@ Live according to your values. Live your life, unapologetically. In the end, tha
 
 Do not try to be the man your father would want you to be. Be the man you would like your son to be.
 
-Be the master of your fate. Be the captain of your soul. Own your power, influence your world, and be the champion you are meant to be. Never compare yourself to others. Comparison is the thief of joy. Run your own race. No jealousy. No envy.
+Be the master of your fate. Be the captain of your soul. Own your power, influence your world, and be the champion you are meant to be. Never compare yourself to others. Never measure your life with someone else’s ruler. Comparison is the thief of joy. Run your own race. No jealousy. No envy.
 
 If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come. Attract, not chase.
 
-_[You should be too busy working on your grass to notice others is greener.](https://www.reddit.com/r/GetMotivated/comments/fk2pol/image_im_too_busy_working_on_my_own_grass_to/) [Let the improvement of yourself keep you so busy that you have no time to criticize others.](app://obsidian.md/%5Bhttps://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that%5D(https://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that)) Water your own grass. Focus on bettering yourself._
+[You should be too busy working on your grass to notice others is greener.](https://www.reddit.com/r/GetMotivated/comments/fk2pol/image_im_too_busy_working_on_my_own_grass_to/) [Let the improvement of yourself keep you so busy that you have no time to criticize others.](app://obsidian.md/%5Bhttps://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that%5D(https://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that)) Focus on bettering yourself. Water your own grass. The grass is always greener where you water it.
 
 Just do yourself. [No one will ever be as good at being you than you are. No one can compete with you on being you.](https://x.com/naval/status/797865441783709696?lang=en) The only person you have to compete against is yourself.
 
@@ -174,7 +174,7 @@ Stop avoiding the uncomfortable work you need to do. Do what scares you; what yo
 
 [The magic you are looking for is in the work you are always avoiding.](https://www.youtube.com/shorts/E0SkEQ1e3P0) [The cave you fear to enter holds the treasure you seek.](https://www.goodreads.com/quotes/192665-the-cave-you-fear-to-enter-holds-the-treasure-you) Gather information and confront your fears.
 
-Don’t wait. Don’t tell yourself you’ll warm up to it. Do it now. Do it first. The time will never be just right. The longer you put off a task, the harder it becomes.
+Don’t wait. Don’t tell yourself you’ll warm up to it. Do it now. Do it first. The time will never be just right. [You will never be younger than you are right now.](https://jamesclear.com/3-2-1/november-7-2024)
 
 [Discipline now, freedom later.](https://x.com/RyanHoliday/status/1698727749165387969) Hard now, easy later. [Only the disciplined ones in life are free.](https://www.youtube.com/shorts/hywDs1dhTOI) The labor will pass, but the rewards will last.
 
@@ -188,7 +188,7 @@ Life is hard. Choose your hard. Use the difficulty. Find your edge. Remember tha
 
 [When in doubt, zoom out.](https://www.youtube.com/watch?v=wupToqz1e2g) When in doubt, act. [When in doubt, don't.](https://www.brainyquote.com/quotes/benjamin_franklin_119121) [When in doubt, follow your genuine intellectual curiosity and interests. They never lie, and they know more than you do about what is worth paying attention to.](https://paulgraham.com/greatwork.html)
 
-Slow down and calm down to select opportunities and activities with the highest leverage and return on investments. Do things strategically, incrementally, and methodically. Always make sure your mind is clear and your thinking sharp prior any effort. Move slowly, think clearly, act deliberately, commit only in certainty. Get your thoughts straight before jumping into something.
+Slow down and calm down to select opportunities and activities with the highest leverage and return on investments. Do things strategically, incrementally, and methodically. Always make sure your mind is clear and your thinking sharp prior any effort. Move slowly, think clearly, act deliberately, and commit only in certainty. Get your thoughts straight before jumping into anything.
 
 Wanna go fast? Go slow first. Slowly by slowly. Slow is smooth, smooth is fast. Start slow, finish fast. If you slow down, you’ll speed up. Pause, Think, and Decide. Rushing causes errors. Errors cause setbacks. Setbacks cause delays.
 
