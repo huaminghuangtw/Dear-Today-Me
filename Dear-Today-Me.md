@@ -232,6 +232,8 @@ Try to make as many right and wise choices as you possibly can. Try to make as m
 
 Guard your time and take care of your brain (the software) and body (the hardware). A sound mind needs a sound body. Make it non-negotiable to prioritize your [sleep](https://www.youtube.com/watch?v=-OBCwiPPfEU), [exercise](https://www.strongfirst.com/blog/), and [nutrition](https://www.youtube.com/user/nutritionfactsorg).
 
+Treat your body as the house you will live forever. It’s the only place you have to live.
+
 Never ever sacrifice your sleep. Don’t limit sleep length. Sleep as much as your body needs. Sleep is the best legal performance enhancing drug on the planet. Listen to your body. Always make sure you get enough of seven to eight hours of sleep each night.
 
 Move your body. [Tame your mind.](https://www.youtube.com/watch?v=UlAPNQN2-Fw) Meditate, journal, go for a walk or [do micro-exercises](https://darebee.com/) throughout the day.
