@@ -6,7 +6,7 @@ Dear Today Me,
 
 [At the end of the day, you can lie down and rest easy, knowing you've gave it your all and made the most of your abilities.](https://www.goodreads.com/quotes/445606-being-the-richest-man-in-the-cemetery-doesn-t-matter-to)
 
-[Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with being the best in the world at whatever you do professionally.
+[Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with being the best in the world at whatever you do professionally. [Become so good they can't ignore you.](https://www.goodreads.com/work/quotes/19086651-so-good-they-can-t-ignore-you-why-skills-trump-passion-in-the-quest-for)
 
 [Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) Never do half-reps. If you’re half in, you’re actually all out. Wherever you go, go with all your heart. Otherwise, you’ll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
 
@@ -42,7 +42,7 @@ Learn with no end in mind. Learn for no reason at all. [Learn how to learn.](htt
 
 Try to learn something about everything and everything about something every day. Never, ever stop learning. If you are not growing, you are dying. [If you don't learn, you can't change, and if you are not changing, what is the point of being here?](https://x.com/librarymindset/status/1530100260361539589) Think about it again! Cherish this massive birth gift. Always have faith in your capability learn new skills, no matter how hard the task seems. [Your ability to learn is not fixed, it can change with your effort.](https://www.youtube.com/watch?v=H14bBuluwB8)
 
-Question every rule. Always dig deeper. Doubt everything. Remove all labels. Don’t believe everything you believe now. No beliefs are true. [Avoid the trap of expertise and experience.](https://hbr.org/podcast/2019/04/avoiding-the-expertise-trap)
+Question every rule. Always dig deeper. Doubt everything. Remove all labels. [Don’t believe everything you believe now.](https://www.goodreads.com/work/quotes/95742516-don-t-believe-everything-you-think-why-your-thinking-is-the-beginning) No beliefs are true. [Avoid the trap of expertise and experience.](https://hbr.org/podcast/2019/04/avoiding-the-expertise-trap)
 
 Be ready to transform yourself completely into another person, and be ready to be in an internal state of self-revolution at any time. Strong opinions, loosely held. Be dynamic, flexible, and open-minded. [Don't get married to past views.](https://m.youtube.com/watch?v=m4RVTK7iU1c) Stay curious.
 
