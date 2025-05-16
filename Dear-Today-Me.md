@@ -186,7 +186,7 @@ Don’t wait. Don’t tell yourself you’ll warm up to it. Do it now. Do it fir
 
 Life is never going to be easy. Everything is difficult until you know how to do it. [Everything you want to earn in life is on the other side of hundreds of things that suck.](https://x.com/SahilBloom/status/1731017312398963015)
 
-Life is hard. Choose your hard. Use the difficulty. Find your edge. Remember that: The right way is the hard way. The obstacle is the way. We all struggle; it’s just part of human nature.
+Life is hard. Choose your hard. Use the difficulty. Find your edge. Remember that: The right way is the hard way. The obstacle is the way. We all struggle; it’s just part of human nature. If it were easy, everybody would do it.
 
 [You can't read the label from inside the bottle. Sometimes it takes outside eyes to help you see where you are.](https://rhondapeterson.com/you-cant-read-the-label-from-inside-the-bottle/)
 
