@@ -132,7 +132,7 @@ It is also possible to display a random paragraph from the letter on your Home S
 
 ---
 
-### 4. Obsidian’s Callout with Dataviewjs
+### 4. Obsidian’s Callout With Dataviewjs
 
 If you are using [Obsidian](https://obsidian.md), this option allows for showing a random paragraph of the letter in a [callout](https://help.obsidian.md/Editing+and+formatting/Callouts) using the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin.
 
