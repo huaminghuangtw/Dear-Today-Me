@@ -192,7 +192,7 @@ Life is hard. Choose your hard. Use the difficulty. Find your edge. Remember tha
 
 [When in doubt, zoom out.](https://www.youtube.com/watch?v=wupToqz1e2g) When in doubt, act. [When in doubt, don't.](https://www.brainyquote.com/quotes/benjamin_franklin_119121) [When in doubt, follow your genuine intellectual curiosity and interests. They never lie, and they know more than you do about what is worth paying attention to.](https://paulgraham.com/greatwork.html)
 
-Slow down and calm down to select opportunities and activities with the highest leverage and return on investments. Do things strategically, incrementally, and methodically. Always make sure your mind is clear and your thinking sharp prior any effort. Move slowly, think clearly, act deliberately, and commit only in certainty. Get your thoughts straight before jumping into anything.
+Slow down and calm down to select opportunities and activities with the highest leverage and return on investments. [Do things strategically, incrementally, and methodically.](https://scratched.gse.harvard.edu/ct/files/AERA2012.pdf) Always make sure your mind is clear and your thinking sharp prior any effort. Move slowly, think clearly, act deliberately, and commit only in certainty. Get your thoughts straight before jumping into anything.
 
 Wanna go fast? Go slow first. Slowly by slowly. Slow is smooth, smooth is fast. Start slow, finish fast. If you slow down, you’ll speed up. Pause, Think, and Decide. Rushing causes errors. Errors cause setbacks. Setbacks cause delays.
 
