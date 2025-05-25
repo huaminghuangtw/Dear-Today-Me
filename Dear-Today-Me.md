@@ -72,7 +72,7 @@ Live according to your values. Live your life, unapologetically. In the end, tha
 
 Do not try to be the man your father would want you to be. Be the man you would like your son to be.
 
-Be the master of your fate. Be the captain of your soul. Own your power, influence your world, and be the champion you are meant to be. Never compare yourself to others. Never measure your life with someone else’s ruler. Comparison is the thief of joy. Run your own race. No jealousy. No envy.
+[Be the master of your fate. Be the captain of your soul.](https://official.junyiacademy.org/blog/3mforgraduation/) Own your power, influence your world, and be the champion you are meant to be. Never compare yourself to others. Never measure your life with someone else’s ruler. Comparison is the thief of joy. Run your own race. No jealousy. No envy.
 
 If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come. Attract, not chase.
 
@@ -146,7 +146,9 @@ Knowledge is useless until you act on it. It’s not enough to know something. Y
 
 You got to fall in love with the process. The journey is the reward. Trust the exponential growth and non-linear, asymmetric results. Never take little progress for granted. Aim to be consistently good rather than occasionally great.
 
-Work hard. Work very hard. Work very hard every waking hour. But not every day. Work as hard as you can without burning out. The world needs people willing to work while others rest.
+Work hard. Work very hard. Work very hard every waking hour. But not every day. Work as hard as you can without burning out.
+
+The world needs people willing to work while others rest. [Work stamina is one of the biggest predictors of long-term success.](https://blog.samaltman.com/how-to-be-successful) [You have to work hardest for the things you love most.](https://www.goodreads.com/work/quotes/40330-mindset-the-new-psychology-of-success)
 
 Don’t seek quick wins or shortcuts. The only shortcut is doing something the right way the first time so that you don’t waste any time on the shortcuts. The only “hack” is relentless consistency. [If you want to be good, you don't really have many choices. It takes what it takes. You have to do what you have to do to be successful.](https://m.youtube.com/watch?v=R0CAAlMo3f8) Do what is necessary. Do what is required.
 
