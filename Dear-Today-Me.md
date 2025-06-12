@@ -228,7 +228,7 @@ You have two ears and one mouth. Therefore, you should listen twice as much as y
 
 Make active listening mode your default. Listen to what is not said. Listen intently before replying. Listen with compassion. Then observe, engage. And then ask powerful and thoughtful genuine questions. Opinions are earned—not owed. Everyone has to agree with you LATER. If everyone nodded, nobody agreed.
 
-Know when not to talk. Say what needs to be said. When you say something, make sure it benefits all parties involved and contributes to the conversation. Seek mutual benefit in all interactions. Remember: If both people are not winning, both are losing. Think Win-Win.
+Know when not to talk. Say what needs to be said. When you say something, make sure it benefits all parties involved and contributes to the conversation. Seek mutual benefit in all interactions. Remember: If both people are not winning, both are losing. [Think Win-Win.](https://sketchplanations.com/the-butcher-the-brewer-the-baker)
 
 Always be aware of how you are using the word, and be impeccable with your word. Avoid using the word to speak against yourself or to gossip about others. Remember: The most powerful word is the one you use to talk to yourself.
 
@@ -328,7 +328,7 @@ Strive to empower everyone around you to be better. Minimize suffering caused to
 
 The quality of a person is almost always viewed through how they touched the lives of others.
 
-At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.
+[At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=19m05s)
 
 Ultimately, your success in life is proportional to the number of uncomfortable actions you are willing to take, the number of hard conversations you are willing to initiate, and the number of conversations you finish with “I love you.”
 
