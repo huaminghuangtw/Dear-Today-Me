@@ -1,7 +1,7 @@
 ✉️ Dear Today Me
 ===============
 
-> _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_  
+> _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
 
 ## About
 
@@ -128,7 +128,7 @@ It is also possible to display a random paragraph from the letter on your Home S
 3. Tap on the widget and select the script that you've just created.
 
 > [!TIP]
-> _[Check out](https://github.com/huaminghuangtw/Scriptable) my other repository for customizable notifications and widgets created with [Scriptable](https://scriptable.app)!_  
+> _[Check out](https://github.com/huaminghuangtw/Scriptable) my other repository for customizable notifications and widgets created with [Scriptable](https://scriptable.app)!_
 
 ---
 
@@ -173,4 +173,4 @@ If you are using [Obsidian](https://obsidian.md), this option allows for showing
 ## Questions?
 
 * If you need any help with the setup process, feel free to contact me! I will try my best to answer all your questions and look forward to any ideas, suggestions, or feedback that can help improve this project.
-* I believe in the power of [learning (and building) in public](https://www.swyx.io/learn-in-public). If you have additional life advice (_with source link_) that you think could fit into the letter, feel free to contribute by _**[creating a pull request](https://github.com/huaminghuangtw/Dear-Today-Me/compare)**_ or _**[opening an issue](https://github.com/huaminghuangtw/Dear-Today-Me/issues/new)**_ to share your additions!  
+* I believe in the power of [learning (and building) in public](https://www.swyx.io/learn-in-public). If you have additional life advice (_with source link_) that you think could fit into the letter, feel free to contribute by _**[creating a pull request](https://github.com/huaminghuangtw/Dear-Today-Me/compare)**_ or _**[opening an issue](https://github.com/huaminghuangtw/Dear-Today-Me/issues/new)**_ to share your additions!
