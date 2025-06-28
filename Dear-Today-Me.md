@@ -118,7 +118,7 @@ Control the controllable. Determine the variables that are within your control.
 
 Change yourself to change the world. Be the change you want to see.
 
-Take ownership of every result in your life. [Everything is your fault.](https://www.amazon.de/-/en/Jocko-Willink/dp/1250183863) Don't make any excuses. Things that are not your fault can still be your responsibility.
+Own everything. Take ownership of every result in your life. [Everything is your fault.](https://www.amazon.de/-/en/Jocko-Willink/dp/1250183863) Don't make any excuses. Things that are not your fault can still be your responsibility.
 
 Pursue your goals aggressively and relentlessly. There is no compromise. [Don't just dream for winning. Train for it.](https://www.instagram.com/sirmofarah/p/CwSwPhiIZDY)
 
