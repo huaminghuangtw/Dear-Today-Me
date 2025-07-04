@@ -1,3 +1,7 @@
+---
+created: 2024-10-04T13:11:59
+modified: 2025-07-04T13:43:28
+---
 Dear Today Me,
 
 [Try to be the best version of yourself as you possibly can](https://www.youtube.com/watch?v=a1zDuOPkMSw)—[that's the reason why you exist on this planet.](https://www.youtube.com/watch?v=LS0gSjrlMJc)
@@ -26,7 +30,7 @@ Never say never. You don't know what you don't know, the unknown unknowns.
 
 [Always dream big and think big.](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big) If your dreams don't scare you, you are not dreaming big enough. [When you want something bad enough, all the universe will conspire in helping you to achieve it.](https://www.goodreads.com/quotes/5647-and-when-you-want-something-all-the-universe-conspires-in) [The people who are crazy enough to think they can change the world are the ones that do.](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can) If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. When you think big and lose, you often grow more than when you think small and win.
 
-Deliberately train yourself to be uncommonly resilient and have a very high level of pain tolerance. Develop world-class mental strength and adaptability. Be an ascetic.
+Deliberately train yourself to be uncommonly resilient and have a very high level of pain tolerance. Develop world-class mental strength and toughness. Be an ascetic.
 
 [Never lose the faith, no matter what sort of difficulties, how tough or painful experience is. Remember, if you lose your hope, that’s your real disaster.](https://www.goodreads.com/quotes/33164-there-is-a-saying-in-tibetan-tragedy-should-be-utilized)
 
@@ -136,7 +140,7 @@ You don't get to pick and choose when to show up, because the world will ignore 
 
 Your daily behaviors shape your future. A good day of training is worth little on its own, but a good year was worth plenty. Your final results are merely a reflection of your prior commitments. Do a little more what you want to do every single day, until your vision becomes reality. It's those little bits of good put together that overwhelm the world. [All success is a lagging indicator.](https://ryanholiday.net/all-success-is-a-lagging-indicator)
 
-Every effort counts. [How you do one thing is how you do everything.](https://www.goodreads.com/work/quotes/21977839-leaders-eat-last-why-some-teams-pull-together-and-others-don-t) Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because [small things become big things](https://youtu.be/mZPN9W-jPm4). Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
+[Every effort counts.](https://www.sahilbloom.com/newsletter/youre-always-building-your-own-house) [How you do one thing is how you do everything.](https://www.goodreads.com/work/quotes/21977839-leaders-eat-last-why-some-teams-pull-together-and-others-don-t) Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because [small things become big things](https://youtu.be/mZPN9W-jPm4). Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
 
 Success is not about talent—it's about the willingness to tackle the boring, repetitive work that others avoid. [You have to embrace the boredom in the dark to shine in the light.](https://www.youtube.com/watch?v=vwnTJLMRlFI) [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665) The most exciting outputs come from the most boring inputs.
 
