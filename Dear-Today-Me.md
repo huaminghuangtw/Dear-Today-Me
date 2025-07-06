@@ -1,7 +1,8 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-07-04T13:43:28
+modified: 2025-07-05T07:24:50
 ---
+
 Dear Today Me,
 
 [Try to be the best version of yourself as you possibly can](https://www.youtube.com/watch?v=a1zDuOPkMSw)—[that's the reason why you exist on this planet.](https://www.youtube.com/watch?v=LS0gSjrlMJc)
@@ -12,7 +13,7 @@ Dear Today Me,
 
 [Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with being the best in the world at whatever you do professionally. [Become so good they can't ignore you.](https://www.goodreads.com/work/quotes/19086651-so-good-they-can-t-ignore-you-why-skills-trump-passion-in-the-quest-for)
 
-[Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) Never do half-reps. If you're half in, you're actually all out. Wherever you go, go with all your heart. Otherwise, you'll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
+[Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) Never do half-reps. [If you're half in, you're actually all out.](https://x.com/SahilBloom/status/1925950712980152475) Wherever you go, go with all your heart. Otherwise, you'll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
 
 [Follow your obsession.](https://x.com/zachpogrob) [Try to be legendary in your own way.](https://www.youtube.com/watch?v=Ju5kyQJyGBY) Few people get remembered hundreds of years after they die. Live a life worth remembering. [You have nothing to lose.](https://www.youtube.com/watch?v=EBtX9vh9KI4) You only lose what you cling to.
 
