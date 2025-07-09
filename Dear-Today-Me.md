@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-07-05T07:24:50
+modified: 2025-07-09T16:03:48
 ---
 
 Dear Today Me,
@@ -141,7 +141,11 @@ You don't get to pick and choose when to show up, because the world will ignore 
 
 Your daily behaviors shape your future. A good day of training is worth little on its own, but a good year was worth plenty. Your final results are merely a reflection of your prior commitments. Do a little more what you want to do every single day, until your vision becomes reality. It's those little bits of good put together that overwhelm the world. [All success is a lagging indicator.](https://ryanholiday.net/all-success-is-a-lagging-indicator)
 
-[Every effort counts.](https://www.sahilbloom.com/newsletter/youre-always-building-your-own-house) [How you do one thing is how you do everything.](https://www.goodreads.com/work/quotes/21977839-leaders-eat-last-why-some-teams-pull-together-and-others-don-t) Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because [small things become big things](https://youtu.be/mZPN9W-jPm4). Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
+[Every effort counts.](https://www.sahilbloom.com/newsletter/youre-always-building-your-own-house) [How you do one thing is how you do everything.](https://www.goodreads.com/work/quotes/21977839-leaders-eat-last-why-some-teams-pull-together-and-others-don-t) Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because [small things become big things](https://youtu.be/mZPN9W-jPm4).
+
+Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count.
+
+Over time, bit by bit, step by step, little by little, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go. [Turn every page.](https://www.sahilbloom.com/newsletter/a-simple-question-for-true-mastery)
 
 Success is not about talent—it's about the willingness to tackle the boring, repetitive work that others avoid. [You have to embrace the boredom in the dark to shine in the light.](https://www.youtube.com/watch?v=vwnTJLMRlFI) [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665) The most exciting outputs come from the most boring inputs.
 
@@ -267,7 +271,7 @@ Fast as often as you can. Only eat when you are hungry. Eat when you are ready t
 
 [Eat real, whole, unprocessed food only. Not too much. Mostly plants.](https://sketchplanations.com/eat-food-not-too-much-mostly-plants) Drink lots of water and tea. Limit coffee. No sugar, except raw honey. No alcohol, except white or red wine. 
 
-Your mental and physical health above all. You can only enjoy your life if you are healthy. The healthier you are, the more enjoyable money is. Do your best to control the releases of your dopamine and insulin as much as you can. Delay gratification. No bad habits.
+Your [mental and physical health](https://www.webmd.com/) above all. You can only enjoy your life if you are healthy. The healthier you are, the more enjoyable money is. Do your best to control the releases of your dopamine and insulin as much as you can. Delay gratification. No bad habits.
 
 Accept everything. Judge nothing. Find beauty in everything. Don't keep score.
 
