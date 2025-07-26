@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-07-09T16:03:48
+modified: 2025-07-25T11:18:38
 ---
 
 Dear Today Me,
@@ -91,7 +91,7 @@ Be confident, bold, and fearless. [Always stand up straight with your shoulders 
 
 [In life, the only constant is change.](https://www.youtube.com/watch?v=XNbaR54Gpj4) Your life doesn't get better by chance, it gets better by change. The first step toward change is awareness. The second step is acceptance.
 
-Don't settle. Don't fixate on anything. Progress is about moving forward. Move. You are not a tree!
+Don't settle. Don't fixate on anything. Progress is about moving forward. Move. You are not a tree! Change is only possible through movement.
 
 Embrace the uncertainty and randomness in life. When nothing is certain, everything is possible. [The most dangerous person in the world is the one who shows up every single day even when the rewards are uncertain. The one who can tolerate the most uncertainty is the one who will eventually win.](https://www.goodreads.com/book/show/212806718-the-5-types-of-wealth) Uncertainty is the only certainty.
 
