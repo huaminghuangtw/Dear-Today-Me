@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-07-25T11:18:38
+modified: 2025-07-28T17:28:23
 ---
 
 Dear Today Me,
@@ -37,7 +37,7 @@ Deliberately train yourself to be uncommonly resilient and have a very high leve
 
 [All greatness comes good character. And that character isn’t formed out of smart people. It’s formed from people who suffered.](https://www.youtube.com/watch?v=vOvQSqY7Jgc)
 
-[Pain is inevitable. Suffering is optional.](https://www.youtube.com/shorts/ZWVecJO7g0c) If you don't feel pain, you haven't been hurt. You are the cause of your own suffering. [If you are suffering, it is because you are asleep.](https://www.goodreads.com/book/show/94318.Awareness) Wake up!
+[Pain is inevitable. Suffering is optional.](https://www.goodreads.com/work/quotes/2475030-hashiru-koto-ni-tsuite-kataru-toki-ni-boku-no-katar) If you don't feel pain, you haven't been hurt. You are the cause of your own suffering. [If you are suffering, it is because you are asleep.](https://www.goodreads.com/book/show/94318.Awareness) Wake up!
 
 [Everything in life is a mind game. In the end, all suffering comes to an end, no matter how intense the pain or how harrowing the torture.](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
 
@@ -162,6 +162,8 @@ You got to fall in love with the process. The journey is the reward. Trust the e
 Focus on the effort, not outcomes. Be patient with results, but inpatient with actions. Aim to be consistently good rather than occasionally great.
 
 Work hard. Work very hard. Work very hard every waking hour. But not every day. Work as hard as you can without burning out.
+
+Start before you're ready. Stop before you're exhausted.
 
 The world needs people willing to work while others rest. [Work stamina is one of the biggest predictors of long-term success.](https://blog.samaltman.com/how-to-be-successful) [You have to work hardest for the things you love most.](https://www.goodreads.com/work/quotes/40330-mindset-the-new-psychology-of-success)
 
@@ -339,7 +341,7 @@ The quality of a person is almost always viewed through how they touched the liv
 
 [At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=19m05s)
 
-Ultimately, your success in life is proportional to the number of uncomfortable actions you are willing to take, the number of hard conversations you are willing to initiate, and the number of conversations you finish with “I love you.”
+Ultimately, your success in life is proportional to the number of uncomfortable actions you're willing to take, the hard conversations you choose to initiate, and the moments you end with “I love you.” More than anything, [your ability to speak, your ability to write, and the quality of your ideas—in that order—will determine your success in life.](https://www.youtube.com/watch?v=Unzc731iCUY)
 
 Peace.
 
