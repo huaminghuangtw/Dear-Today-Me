@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T01:39:26
-modified: 2025-08-07T06:03:37
+modified: 2025-08-07T18:42:53
 ---
 
 # Dear Today Me
@@ -9,7 +9,7 @@ modified: 2025-08-07T06:03:37
 
 ## About
 
-This repo maintains a letter to my present self from Better Me. It reminds me not to forget who I want to be. The ideas in the letter represent my core values. I strive to live by them every single day. They help me to cut through the noise and navigate chaos, so I can [center my thoughts and actions](https://en.wikipedia.org/wiki/1_in_60_rule) when I feel lost in life.
+This repo maintains a letter to my present self from Better Me. The ideas in the letter represent my core values and the person I want to be. I strive to live by them every single day. Like the North Star, they guide me through the noise and chaos of life, so I can [center my thoughts and actions](https://en.wikipedia.org/wiki/1_in_60_rule) when I feel lost.
 
 ## Tools
 
