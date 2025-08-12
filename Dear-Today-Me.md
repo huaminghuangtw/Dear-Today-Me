@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-07-28T17:28:23
+modified: 2025-08-10T14:07:56
 ---
 
 Dear Today Me,
@@ -11,7 +11,7 @@ Dear Today Me,
 
 [At the end of the day, you can lie down and rest easy, knowing you've gave it your all and made the most of your abilities.](https://www.goodreads.com/quotes/445606-being-the-richest-man-in-the-cemetery-doesn-t-matter-to)
 
-[Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with being the best in the world at whatever you do professionally. [Become so good they can't ignore you.](https://www.goodreads.com/work/quotes/19086651-so-good-they-can-t-ignore-you-why-skills-trump-passion-in-the-quest-for)
+[Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with [being the best in the world at whatever you do](https://x.com/naval/status/1133452743614451712). [Keep redefining what you do until this is true.](https://nav.al/redefining) [Become so good they can't ignore you.](https://www.goodreads.com/work/quotes/19086651-so-good-they-can-t-ignore-you-why-skills-trump-passion-in-the-quest-for)
 
 [Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) Never do half-reps. [If you're half in, you're actually all out.](https://x.com/SahilBloom/status/1925950712980152475) Wherever you go, go with all your heart. Otherwise, you'll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
 
