@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-08-10T14:07:56
+modified: 2025-08-17T06:29:56
 ---
 
 Dear Today Me,
@@ -280,6 +280,8 @@ Accept everything. Judge nothing. Find beauty in everything. Don't keep score.
 [Success is getting what you want, happiness is wanting what you get.](https://www.goodreads.com/quotes/4808-success-is-getting-what-you-want-happiness-is-wanting-what) Happiness comes from being grateful for what you already have. Being upset over what you don't have is to waste what you do have. Never let the things you want make you forget the things you already have. You have to want what you already have. [Remember that what you now have was once among the things you only hoped for.](https://www.goodreads.com/quotes/169009-do-not-spoil-what-you-have-by-desiring-what-you) [Don't neglect the gold in your own back yard.](https://www.goodreads.com/quotes/182524-don-t-neglect-the-gold-in-your-own-back-yard)
 
 [If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.](https://www.goodreads.com/quotes/10179235-if-you-look-at-what-you-have-in-life-you-ll) You are already as perfect as you are now.
+
+Even if you don't have all the things you want, be grateful for the things you don't have that you don't want.
 
 [If you’re going to pursue “more”, remember to keep your life balanced, especially in terms of your health and relationships.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Don’t let the pursuit of more stop you from enjoying what you already have.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Never let the quest for more distract you from the beauty of enough.](https://x.com/SahilBloom/status/1607057493762658306?lang=en) Enough is enough. Moderation and harmony is key. Everything in balance. Find the sweet spot.
 
