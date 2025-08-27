@@ -1,7 +1,3 @@
----
-created: 2024-11-18T01:39:26
-modified: 2025-08-18T06:16:58
----
 
 # Dear Today Me
 
