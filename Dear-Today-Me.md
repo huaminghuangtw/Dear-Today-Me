@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-08-29T08:30:46
+modified: 2025-08-31T14:21:29
 ---
 
 Dear Today Me,
@@ -129,7 +129,9 @@ Pursue your goals aggressively and relentlessly. There is no compromise. [Don't 
 
 If you want something—and you’ve done the work to earn it—[go ask for it. Closed mouths don't get fed.](https://www.youtube.com/watch?v=zkTf0LmDqKI) [In life, you don't get what you deserve, you get what you think you deserve.](https://jamesclear.com/3-2-1/february-13-2025) Ask for forgiveness, not permission. Just tap yourself on the shoulder and [do the work](https://www.goodreads.com/work/quotes/15554094-do-the-work)directly. If you live for people’s approval, you will die from their rejection.
 
-Make consistent daily tiny actions. Make everyday count. Never miss a day. Everyday you start at zero. The sun is new each day. Each morning you are born again. What you do today is what matters most. [The days are long, but the decades are short.](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) [How you spend your days is how you spend your life.](https://www.goodreads.com/quotes/530337-how-we-spend-our-days-is-of-course-how-we)
+Make consistent daily tiny actions. Make everyday count. Never miss a day. Everyday you start at zero. The sun is new each day. Each morning you are born again. View each separate day as a separate life.
+
+What you do today is what matters most. [The days are long, but the decades are short.](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) [How you spend your days is how you spend your life.](https://www.goodreads.com/quotes/530337-how-we-spend-our-days-is-of-course-how-we)
 
 Every single minute matters. Never remain idle. No time wasted. Ten minutes, once gone, are gone for good. You will never get the same moment twice.
 
