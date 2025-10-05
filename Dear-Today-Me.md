@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-10-01T06:30:40
+modified: 2025-10-05T15:34:08
 ---
 
 Dear Today Me,
@@ -76,6 +76,8 @@ Respect yourself enough to walk away from anything that no longer serves you, gr
 Live according to your values. Live your life, unapologetically. In the end, that’s ALL you can do.
 
 Do not try to be the man your father would want you to be. Be the man you would like your son to be.
+
+You should focus on making your children proud, rather than making your parents proud.
 
 [Be the master of your fate. Be the captain of your soul.](https://official.junyiacademy.org/blog/3mforgraduation/) Own your power, influence your world, and be the champion you are meant to be. Never compare yourself to others. Never measure your life with someone else’s ruler. Comparison is the thief of joy. Run your own race. No jealousy. No envy.
 
