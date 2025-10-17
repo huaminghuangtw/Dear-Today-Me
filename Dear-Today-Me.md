@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-10-05T15:34:08
+modified: 2025-10-17T12:35:00
 ---
 
 Dear Today Me,
@@ -85,7 +85,7 @@ If you spend your time chasing butterflies, they’ll fly away. But if you spend
 
 [You should be too busy working on your grass to notice others is greener.](https://www.reddit.com/r/GetMotivated/comments/fk2pol/image_im_too_busy_working_on_my_own_grass_to/) [Let the improvement of yourself keep you so busy that you have no time to criticize others.](app://obsidian.md/%5Bhttps://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that%5D(https://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that)) Focus on bettering yourself. Water your own grass. The grass is always greener where you water it.
 
-Just do yourself. [No one will ever be as good at being you than you are. No one can compete with you on being you.](https://x.com/naval/status/797865441783709696?lang=en) The only person you have to compete against is yourself.
+Just do yourself. Be who you were created to be. [No one will ever be as good at being you than you are. No one can compete with you on being you.](https://x.com/naval/status/797865441783709696?lang=en) The only person you have to compete against is yourself.
 
 Focus on the internal scorecard, not the external validation. Be primarily internally driven. You don’t need to impress anyone but yourself. You become inhumanly strong when you try to impress only one person: YOU. You are always going to win the “YOU” game.
 
