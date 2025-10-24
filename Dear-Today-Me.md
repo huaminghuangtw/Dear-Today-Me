@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-10-17T12:35:00
+modified: 2025-10-24T16:19:38
 ---
 
 Dear Today Me,
@@ -191,7 +191,7 @@ Your time will finally come. The things you’ve been waiting for will finally c
 
 Just keep your perseverance and patience. Remember: [A man who is a master of patience is master of everything else.](https://www.goodreads.com/quotes/7564496-a-man-who-is-the-master-of-patience-is-the) [But if you are not taking action consistently, then you are not practicing patience—you are just waiting.](https://jamesclear.com/3-2-1/may-16-2024)
 
-In this life journey, you will fail many times, but you will be really right once. [The things you want in life will come to you, but only when you are ready for them.](https://x.com/SahilBloom/status/1791072978840567866) [You can have it all. You just can't have it all at once.](https://www.brainyquote.com/quotes/oprah_winfrey_382401) Remember: You’re not where you want to be just because you have not done what is necessary and required yet.
+One bad chapter does not make the book of your life. In this life journey, you will fail many times, but you will be really right once. [The things you want in life will come to you, but only when you are ready for them.](https://x.com/SahilBloom/status/1791072978840567866) [You can have it all. You just can’t have it all at once.](https://www.brainyquote.com/quotes/oprah_winfrey_382401) Remember: You’re not where you want to be just because you have not done what is necessary and required yet.
 
 You are always just one good decision away from being in a better place tomorrow—just focus on the next decision. [Just begin. Solve one problem. Then solve the next one. And the next one. Eventually you will solve all problems.](https://www.youtube.com/watch?v=mDYCLFE86Po)
 
@@ -199,7 +199,7 @@ Life is cyclic and chaotic. Bad things happen dramatically. Good things happen g
 
 Hope for the best, prepare for the worst, take what comes.
 
-[Never let success get into your head. Never let failure get into your heart.](https://www.goodreads.com/quotes/836064-never-let-success-get-to-your-head-and-never-let) [Success is not final, failure is not fatal: it is the courage to continue that counts.](https://www.youtube.com/watch?v=uuxMZL6ieWM)
+[Never let success get into your head. Never let failure get into your heart.](https://www.goodreads.com/quotes/836064-never-let-success-get-to-your-head-and-never-let) [Success is not final, failure is not fatal: it is the courage to continue that counts.](https://www.youtube.com/watch?v=uuxMZL6ieWM) 
 
 Optimize for long term growth over short term gains. Optimize for fun and joy over money.
 
