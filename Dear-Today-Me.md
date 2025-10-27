@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-10-24T16:19:38
+modified: 2025-10-25T17:11:57
 ---
 
 Dear Today Me,
@@ -199,7 +199,7 @@ Life is cyclic and chaotic. Bad things happen dramatically. Good things happen g
 
 Hope for the best, prepare for the worst, take what comes.
 
-[Never let success get into your head. Never let failure get into your heart.](https://www.goodreads.com/quotes/836064-never-let-success-get-to-your-head-and-never-let) [Success is not final, failure is not fatal: it is the courage to continue that counts.](https://www.youtube.com/watch?v=uuxMZL6ieWM) 
+[Never let success get into your head. Never let failure get into your heart.](https://www.goodreads.com/quotes/836064-never-let-success-get-to-your-head-and-never-let) [Success is not final, failure is not fatal: it is the courage to continue that counts.](https://www.youtube.com/watch?v=uuxMZL6ieWM)
 
 Optimize for long term growth over short term gains. Optimize for fun and joy over money.
 
