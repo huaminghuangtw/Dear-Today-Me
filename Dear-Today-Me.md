@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-10-25T17:11:57
+modified: 2025-10-31T11:00:38
 ---
 
 Dear Today Me,
@@ -345,7 +345,7 @@ Strive to empower everyone around you to be better. Minimize suffering caused to
 
 The quality of a person is almost always viewed through how they touched the lives of others.
 
-[At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=19m05s)
+[At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=18m33s)
 
 Ultimately, your success in life is proportional to the number of uncomfortable actions you’re willing to take, the hard conversations you choose to initiate, and the moments you end with “I love you.” More than anything, [your ability to speak, your ability to write, and the quality of your ideas—in that order—will determine your success in life.](https://www.youtube.com/watch?v=Unzc731iCUY)
 
