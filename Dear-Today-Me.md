@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-11-02T05:48:31
+modified: 2025-11-02T17:54:15
 ---
 
 Dear Today Me,
@@ -281,7 +281,7 @@ Your [mental and physical health](https://www.webmd.com/) above all. You can onl
 
 Accept everything. Judge nothing. Find beauty in everything. Don’t keep score.
 
-[Success is getting what you want, happiness is wanting what you get.](https://www.goodreads.com/quotes/4808-success-is-getting-what-you-want-happiness-is-wanting-what) Happiness comes from being grateful for what you already have. Being upset over what you don’t have is to waste what you do have. Never let the things you want make you forget the things you already have. You have to want what you already have. 
+[Success is getting what you want, happiness is wanting what you get.](https://www.goodreads.com/quotes/4808-success-is-getting-what-you-want-happiness-is-wanting-what) Happiness comes from being grateful for what you already have. Being upset over what you don’t have is to waste what you do have. Never let the things you want make you forget the things you already have. You have to want what you already have.
 
 [Remember that what you now have was once among the things you only hoped for.](https://www.goodreads.com/quotes/169009-do-not-spoil-what-you-have-by-desiring-what-you) There is a version of yourself 10 years from now that is begging this version of yourself to enjoy where you currently are. [Don’t neglect the gold in your own back yard.](https://www.goodreads.com/quotes/182524-don-t-neglect-the-gold-in-your-own-back-yard) Be content.
 
