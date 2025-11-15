@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-11-04T20:00:50
+modified: 2025-11-15T05:54:18
 ---
 
 Dear Today Me,
@@ -53,7 +53,7 @@ Be ready to transform yourself completely into another person, and be ready to b
 
 Expect nothing. Expectations are limitations. They limit your true potential. Know your limits but never stop trying to exceed them.
 
-[Adapt what is useful, reject what is useless, and add what is specifically your own.](https://www.goodreads.com/quotes/30620-adapt-what-is-useful-reject-what-is-useless-and-add) Adopt what works for you NOW. Not everything that can be counted counts. Not everything that counts can be counted. Always see things from different perspectives. No assumptions. No judgments. Accept things the way as they are. Nothing is ever as good as you think it will be or as bad as you fear.
+[Adapt what is useful, reject what is useless, and add what is specifically your own.](https://www.goodreads.com/quotes/30620-adapt-what-is-useful-reject-what-is-useless-and-add) Adopt what works for you NOW. Not everything that can be counted counts. Not everything that counts can be counted. Always see things from different perspectives. No assumptions. No judgments. Accept things the way as they are. Nothing is as good as you think, nor as bad as you fear.
 
 Never forget why you are really doing what you are doing. [Always ask the WHY,](https://www.youtube.com/watch?v=u4ZoJKF_VuA) and align your work with your long-term vision. The worst day working on your purpose will still be better than the best day working on something that isn’t your purpose.
 
