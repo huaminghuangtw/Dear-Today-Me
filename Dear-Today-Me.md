@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-11-15T05:54:18
+modified: 2025-11-16T06:44:05
 ---
 
 Dear Today Me,
@@ -337,7 +337,7 @@ Be kind, gentle, and friendly. Show empathy and compassion. You have an unlimite
 
 Do no harm, but take no shit and crap. Set personal boundaries.
 
-Practice random acts of kindness. Remember: Every single person is fighting a battle you know nothing about. [People are doing the best that they can from their own level of consciousness.](https://www.goodreads.com/quotes/82220-people-are-doing-the-best-that-they-can-from-their)
+Practice random acts of kindness. Remember: Every person is fighting a battle you know nothing about. [People are doing the best that they can from their own level of consciousness.](https://www.goodreads.com/quotes/82220-people-are-doing-the-best-that-they-can-from-their) Everyone is going through life for the first time.
 
 When you think something nice about someone, tell them right away. Don’t hold any unexpressed love until the last day of your life. Leave a positive review. Leave a compliment for someone, no matter how small it is. Make the coffee.
 
