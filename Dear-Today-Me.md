@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-11-16T06:44:05
+modified: 2025-11-22T15:10:43
 ---
 
 Dear Today Me,
@@ -89,7 +89,9 @@ Just do yourself. Be who you were created to be. [No one will ever be as good at
 
 Focus on the internal scorecard, not the external validation. Be primarily internally driven. You don’t need to impress anyone but yourself. You become inhumanly strong when you try to impress only one person: YOU. You are always going to win the “YOU” game.
 
-Be confident, bold, and fearless. [Always stand up straight with your shoulders back.](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) Be decisive. Trust your gut. Remember that no one has it all figured out. Everyone is in a constant process of _finding_.
+Be confident, bold, and fearless. [Always stand up straight with your shoulders back.](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) Be decisive. He who hesitates is a damned fool.
+
+Trust your gut. Remember that no one has it all figured out. Everyone is in a constant process of _finding_.
 
 [In life, the only constant is change.](https://www.youtube.com/watch?v=XNbaR54Gpj4) Your life doesn’t get better by chance, it gets better by change. The first step toward change is awareness. The second step is acceptance.
 
