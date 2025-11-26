@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-11-22T15:10:43
+modified: 2025-11-26T16:31:22
 ---
 
 Dear Today Me,
@@ -91,7 +91,7 @@ Focus on the internal scorecard, not the external validation. Be primarily inter
 
 Be confident, bold, and fearless. [Always stand up straight with your shoulders back.](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) Be decisive. He who hesitates is a damned fool.
 
-Trust your gut. Remember that no one has it all figured out. Everyone is in a constant process of _finding_.
+Trust your gut. Remember that no one has it all figured out. Everyone is in a constant process of finding.
 
 [In life, the only constant is change.](https://www.youtube.com/watch?v=XNbaR54Gpj4) Your life doesn’t get better by chance, it gets better by change. The first step toward change is awareness. The second step is acceptance.
 
