@@ -1,6 +1,6 @@
 ---
 created: 2025-08-28T01:54:05
-modified: 2025-08-28T01:54:05
+modified: 2025-11-30T08:43:49
 ---
 
 # Dear Today Me
@@ -24,7 +24,7 @@ Inspired by [Marcus Aurelius](https://www.goodreads.com/quotes/8177571-at-dawn-w
 <details>
 <summary>Setup</summary>
 
-1. [Download the shortcut](https://shortcutomation.com/gallery/shared/your-pocket-life-coach/).
+1. [Download the shortcut](https://shortcutomation.com/your-pocket-life-coach/).
 2. Tap **Add Shortcut**.
 3. Run it by tapping it or asking Siri.
 
@@ -47,7 +47,7 @@ Show a random excerpt from the letter on your Lock Screen.
 <details>
 <summary>Setup</summary>
 
-1. [Download the shortcut](https://shortcutomation.com/gallery/shared/dear-today-me/).
+1. [Download the shortcut](https://shortcutomation.com/dear-today-me/).
 2. In the Shortcuts app, go to the **Automation** tab.
 3. Tap `+` to make a new automation.
 4. Pick a trigger, like **Time of Day**, and set a time.
