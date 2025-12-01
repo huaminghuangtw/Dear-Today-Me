@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-11-30T07:16:56
+modified: 2025-12-01T07:04:28
 ---
 
 Dear Today Me,
@@ -207,7 +207,9 @@ Optimize for long term growth over short term gains. Optimize for fun and joy ov
 
 Stop avoiding the uncomfortable work you need to do. Do what scares you; what you are most afraid to do because it is usually the thing you need to do most. If you feel strong resistance to something, it’s likely the very thing you should be doing.
 
-[The magic you are looking for is in the work you are always avoiding.](https://www.youtube.com/shorts/E0SkEQ1e3P0) [The cave you fear to enter holds the treasure you seek.](https://www.goodreads.com/quotes/192665-the-cave-you-fear-to-enter-holds-the-treasure-you) Gather information and confront your fears.
+[The magic you are looking for is in the work you are always avoiding.](https://www.youtube.com/shorts/E0SkEQ1e3P0) [The cave you fear to enter holds the treasure you seek.](https://www.goodreads.com/quotes/192665-the-cave-you-fear-to-enter-holds-the-treasure-you) 
+
+Your greatest dreams are all on the other side of the wall of fear and caution. Gather information and confront your fears.
 
 Don’t wait. Don’t tell yourself you’ll warm up to it. Do it now. Do it first. The time will never be just right. There’s no perfect moment. [You will never be younger than you are right now.](https://jamesclear.com/3-2-1/november-7-2024)
 
