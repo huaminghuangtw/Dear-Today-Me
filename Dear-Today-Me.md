@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-12-01T07:04:28
+modified: 2025-12-02T09:33:20
 ---
 
 Dear Today Me,
@@ -207,7 +207,7 @@ Optimize for long term growth over short term gains. Optimize for fun and joy ov
 
 Stop avoiding the uncomfortable work you need to do. Do what scares you; what you are most afraid to do because it is usually the thing you need to do most. If you feel strong resistance to something, it’s likely the very thing you should be doing.
 
-[The magic you are looking for is in the work you are always avoiding.](https://www.youtube.com/shorts/E0SkEQ1e3P0) [The cave you fear to enter holds the treasure you seek.](https://www.goodreads.com/quotes/192665-the-cave-you-fear-to-enter-holds-the-treasure-you) 
+[The magic you are looking for is in the work you are always avoiding.](https://www.youtube.com/shorts/E0SkEQ1e3P0) [The cave you fear to enter holds the treasure you seek.](https://www.goodreads.com/quotes/192665-the-cave-you-fear-to-enter-holds-the-treasure-you)
 
 Your greatest dreams are all on the other side of the wall of fear and caution. Gather information and confront your fears.
 
@@ -267,7 +267,7 @@ Guard your time and take care of your brain (the software) and body (the hardwar
 
 Treat your body as the house you will live forever. It’s the only place you have to live.
 
-Never ever sacrifice your sleep. Don’t limit sleep length. Sleep as much as your body needs. Sleep is the best legal performance enhancing drug on the planet. Listen to your body. Always make sure you get enough of seven to eight hours of sleep each night.
+Never ever sacrifice your sleep. Don’t limit sleep length. Sleep as much as your body needs. Sleep is the best legal performance enhancing drug on the planet. Listen to your body. Always make sure you get enough of seven to night hours of sleep each night.
 
 Move your body. [Tame your mind.](https://www.youtube.com/watch?v=UlAPNQN2-Fw) Meditate, journal, go for a walk or [do micro-exercises](https://darebee.com/) throughout the day.
 
