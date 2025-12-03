@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-12-02T09:33:20
+modified: 2025-12-02T16:49:35
 ---
 
 Dear Today Me,
@@ -155,7 +155,7 @@ Over time, bit by bit, step by step, little by little, things will add up and le
 
 Success is not about talent—it’s about the willingness to tackle the boring, repetitive work that others avoid. [You have to embrace the boredom in the dark to shine in the light.](https://www.youtube.com/watch?v=vwnTJLMRlFI) [If you want to look good in front of thousands, you have to outwork thousands in front of nobody.](https://x.com/Dame_Lillard/status/555485512492785665) The most exciting outputs come from the most boring inputs.
 
-Be very biased toward execution. Set 5-year goals, but take 10-minute actions. Think in terms of decades, but act in terms of days. Think as if you were in a marathon, but act as if you were in a sprint. Think like a man of action, and act like a man of thought.
+Be very biased toward execution. Set 5-year goals, but take 10-minute actions. Think in terms of decades, but act in terms of days. Think as if you were in a marathon, but act as if you were in a sprint. Think like a man of action, and act like a man of thought. Think globally, but act locally.
 
 Knowledge is useless until you act on it. It’s not enough to know something. You have to turn that knowledge into action.
 
