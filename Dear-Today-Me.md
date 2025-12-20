@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-12-15T14:58:05
+modified: 2025-12-21T05:52:53
 ---
 
 Dear Today Me,
@@ -37,7 +37,7 @@ Deliberately train yourself to be uncommonly resilient and have a very high leve
 
 [All greatness comes good character. And that character isn’t formed out of smart people. It’s formed from people who suffered.](https://www.youtube.com/watch?v=vOvQSqY7Jgc)
 
-[Pain is inevitable. Suffering is optional.](https://www.goodreads.com/work/quotes/2475030-hashiru-koto-ni-tsuite-kataru-toki-ni-boku-no-katar) If you don’t feel pain, you haven’t been hurt. You are the cause of your own suffering. [If you are suffering, it is because you are asleep.](https://www.goodreads.com/book/show/94318.Awareness) Wake up!
+[Pain is inevitable. Suffering is optional.](https://www.goodreads.com/work/quotes/2475030-hashiru-koto-ni-tsuite-kataru-toki-ni-boku-no-katar) [The trick is not minding that it hurts.](https://www.youtube.com/watch?v=TvQViPBAvPk) If you don’t feel pain, you haven’t been hurt. You are the cause of your own suffering. [If you are suffering, it is because you are asleep.](https://www.goodreads.com/book/show/94318.Awareness) Wake up!
 
 [Everything in life is a mind game. In the end, all suffering comes to an end, no matter how intense the pain or how harrowing the torture.](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
 
