@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2025-12-21T05:52:53
+modified: 2026-01-11T16:17:48
 ---
 
 Dear Today Me,
@@ -97,7 +97,7 @@ Trust your gut. Remember that no one has it all figured out. Everyone is in a 
 
 Don’t settle. Don’t fixate on anything. Progress is about moving forward. Move. You are not a tree! Change is only possible through movement.
 
-Embrace the uncertainty and randomness in life. When nothing is certain, everything is possible. [The most dangerous person in the world is the one who shows up every single day even when the rewards are uncertain. The one who can tolerate the most uncertainty is the one who will eventually win.](https://www.goodreads.com/book/show/212806718-the-5-types-of-wealth) Those with the courage to work in the dark will eventually shine in the light. Uncertainty is the only certainty.
+Embrace the uncertainty and randomness in life. When nothing is certain, everything is possible. [The most dangerous person in the world is the one who shows up every single day even when the rewards are uncertain. The one who can tolerate the most uncertainty is the one who will eventually win.](https://www.goodreads.com/book/show/212806718-the-5-types-of-wealth) Those who are willing to work in the dark will eventually shine in the light. Uncertainty is the only certainty.
 
 [There is no Past You to cling to, there is no Future You to worry about. There is just the Present You to take action. You simply exist. You never become, you are in a constant state of becoming. There is just you—The Ever-Changing You.](https://www.sahilbloom.com/newsletter/the-ever-changing-you)
 
