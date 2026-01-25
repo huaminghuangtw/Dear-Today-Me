@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04T13:11:59
-modified: 2026-01-11T16:17:48
+modified: 2026-01-25T16:14:19
 ---
 
 Dear Today Me,
@@ -17,7 +17,7 @@ Dear Today Me,
 
 [Follow your obsession.](https://x.com/zachpogrob) [Try to be legendary in your own way.](https://www.youtube.com/watch?v=Ju5kyQJyGBY) Few people get remembered hundreds of years after they die. Live a life worth remembering. [You have nothing to lose.](https://www.youtube.com/watch?v=EBtX9vh9KI4) You only lose what you cling to.
 
-Do not limit or cage yourself. You are capable of much more than you could imagine. 
+Do not limit or cage yourself. You are capable of much more than you could imagine.
 
 Old ways won’t open new doors. [What got you here won’t get you there.](https://www.goodreads.com/work/quotes/81594-what-got-you-here-won-t-get-you-there) If you always do what you’ve always done, you’ll always get what you’ve always got. If you want something you’ve never had, you must be willing to do something you’ve never done.
 
@@ -63,7 +63,7 @@ You only live once. One life. One chance. One go. [You make yourself either mise
 
 Never forget your childhood dreams. Never lose the child inside you. [Have the courage to follow your own heart and intuition — they somehow already know what you truly want to become — everything else is secondary.](https://www.goodreads.com/quotes/445286-have-the-courage-to-follow-your-heart-and-intuition-they)
 
-[Pursue what catches your heart, not what catches your eyes.](https://www.goodreads.com/quotes/6564377-pursue-what-catches-your-heart-not-what-catches-your-eyes) Let your heart speak. Listen to your instinct. If your heart isn’t in it, don’t start it. Grab the opportunity when it presents itself, and then give it your all.
+[Pursue what catches your heart, not what catches your eyes.](https://www.goodreads.com/quotes/6564377-pursue-what-catches-your-heart-not-what-catches-your-eyes) Let your heart speak. Listen to your instinct. If your heart isn’t in it, don’t start it. Grab the opportunity when it presents itself, and then give it your all.
 
 [Life shrinks or expands in proportion to one’s courage.](https://x.com/tferriss/status/1771644332367327414#) [Twenty years from now you will regret and be more disappointed by the things that you didn’t do than by the ones you did do.](https://www.youtube.com/watch?v=jwG_qR6XmDQ)
 
@@ -83,7 +83,7 @@ You should focus on making your children proud, rather than making your parents 
 
 If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come. Attract, not chase.
 
-[You should be too busy working on your grass to notice others is greener.](https://www.reddit.com/r/GetMotivated/comments/fk2pol/image_im_too_busy_working_on_my_own_grass_to/) [Let the improvement of yourself keep you so busy that you have no time to criticize others.](app://obsidian.md/%5Bhttps://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that%5D(https://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that)) Focus on bettering yourself. Water your own grass. The grass is always greener where you water it.
+[You should be too busy working on your grass to notice others is greener.](https://www.reddit.com/r/GetMotivated/comments/fk2pol/image_im_too_busy_working_on_my_own_grass_to/) [Let the improvement of yourself keep you so busy that you have no time to criticize others.](app://obsidian.md/%5Bhttps://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that%5D(https://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that)) Focus on bettering yourself. Water your own grass. The grass is always greener where you water it.
 
 Just do yourself. Be who you were created to be. [No one will ever be as good at being you than you are. No one can compete with you on being you.](https://x.com/naval/status/797865441783709696?lang=en) The only person you have to compete against is yourself.
 
@@ -91,7 +91,7 @@ Focus on the internal scorecard, not the external validation. Be primarily inter
 
 Be confident, bold, and fearless. [Always stand up straight with your shoulders back.](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) Be decisive. He who hesitates is a damned fool.
 
-Trust your gut. Remember that no one has it all figured out. Everyone is in a constant process of finding.
+Trust your gut. Remember that no one has it all figured out. Everyone is in a constant process of finding.
 
 [In life, the only constant is change.](https://www.youtube.com/watch?v=XNbaR54Gpj4) Your life doesn’t get better by chance, it gets better by change. The first step toward change is awareness. The second step is acceptance.
 
@@ -109,7 +109,7 @@ Life goes on. You got to keep going, keep moving, keep improving, keep exploring
 
 [Treat your life as a laboratory where you can try anything.](https://x.com/zachpogrob/status/1507197787041112069) [Consider everything in life as an experiment](https://x.com/anuatluru/status/1760357731091783916), with each experience serving as a [diary entry](https://youtu.be/GpgqXCkRO-w&t=30m22s).
 
-[Explore](https://terrytao.wordpress.com/career-advice/dont-be-afraid-to-learn-things-outside-your-field/), Discover, Try, Fail, Disappoint, Get lost, Suffer, Ask, Get feedback, Learn, Grow, Iterate, and Repeat. [You can’t connect the dots looking forward; you can only connect them looking backwards.](https://www.goodreads.com/quotes/463176-you-can-t-connect-the-dots-looking-forward-you-can-only) 
+[Explore](https://terrytao.wordpress.com/career-advice/dont-be-afraid-to-learn-things-outside-your-field/), Discover, Try, Fail, Disappoint, Get lost, Suffer, Ask, Get feedback, Learn, Grow, Iterate, and Repeat. [You can’t connect the dots looking forward; you can only connect them looking backwards.](https://www.goodreads.com/quotes/463176-you-can-t-connect-the-dots-looking-forward-you-can-only)
 
 Leave your comfort zone. Life begins at the end of the comfort zone. [Don’t always play safe. Don’t always stick to what you already know.](https://www.youtube.com/watch?v=jE-vY5-3zhU&t=35m18s) Take as much calculated risk as you can afford.
 
@@ -145,7 +145,7 @@ But keep in mind to always value attention over time. [If you don’t have atten
 
 You don’t get to pick and choose when to show up, because the world will ignore your best and judge you for your worst. Show up every day. Be a habit and routine machine. Every single day, chop wood, carry water. [The work never stops.](https://www.youtube.com/watch?v=Ju5kyQJyGBY) The world is run by those who show up consistently.
 
-Your daily behaviors shape your future. A good day of training is worth little on its own, but a good year was worth plenty. Your final results are merely a reflection of your prior commitments. Do a little more what you want to do every single day, until your vision becomes reality. It’s those little bits of good put together that overwhelm the world. [All success is a lagging indicator.](https://ryanholiday.net/all-success-is-a-lagging-indicator)
+Your daily behaviors shape your future. A good day of training is worth little on its own, but a good year was worth plenty. Your final results are merely a reflection of your prior commitments. Do a little more what you want to do every single day, until your vision becomes reality. It’s those little bits of good put together that overwhelm the world. [All success is a lagging indicator.](https://ryanholiday.net/all-success-is-a-lagging-indicator)
 
 [Every effort counts.](https://www.sahilbloom.com/newsletter/youre-always-building-your-own-house) [How you do one thing is how you do everything.](https://www.goodreads.com/work/quotes/21977839-leaders-eat-last-why-some-teams-pull-together-and-others-don-t) Anything above zero compounds positively. Start with small baby steps. Always [take the small things seriously](https://terrytao.wordpress.com/career-advice/be-professional-in-your-work/), because [small things become big things](https://youtu.be/mZPN9W-jPm4).
 
@@ -159,7 +159,7 @@ Be very biased toward execution. Set 5-year goals, but take 10-minute actions. T
 
 Knowledge is useless until you act on it. It’s not enough to know something. You have to turn that knowledge into action.
 
-Everything good in life is a byproduct of action. Information is abundant, action is hard. Ideas are easy. It’s the execution of ideas that really separates the sheep from the goats.
+Everything good in life is a byproduct of action. Information is abundant, action is hard. Ideas are easy. It’s the execution of ideas that really separates the sheep from the goats.
 
 Remember: Talk does not cook rice. You are what you do, not what you say you’ll do. You can’t build a reputation on what you’re going to do.
 
@@ -185,7 +185,7 @@ You are playing an infinite and lifelong game. Everything important is uncertain
 
 Get started and don’t worry about the clock. Action doesn’t have to be perfect for it to be right.
 
-Do things no one cares about but you. Do the old fashioned things well. Do foolish things that don’t scale with enthusiasm. Those stupid, meaningless obsessions are all worth it in the end, because once you get there, you can move mountains and bend the world.
+Do things no one cares about but you. Do the old fashioned things well. Do foolish things that don’t scale with enthusiasm. Those stupid, meaningless obsessions are all worth it in the end, because once you get there, you can move mountains and bend the world.
 
 Focus on what you can control. [Start where you are. Use what you have. Do what you can.](https://www.goodreads.com/quotes/9743989-start-where-you-are-use-what-you-have-do-what)
 
@@ -279,7 +279,7 @@ Do yoga, stretching, foam roller massage, and a lot of heat-cold contrast therap
 
 Fast as often as you can. Only eat when you are hungry. Eat when you are ready to eat. Stop eating when you are eighty percent full. Be wholeheartedly appreciative and fully present in gratitude for the food you eat and the body you are feeding. No craving. No snacking. Don’t use eating as a form of escape and procrastination.
 
-[Eat real, whole, unprocessed food only. Not too much. Mostly plants.](https://sketchplanations.com/eat-food-not-too-much-mostly-plants) Drink lots of water and tea. Limit coffee. No sugar, except raw honey. No alcohol, except white or red wine. 
+[Eat real, whole, unprocessed food only. Not too much. Mostly plants.](https://sketchplanations.com/eat-food-not-too-much-mostly-plants) Drink lots of water and tea. Limit coffee. No sugar, except raw honey. No alcohol, except white or red wine.
 
 Your [mental and physical health](https://www.webmd.com/) above all. You can only enjoy your life if you are healthy. The healthier you are, the more enjoyable money is. Do your best to control the releases of your dopamine and insulin as much as you can. Delay gratification. No bad habits.
 
@@ -297,7 +297,7 @@ Even if you don’t have all the things you want, be grateful for the things you
 
 [Life is only 4000 weeks long.](https://www.amazon.de/-/en/Oliver-Burkeman/dp/0374159122) Make the rest of your life the best of your life. [Don’t live the same year 75 times and call it a life.](https://www.goodreads.com/quotes/1346035-don-t-live-the-same-year-75-times-and-call-it) Inject some planned spontaneity and adventures into your days. Every time you do something that is one less time you could do it — cherish every moment of your life like it is your last — because it very likely might be. Every single thing you do today is something that your ninety-year-old self would wish they could go back and do. The good old days are happening RIGHT NOW.
 
-Smile often. Laugh more. A day without laughter is a day wasted. Be funny. Be playful. Be cheerful. Chill out. Have fun. Don’t panic. [Calmness is a superpower.](https://stephango.com/calmness)
+Smile often. Laugh more. A day without laughter is a day wasted. Be funny. Be playful. Be cheerful. Chill out. Have fun. Don’t panic. [Calmness is a superpower.](https://stephango.com/calmness)
 
 [The more seriously you take yourself, the unhappier you’re going to be.](https://x.com/naval/status/1298724798655168514) The more you can laugh at yourself, the happier you’ll be. The less you talk about your shame, the more of it you have. Learn to laugh at yourself. Literally, in three generations, no one will even remember your name.
 
