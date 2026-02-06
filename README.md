@@ -1,6 +1,6 @@
 ---
 created: 2025-08-28T01:54:05
-modified: 2025-11-30T08:43:49
+modified: 2026-02-06T09:25:34
 ---
 
 # Dear Today Me
@@ -95,7 +95,7 @@ If you use [Obsidian](https://obsidian.md), you can show a random excerpt from t
 <summary>Setup</summary>
 
 1. Install the [Dataview plugin](https://github.com/blacksmithgu/obsidian-dataview) in Obsidian.
-2. [Copy the code](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md#-dear-today-me) and paste it into a note.
+2. [Copy the code](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md) and paste it into a note.
 
 </details>
 
