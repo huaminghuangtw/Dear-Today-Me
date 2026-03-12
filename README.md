@@ -1,8 +1,3 @@
----
-created: 2025-08-28T01:54:05
-modified: 2026-02-06T09:25:34
----
-
 # Dear Today Me
 
 > _“Nothing is good except what leads to fairness, self-control, courage, and free will. And nothing bad except what does the opposite.” — Marcus Aurelius_
