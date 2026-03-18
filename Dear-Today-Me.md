@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-14
+modified: 2026-03-18
 ---
 
 Dear Today Me,
@@ -46,7 +46,9 @@ Learn with no end in mind. Learn for no reason at all. [Learn how to learn.](htt
 
 Try to learn something about everything and everything about something every day. Never, ever stop learning. If you are not growing, you are dying. [If you don’t learn, you can’t change, and if you are not changing, what is the point of being here?](https://x.com/librarymindset/status/1530100260361539589) Think about it again! Cherish this massive birth gift. Always have faith in your capability learn new skills, no matter how hard the task seems. [Your ability to learn is not fixed, it can change with your effort.](https://youtu.be/H14bBuluwB8)
 
-Question every rule. Always dig deeper. Doubt everything. Remove all labels. [Don’t believe everything you believe now.](https://www.goodreads.com/work/quotes/95742516-don-t-believe-everything-you-think-why-your-thinking-is-the-beginning) No beliefs are true. [Avoid the trap of expertise and experience.](https://hbr.org/podcast/2019/04/avoiding-the-expertise-trap)
+Question every rule. Always dig deeper. Doubt everything. Remove all labels.
+
+[Don’t believe everything you believe now.](https://www.goodreads.com/work/quotes/95742516-don-t-believe-everything-you-think-why-your-thinking-is-the-beginning) No beliefs are true. [Avoid the trap of expertise and experience.](https://hbr.org/podcast/2019/04/avoiding-the-expertise-trap)
 
 Be ready to transform yourself completely into another person, and be ready to be in an internal state of self-revolution at any time. Strong opinions, loosely held. Be dynamic, flexible, and open-minded. [Don’t get married to past views.](https://m.youtube.com/watch?v=m4RVTK7iU1c) Stay curious.
 
