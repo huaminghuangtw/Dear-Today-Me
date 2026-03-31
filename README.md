@@ -96,7 +96,7 @@ If you use [Obsidian](https://obsidian.md), you can show a random excerpt from t
 
 ## Support
 
-You can view this project at [huami.ng/dear-today-me](https://huami.ng/dear-today-me). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
+You can view this project at [huam.ing/dear-today-me](https://huam.ing/dear-today-me). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
 
 ## Contribution
 
