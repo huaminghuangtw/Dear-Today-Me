@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-18
+modified: 2026-04-10
 ---
 
 Dear Today Me,
@@ -346,7 +346,7 @@ Do no harm, but take no shit and crap. Set personal boundaries.
 
 Practice random acts of kindness. Remember: Every person is fighting a battle you know nothing about. [People are doing the best that they can from their own level of consciousness.](https://www.goodreads.com/quotes/82220-people-are-doing-the-best-that-they-can-from-their) Everyone is going through life for the first time.
 
-When you think something nice about someone, tell them right away. Don’t hold any unexpressed love until the last day of your life. Leave a positive review. Leave a compliment for someone, no matter how small it is. Make the coffee.
+When you think something nice about someone, tell them right away. Don’t hold any unexpressed love until the last day of your life. Leave a positive review. Leave a compliment for someone, no matter how small it is. [Make the coffee.](https://www.sahilbloom.com/newsletter/the-most-important-decision-of-your-life)
 
 Try to learn something from everyone around you. Every person has a unique story to tell and a valuable lesson to share. [Everyone is a geek about something.](https://sketchplanations.com/geek)
 
