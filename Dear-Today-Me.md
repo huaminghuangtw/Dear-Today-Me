@@ -1,5 +1,5 @@
 ---
-modified: 2026-04-16
+modified: 2026-04-28
 ---
 
 Dear Today Me,
@@ -12,7 +12,9 @@ Dear Today Me,
 
 [Doing the best at this moment puts you in the best place for the next moment.](https://www.goodreads.com/quotes/62132-doing-the-best-at-this-moment-puts-you-in-the) Be obsessed with [being the best in the world at whatever you do](https://x.com/naval/status/1133452743614451712). [Keep redefining what you do until this is true.](https://nav.al/redefining) [Become so good they can’t ignore you.](https://www.goodreads.com/work/quotes/19086651-so-good-they-can-t-ignore-you-why-skills-trump-passion-in-the-quest-for)
 
-[Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) Never do half-reps. [If you’re half in, you’re actually all out.](https://x.com/SahilBloom/status/1925950712980152475) Wherever you go, go with all your heart. Otherwise, you’ll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
+[Go all-in on your obsession. It’s what you were born to do.](https://timdenning.com/all-in-on-obsession/) [You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.](https://www.goodreads.com/quotes/319520-you-were-put-on-this-earth-to-achieve-your-greatest) Live according to your values. Live your life, unapologetically. In the end, that’s ALL you can do.
+
+Never do half-reps. [If you’re half in, you’re actually all out.](https://x.com/SahilBloom/status/1925950712980152475) Wherever you go, go with all your heart. Otherwise, you’ll always have to wonder what would have happened if you emptied your tank and gave it absolutely everything. Hold yourself responsible for a higher standard than anybody expects of you.
 
 [Follow your obsession.](https://x.com/zachpogrob) [Try to be legendary in your own way.](https://youtu.be/Ju5kyQJyGBY) Few people get remembered hundreds of years after they die. Live a life worth remembering. [You have nothing to lose.](https://youtu.be/EBtX9vh9KI4) You only lose what you cling to.
 
@@ -73,8 +75,6 @@ Never forget your childhood dreams. Never lose the child inside you. [Have the c
 Be your true self. [Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself.](https://www.goodreads.com/quotes/10286222-your-job-throughout-your-entire-life-is-to-disappoint-as)
 
 Respect yourself enough to walk away from anything that no longer serves you, grows you, or makes you happy.
-
-Live according to your values. Live your life, unapologetically. In the end, that’s ALL you can do.
 
 Do not try to be the man your father would want you to be. Be the man you would like your son to be.
 
