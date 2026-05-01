@@ -1,5 +1,10 @@
 ---
-modified: 2026-04-28
+layout: '/src/layouts/MarkdownPostLayout.astro'
+title: 'Dear Today Me'
+repo: 'Dear-Today-Me'
+filePath: 'index.md'
+border: true
+modified: 2026-05-01
 ---
 
 Dear Today Me,
