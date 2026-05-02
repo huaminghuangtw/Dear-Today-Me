@@ -1,10 +1,10 @@
 ---
-layout: '/src/layouts/MarkdownPostLayout.astro'
-title: 'Dear Today Me'
-repo: 'Dear-Today-Me'
-filePath: 'index.md'
+title: Dear Today Me
+modified: 2026-05-02
 border: true
-modified: 2026-05-01
+filePath: index.md
+layout: /src/layouts/MarkdownPostLayout.astro
+repo: Dear-Today-Me
 ---
 
 Dear Today Me,
@@ -111,7 +111,7 @@ There is no such thing as a perfect you. It’s all about optimization. And opti
 
 [Keep your identity small.](https://paulgraham.com/identity.html) Listen very carefully to constructive, negative feedback and criticism. Seek for the truth. No ego. [Be humble.](https://fs.blog/david-foster-wallace-this-is-water/) Be coachable. When you let go of what you are, you become what you might be. Enjoy being wrong or looking/sounding “stupid” in a public setting. Embrace that beginner’s embarrassment. Approach everything with a beginner’s mind. [It’s always Day One.](https://youtu.be/fTwXS2H_iJo)
 
-Life goes on. You got to keep going, keep moving, keep improving, keep exploring, and keep experimenting. [Life can only be understood backwards, but it must be lived forwards.](https://www.goodreads.com/quotes/6812-life-can-only-be-understood-backwards-but-it-must-be)
+Life goes on. You got to keep moving, keep improving, keep exploring, and keep experimenting. [Life can only be understood backwards, but it must be lived forwards.](https://www.goodreads.com/quotes/6812-life-can-only-be-understood-backwards-but-it-must-be) [Your hardest times often lead to the greatest moments of your life. Tough situations build strong people in the end. Keep going!](http://goodreads.com/quotes/7636973-keep-going-your-hardest-times-often-lead-to-the-greatest)
 
 [Treat your life as a laboratory where you can try anything.](https://x.com/zachpogrob/status/1507197787041112069) [Consider everything in life as an experiment](https://x.com/anuatluru/status/1760357731091783916), with each experience serving as a [diary entry](https://youtu.be/GpgqXCkRO-w?t=30m22s).
 
