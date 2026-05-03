@@ -3,7 +3,7 @@ title: Dear Today Me
 modified: 2026-05-02
 border: true
 filePath: index.md
-layout: /src/layouts/MarkdownPostLayout.astro
+layout: /src/layouts/PostLayout.astro
 repo: Dear-Today-Me
 ---
 
