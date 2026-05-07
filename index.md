@@ -1,6 +1,6 @@
 ---
 title: Dear Today Me
-modified: 2026-05-06
+modified: 2026-05-07
 border: true
 filePath: index.md
 layout: /src/layouts/PostLayout.astro
@@ -25,7 +25,7 @@ Never do half-reps. [If you’re half in, you’re actually all out.](https://x.
 
 Do not limit or cage yourself. You are capable of much more than you could imagine.
 
-Old ways won’t open new doors. [What got you here won’t get you there.](https://www.goodreads.com/work/quotes/81594-what-got-you-here-won-t-get-you-there) If you always do what you’ve always done, you’ll always get what you’ve always got. If you want something you’ve never had, you must be willing to do something you’ve never done.
+Old ways won’t open new doors. [What got you here won’t get you there.](https://www.goodreads.com/work/quotes/81594-what-got-you-here-won-t-get-you-there) [If you always do what you’ve always done, you’ll always get what you’ve always got.](https://www.goodreads.com/quotes/904186-if-you-always-do-what-you-ve-always-done-you-ll-always) If you want something you’ve never had, you must be willing to do something you’ve never done.
 
 [Try to identify your capability gap and work relentlessly to close it.](https://x.com/SahilBloom/status/1730586779730772302)
 
