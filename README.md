@@ -34,7 +34,7 @@ Show a random excerpt from the letter on your Lock Screen.
 <p align="center">
 <a href="assets/notification.png">
 <kbd>
-<img src="assets/notification.png" width="" title=""/>
+<img src="assets/notification.png"/>
 </kbd>
 </a>
 </p>
@@ -57,7 +57,7 @@ Show a random excerpt from the letter on your Home Screen.
 <p align="center">
 <a href="assets/widget.png">
 <kbd>
-<img src="assets/widget.png" width="" title=""/>
+<img src="assets/widget.png"/>
 </kbd>
 </a>
 </p>
@@ -81,7 +81,7 @@ If you use [Obsidian](https://obsidian.md), you can show a random excerpt from t
 <p align="center">
 <a href="assets/dashboard.png">
 <kbd>
-<img src="assets/dashboard.png" width="" title=""/>
+<img src="assets/dashboard.png"/>
 </kbd>
 </a>
 </p>
