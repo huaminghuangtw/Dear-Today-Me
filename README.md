@@ -101,3 +101,8 @@ You can view this project at [huam.ing/dear-today-me](https://huam.ing/dear-toda
 ## Contribution
 
 Contributions are welcome! Please [open an issue](https://github.com/huaminghuangtw/Dear-Today-Me/issues/new) or [submit a pull request](https://github.com/huaminghuangtw/Dear-Today-Me/compare).
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE).
+
