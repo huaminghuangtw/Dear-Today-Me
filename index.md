@@ -1,5 +1,5 @@
 ---
-modified: 2026-05-08
+modified: 2026-05-26
 ---
 
 Dear Today Me,
@@ -278,9 +278,11 @@ Rest in the end, not in the middle. [Stop when you are done, not when you are ti
 
 Do yoga, stretching, foam roller massage, and a lot of heat-cold contrast therapy as often as you can. They reduce your muscle tension, anxiety, or stress, both mentally and physically, and could help you to relax for better productivity and creativity.
 
-Fast as often as you can. Only eat when you are hungry. Eat when you are ready to eat. Stop eating when you are eighty percent full. Be wholeheartedly appreciative and fully present in gratitude for the food you eat and the body you are feeding. No craving. No snacking. Don’t use eating as a form of escape and procrastination.
+Fast as often as you can. Only eat when you are hungry. Eat when you are ready to eat. Eat exactly what your body needs. Stop eating when you are eighty percent full.
 
-[Eat real, whole, unprocessed food only. Not too much. Mostly plants.](https://sketchplanations.com/eat-food-not-too-much-mostly-plants) Drink lots of water and tea. Limit coffee. No sugar, except raw honey. No alcohol, except white or red wine.
+Eat each bite consciously. Be wholeheartedly appreciative and fully present in gratitude for the food you eat and the body you are feeding. No craving. No snacking. Don’t use eating as a form of escape and procrastination.
+
+[Eat real, whole, unprocessed food only. Not too much. Mostly plants.](https://sketchplanations.com/eat-food-not-too-much-mostly-plants) Drink lots of water. Limit coffee and tea. No sugar, except raw honey. No alcohol, except white or red wine.
 
 Your [mental and physical health](https://www.webmd.com/) above all. You can only enjoy your life if you are healthy. The healthier you are, the more enjoyable money is. Do your best to control the releases of your dopamine and insulin as much as you can. Delay gratification. No bad habits.
 
