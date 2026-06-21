@@ -1,5 +1,5 @@
 ---
-modified: 2026-05-26
+modified: 2026-06-21
 ---
 
 Dear Today Me,
@@ -280,7 +280,7 @@ Do yoga, stretching, foam roller massage, and a lot of heat-cold contrast therap
 
 Fast as often as you can. Only eat when you are hungry. Eat when you are ready to eat. Eat exactly what your body needs. Stop eating when you are eighty percent full.
 
-Eat each bite consciously. Be wholeheartedly appreciative and fully present in gratitude for the food you eat and the body you are feeding. No craving. No snacking. Don’t use eating as a form of escape and procrastination.
+Eat each bite consciously. Respect everything you put on the plate. Be wholeheartedly appreciative and fully present in gratitude for the food you eat and the body you are feeding. No craving. No snacking. Don’t use eating as a form of escape and procrastination.
 
 [Eat real, whole, unprocessed food only. Not too much. Mostly plants.](https://sketchplanations.com/eat-food-not-too-much-mostly-plants) Drink lots of water. Limit coffee and tea. No sugar, except raw honey. No alcohol, except white or red wine.
 
