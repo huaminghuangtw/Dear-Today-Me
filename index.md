@@ -1,5 +1,5 @@
 ---
-modified: 2026-06-23
+modified: 2026-06-25
 ---
 
 Dear Today Me,
@@ -50,7 +50,7 @@ Try to learn something about everything and everything about something every day
 
 Question every rule. Always dig deeper. Doubt everything. Remove all labels.
 
-[Don’t believe everything you believe now.](https://www.goodreads.com/work/quotes/95742516-don-t-believe-everything-you-think-why-your-thinking-is-the-beginning) No beliefs are true. [What you see is not all there is.](https://www.google.com/search?q=What+you+see+is+not+all+there+is.) [Avoid the trap of expertise and experience.](https://hbr.org/podcast/2019/04/avoiding-the-expertise-trap)
+[Don’t believe everything you believe now.](https://www.goodreads.com/work/quotes/95742516-don-t-believe-everything-you-think-why-your-thinking-is-the-beginning) No beliefs are true. [What you see is not all there is.](https://www.google.com/search?q=What+you+see+is+not+all+there+is.) Everything you hear is an opinion, not a fact. Everything you see is a perspective, not the truth. [Avoid the trap of expertise and experience.](https://hbr.org/podcast/2019/04/avoiding-the-expertise-trap)
 
 Be ready to transform yourself completely into another person, and be ready to be in an internal state of self-revolution at any time. Strong opinions, loosely held. Be dynamic, flexible, and open-minded. [Don’t get married to past views.](https://m.youtube.com/watch?v=m4RVTK7iU1c) Stay curious.
 
