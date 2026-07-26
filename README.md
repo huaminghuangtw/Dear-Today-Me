@@ -32,9 +32,9 @@ Inspired by [Marcus Aurelius](https://www.goodreads.com/quotes/8177571-at-dawn-w
 Show a random excerpt from the letter on your Lock Screen.
 
 <p align="center">
-<a href="assets/notification.png">
+<a href="https://media.huam.ing/image/f56c788cc21373f7bf6b98610a002c2e.webp">
 <kbd>
-<img src="assets/notification.png"/>
+<img src="https://media.huam.ing/image/f56c788cc21373f7bf6b98610a002c2e.webp"/>
 </kbd>
 </a>
 </p>
@@ -55,9 +55,9 @@ Show a random excerpt from the letter on your Lock Screen.
 Show a random excerpt from the letter on your Home Screen.
 
 <p align="center">
-<a href="assets/widget.png">
+<a href="https://media.huam.ing/image/bbdaa42091133be6450262203b77f413.webp">
 <kbd>
-<img src="assets/widget.png"/>
+<img src="https://media.huam.ing/image/bbdaa42091133be6450262203b77f413.webp"/>
 </kbd>
 </a>
 </p>
@@ -79,9 +79,9 @@ Show a random excerpt from the letter on your Home Screen.
 If you use [Obsidian](https://obsidian.md), you can show a random excerpt from the letter in a [callout](https://help.obsidian.md/Editing+and+formatting/Callouts) with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin.
 
 <p align="center">
-<a href="assets/dashboard.png">
+<a href="https://media.huam.ing/image/38e04cc8c224890e2e96b24dbe106f20.webp">
 <kbd>
-<img src="assets/dashboard.png"/>
+<img src="https://media.huam.ing/image/38e04cc8c224890e2e96b24dbe106f20.webp"/>
 </kbd>
 </a>
 </p>
