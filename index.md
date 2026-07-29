@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-13
+modified: 2026-07-29
 ---
 
 Dear Today Me,
@@ -160,7 +160,7 @@ Be very biased toward execution. Set 5-year goals, but take 10-minute actions. T
 
 Knowledge is useless until you act on it. It’s not enough to know something. You have to turn that knowledge into action.
 
-Everything good in life is a byproduct of action. Information is abundant, action is hard. Ideas are easy. It’s the execution of ideas that really separates the sheep from the goats.
+Everything good in life is a byproduct of action. Information is abundant, action is hard. Ideas are cheap. It’s the execution of ideas that really separates the sheep from the goats.
 
 Remember: Talk does not cook rice. You are what you do, not what you say you’ll do. You can’t build a reputation on what you’re going to do.
 
