@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-29
+modified: 2026-07-30
 ---
 
 Dear Today Me,
@@ -112,7 +112,7 @@ Life goes on. You got to keep moving, keep improving, keep exploring, and keep e
 
 [Explore](https://terrytao.wordpress.com/career-advice/dont-be-afraid-to-learn-things-outside-your-field/), Discover, Try, Fail, Disappoint, Get lost, Suffer, Ask, Get feedback, Learn, Grow, Iterate, and Repeat. Hand and head work together. [You can’t connect the dots looking forward; you can only connect them looking backwards.](https://www.goodreads.com/quotes/463176-you-can-t-connect-the-dots-looking-forward-you-can-only)
 
-Leave your comfort zone. Life begins at the end of the comfort zone. [Don’t always play safe. Don’t always stick to what you already know.](https://youtu.be/jE-vY5-3zhU?t=35m18s) Take as much calculated risk as you can afford.
+Leave your comfort zone. Life begins at the end of the comfort zone. [Don’t always play safe. Don’t always stick to what you already know.](https://youtu.be/jE-vY5-3zhU?t=35m18s) Take as much calculated risk as you can afford. [Your success depends on the risks you take. Your survival depends on the risks you avoid.](https://jamesclear.com/quotes/your-success-depends-on-the-risks-you-take)
 
 Step into the unknown. Sit with the discomfort. Remember, if you are not failing occasionally, you are probably being too conservative. Taking no risk is the biggest risk you can take.
 
