@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-30
+modified: 2026-07-31
 ---
 
 Dear Today Me,
@@ -18,7 +18,7 @@ Never do half-reps. [If you’re half in, you’re actually all out.](https://x.
 
 [Follow your obsession.](https://x.com/zachpogrob) [Try to be legendary in your own way.](https://youtu.be/Ju5kyQJyGBY) Few people get remembered hundreds of years after they die. Live a life worth remembering. [You have nothing to lose.](https://youtu.be/EBtX9vh9KI4) You only lose what you cling to.
 
-Do not limit or cage yourself. You are capable of much more than you could imagine.
+Do not limit or cage yourself. Your past doesn’t determine your future. You are capable of much more than you could imagine.
 
 Old ways won’t open new doors. [What got you here won’t get you there.](https://www.goodreads.com/work/quotes/81594-what-got-you-here-won-t-get-you-there) [If you always do what you’ve always done, you’ll always get what you’ve always got.](https://www.goodreads.com/quotes/904186-if-you-always-do-what-you-ve-always-done-you-ll-always) If you want something you’ve never had, you must be willing to do something you’ve never done.
 
