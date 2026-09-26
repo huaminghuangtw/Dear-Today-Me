@@ -10,9 +10,7 @@ This repo maintains a letter to my present self from Better Me. The ideas in the
 
 To help you use the letter in your daily life. I built the following tools:
 
-### For 👂
-
-#### Apple Shortcut
+### 1. Apple Shortcut
 
 Inspired by [Marcus Aurelius](https://www.goodreads.com/quotes/8177571-at-dawn-when-you-have-trouble-getting-out-of-bed), this shortcut reads the letter to you out loud, like a personal life coach in your pocket.
 
@@ -25,32 +23,7 @@ Inspired by [Marcus Aurelius](https://www.goodreads.com/quotes/8177571-at-dawn-w
 
 </details>
 
-### For 👀
-
-#### Scheduled Notification
-
-Show a random excerpt from the letter on your Lock Screen.
-
-<p align="center">
-<a href="https://media.huam.ing/image/f56c788cc21373f7bf6b98610a002c2e.webp">
-<kbd>
-<img src="https://media.huam.ing/image/f56c788cc21373f7bf6b98610a002c2e.webp"/>
-</kbd>
-</a>
-</p>
-
-<details>
-<summary>Setup</summary>
-
-1. [Download the shortcut](https://shortcutomation.com/dear-today-me/).
-2. In the Shortcuts app, go to the **Automation** tab.
-3. Tap `+` to make a new automation.
-4. Pick a trigger, like **Time of Day**, and set a time.
-5. Find and select the shortcut to run.
-
-</details>
-
-#### Scriptable Widget
+### 2. Scriptable Widget
 
 Show a random excerpt from the letter on your Home Screen.
 
@@ -74,25 +47,6 @@ Show a random excerpt from the letter on your Home Screen.
 > [!TIP]
 > _[Check out](https://github.com/huaminghuangtw/Scriptable) my other repository for customizable notifications and widgets created with [Scriptable](https://scriptable.app)!_
 
-#### Obsidian Callout
-
-If you use [Obsidian](https://obsidian.md), you can show a random excerpt from the letter in a [callout](https://help.obsidian.md/Editing+and+formatting/Callouts) with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin.
-
-<p align="center">
-<a href="https://media.huam.ing/image/38e04cc8c224890e2e96b24dbe106f20.webp">
-<kbd>
-<img src="https://media.huam.ing/image/38e04cc8c224890e2e96b24dbe106f20.webp"/>
-</kbd>
-</a>
-</p>
-
-<details>
-<summary>Setup</summary>
-
-1. Install the [Dataview plugin](https://github.com/blacksmithgu/obsidian-dataview) in Obsidian.
-2. [Copy the code](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md) and paste it into a note.
-
-</details>
 
 ## Support
 
