@@ -28,11 +28,7 @@ Inspired by [Marcus Aurelius](https://www.goodreads.com/quotes/8177571-at-dawn-w
 Show a random excerpt from the letter on your Home Screen.
 
 <p align="center">
-<a href="https://media.huam.ing/image/bbdaa42091133be6450262203b77f413.webp">
-<kbd>
-<img src="https://media.huam.ing/image/bbdaa42091133be6450262203b77f413.webp"/>
-</kbd>
-</a>
+<a href="https://media.huam.ing/image/bbdaa42091133be6450262203b77f413.webp"><kbd><img src="https://media.huam.ing/image/bbdaa42091133be6450262203b77f413.webp"/></kbd></a>
 </p>
 
 <details>
@@ -46,7 +42,6 @@ Show a random excerpt from the letter on your Home Screen.
 
 > [!TIP]
 > _[Check out](https://github.com/huaminghuangtw/Scriptable) my other repository for customizable notifications and widgets created with [Scriptable](https://scriptable.app)!_
-
 
 ## Support
 
