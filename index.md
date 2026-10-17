@@ -1,5 +1,5 @@
 ---
-modified: 2026-08-24
+modified: 2026-10-17
 ---
 
 Dear Today Me,
@@ -212,7 +212,7 @@ Stop avoiding the uncomfortable work you need to do. Do what scares you; what yo
 
 Your greatest dreams are all on the other side of the wall of fear and caution. Gather information and confront your fears.
 
-Don’t wait. Don’t tell yourself you’ll warm up to it. Do it now. Do it first. The time will never be just right. There’s no perfect moment. [You will never be younger than you are right now.](https://jamesclear.com/3-2-1/november-7-2024)
+Don’t wait. Don’t tell yourself you’ll warm up to it. Do it now. Do it first. The time will never be just right. There’s no perfect moment. [You will never be younger than you are right now.](https://jamesclear.com/3-2-1/november-7-2024) Today, you have 100% of your life left.
 
 [Discipline now, freedom later.](https://x.com/RyanHoliday/status/1698727749165387969) Hard now, easy later. [Only the disciplined ones in life are free.](https://www.youtube.com/shorts/hywDs1dhTOI) The labor will pass, but the rewards will last.
 
