@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-17
+modified: 2026-11-17
 ---
 
 Dear Today Me,
@@ -86,7 +86,7 @@ If you spend your time chasing butterflies, they’ll fly away. But if you spend
 
 [You should be too busy working on your grass to notice others is greener.](https://www.reddit.com/r/GetMotivated/comments/fk2pol/image_im_too_busy_working_on_my_own_grass_to/) [Let the improvement of yourself keep you so busy that you have no time to criticize others.](app://obsidian.md/%5Bhttps://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that%5D(https://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that)) Focus on bettering yourself. Water your own grass. The grass is always greener where you water it.
 
-Just do yourself. Be who you were created to be. [No one will ever be as good at being you than you are. No one can compete with you on being you.](https://x.com/naval/status/797865441783709696?lang=en) The only person you have to compete against is yourself.
+Just do yourself. Be who you were created to be. [No one will ever be as good at being you than you are. No one can compete with you on being you.](https://x.com/naval/status/797865441783709696) The only person you have to compete against is yourself.
 
 Focus on the internal scorecard, not the external validation. Be primarily internally driven. You don’t need to impress anyone but yourself. You become inhumanly strong when you try to impress only one person: YOU. You are always going to win the “YOU” game.
 
@@ -180,7 +180,7 @@ In the mean time, try to accomplish things with the least amount of effort. Find
 
 [Show your work.](https://austinkleon.com/show-your-work/) Share all ideas you have. Share a lot. Put them freely on the internet. [Open source your knowledge.](https://wiki.nikiv.dev) Give everything you have without any expectations in return.
 
-[Most of life is a search for who and what needs you the most.](https://x.com/naval/status/797865441783709696?lang=en) Serve for the community. Leave your legacy. Try your best to be useful and helpful to the society, the world, the universe. Your goal is to become a person of value, not a person of success. [One hand washes the other and together they get clean.](https://www.reddit.com/r/lifehacks/comments/1bgw44k/i_turned_72_today/) Help someone else. Inspire and help others, however you can. [It doesn’t matter how many people don’t get it. What matters is how many people do it.](https://tim.blog/2010/05/18/tim-ferriss-scam-practical-tactics-for-dealing-with-haters)
+[Most of life is a search for who and what needs you the most.](https://x.com/naval/status/797865441783709696) Serve for the community. Leave your legacy. Try your best to be useful and helpful to the society, the world, the universe. Your goal is to become a person of value, not a person of success. [One hand washes the other and together they get clean.](https://www.reddit.com/r/lifehacks/comments/1bgw44k/i_turned_72_today/) Help someone else. Inspire and help others, however you can. [It doesn’t matter how many people don’t get it. What matters is how many people do it.](https://tim.blog/2010/05/18/tim-ferriss-scam-practical-tactics-for-dealing-with-haters)
 
 You are playing an infinite and lifelong game. Everything important is uncertain. Nothing worthwhile comes easy. Nothing meaningful in life is easy. Nothing easy in life is meaningful. Everything worth doing takes longer than you think. If it’s worth doing, it’s worth doing very well.
 
@@ -298,7 +298,7 @@ Learn to enjoy every minute of your life. Be happy now. Don’t wait for somethi
 
 Even if you don’t have all the things you want, be grateful for the things you don’t have that you don’t want.
 
-[If you’re going to pursue “more”, remember to keep your life balanced, especially in terms of your health and relationships.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Don’t let the pursuit of more stop you from enjoying what you already have.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Never let the quest for more distract you from the beauty of enough.](https://x.com/SahilBloom/status/1607057493762658306?lang=en) Enough is enough. Moderation and harmony is key. Everything in balance. Find the sweet spot.
+[If you’re going to pursue “more”, remember to keep your life balanced, especially in terms of your health and relationships.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Don’t let the pursuit of more stop you from enjoying what you already have.](https://aliabdaal.com/newsletter/30-lessons-for-my-30s/) [Never let the quest for more distract you from the beauty of enough.](https://x.com/SahilBloom/status/1607057493762658306) Enough is enough. Moderation and harmony is key. Everything in balance. Find the sweet spot.
 
 [Life is only 4000 weeks long.](https://www.amazon.de/-/en/Oliver-Burkeman/dp/0374159122) Make the rest of your life the best of your life. [Don’t live the same year 75 times and call it a life.](https://www.goodreads.com/quotes/1346035-don-t-live-the-same-year-75-times-and-call-it) Inject some planned spontaneity and adventures into your days. Every time you do something that is one less time you could do it — cherish every moment of your life like it is your last — because it very likely might be. Every single thing you do today is something that your ninety-year-old self would wish they could go back and do. The good old days are happening RIGHT NOW.
 
