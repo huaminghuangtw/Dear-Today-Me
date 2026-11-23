@@ -1,5 +1,5 @@
 ---
-modified: 2026-11-17
+modified: 2026-11-21
 ---
 
 Dear Today Me,
@@ -276,7 +276,7 @@ Take more breaks, but not too long. Learn to rest, but not quit. [It’s always 
 
 Rest in the end, not in the middle. [Stop when you are done, not when you are tired.](https://www.goodreads.com/book/show/41721428-can-t-hurt-me) [It ain’t over until it’s over.](https://youtu.be/TmENMZFUU_0) Be like a postage stamp. Stick to it until you get there.
 
-Do yoga, stretching, foam roller massage, and a lot of heat-cold contrast therapy as often as you can. They reduce your muscle tension, anxiety, or stress, both mentally and physically, and could help you to relax for better productivity and creativity.
+Do yoga, stretching, foam roller massage, and a lot of heat-cold contrast therapy as often as you can. They reduce your muscle tension, anxiety, stress, mentally and physically.
 
 Fast as often as you can. Only eat when you are hungry. Eat when you are ready to eat. Eat exactly what your body needs. Stop eating when you are eighty percent full.
 
